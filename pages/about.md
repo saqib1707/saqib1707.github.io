@@ -1,10 +1,11 @@
 ---
 layout: page
-title: about
-description: My name is Saqib and I’m a senior undergraduate pursuing Electrical Engineering, alongside a minor in Computer Science & Engineering, at the [Indian Institute of Technology Bombay](http://iitb.ac.in/)
+title: Bio
+description: About me
 ---
 
-To get a better insight on my life, you can have a look at my [curriculum vitae](({{BASE_PATH}}/assets/saqib_cv.pdf)), research or my [Github profile](https://github.com/saqib1707). Feel free to read a bit more [about me]()
+My name is Saqib and I’m a senior undergraduate pursuing Electrical Engineering, alongside a minor in Computer Science & Engineering, at the [Indian Institute of Technology Bombay](http://iitb.ac.in/)<br>
+To get a better insight on my life, you can have a look at my [curriculum vitae](({{BASE_PATH}}/assets/saqib_cv.pdf)), research or my [Github profile](https://github.com/saqib1707). Feel free to read a bit more [about me]()<br>
 <!-- Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
@@ -49,30 +50,35 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
 ---
 
 <div class="container">
-<h4><a name="contact"></a>Contact</h4>
-
+<h4><a name="contact"></a></h4>
     <div class="row-fluid">
         <div class="span5">
+            Saqib Azim <br/>
+            Official Email : <a href="mailto:saqib_azim@iitb.ac.in">saqib undersore azim at iitb.ac.in</a> <br/>
+            Alternate Email : <a href="mailto:azimsaqib10@gmail.com">azimsaqib10 at gmail.com</a>   
+        </div>
+        <!-- <div class="span5">
             Saqib Azim<br/>
-            <!-- <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
+            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
             <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
             <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
             425 Henry Mall<br/>
             Madison, Wisconsin 53706<br/>
-            USA<br/><br/> -->
-
+            USA<br/><br/>
             <div id="hide_email">
             Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
             </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
             </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             Phone: 608-262-4633
             </div>
-        </div>
-
-        <div class="span2">
+        </div> -->
+        <!-- <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
             <img src="../assets/pics/karl_2014-03-30_small.jpg"
                   title="Karl Broman" alt="Karl Broman"/></a>
+        </div> -->
+        <div class="span2">
+          <a href="https://github.com/saqib1707">saqib1707</a>
         </div>
     </div>
 </div>

@@ -56,12 +56,13 @@ To get a better insight on my life, you can have a look at my [curriculum vitae]
 </div>
  -->
 
- <div class="container">
+<div class="container">
 <h4><a name="contact"></a></h4>
     <div class="row-fluid">
         <div class="span5">
             Saqib Azim <br/>
-            Email : azimsaqib10@gmail.com
+            Official Email : <a href="mailto:saqib_azim@iitb.ac.in">saqib undersore azim at iitb.ac.in</a> <br/>
+            Alternate Email : <a href="mailto:azimsaqib10@gmail.com">azimsaqib10 at gmail.com</a>   
         </div>
         <!-- <div class="span5">
             Saqib Azim<br/>
