@@ -5,7 +5,7 @@ description: About me
 ---
 
 My name is Saqib and I’m a senior undergraduate pursuing Electrical Engineering, alongside a minor in Computer Science & Engineering, at the [Indian Institute of Technology Bombay](http://iitb.ac.in/)<br>
-To get a better insight on my life, you can have a look at my [curriculum vitae](({{BASE_PATH}}/assets/saqib_cv.pdf)), research or my [Github profile](https://github.com/saqib1707). Feel free to read a bit more [about me]()<br>
+To get a better insight on my life, you can have a look at my [curriculum vitae](({{BASE_PATH}}/assets/cv411.pdf)), research or my [Github profile](https://github.com/saqib1707). Feel free to read a bit more [about me]()<br>
 <!-- Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
@@ -54,7 +54,7 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
     <div class="row-fluid">
         <div class="span5">
             Saqib Azim <br/>
-            Official Email : <a href="mailto:saqib_azim@iitb.ac.in">saqib undersore azim at iitb.ac.in</a> <br/>
+            Official Email : <a href="mailto:saqib_azim@iitb.ac.in">saqib_azim at iitb.ac.in</a> <br/>
             Alternate Email : <a href="mailto:azimsaqib10@gmail.com">azimsaqib10 at gmail.com</a>   
         </div>
         <!-- <div class="span5">
