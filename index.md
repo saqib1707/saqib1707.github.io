@@ -1,12 +1,12 @@
 ---
 layout: frontpage
-title: Saqib Azim
+title: Home
 description: My personal website
 keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
-
-My name is Saqib and I’m a senior undergraduate pursuing Electrical Engineering, alongside a minor in Computer Science & Engineering, at the [Indian Institute of Technology Bombay](http://iitb.ac.in/). <br/>
-To get a better insight on my life, you can have a look at my [curriculum vitae]({{BASE_PATH}}/assets/cv411.pdf), research or my [Github profile](https://github.com/saqib1707). Feel free to read a bit more [about me](). <br/>
+* Hello world! Welcome to my little corner of the internet
+* My name is Saqib and I’m a senior undergraduate pursuing Electrical Engineering, alongside a minor in Computer Science & Engineering, at the [Indian Institute of Technology, Bombay](http://iitb.ac.in/).
+* To get a better insight on my life, you can have a look at my [curriculum vitae]({{BASE_PATH}}/assets/cv411.pdf), research or my [Github profile](https://github.com/saqib1707). Feel free to read a bit more [about me]().
 
 <!-- <div class="navbar">
   <div class="navbar-inner">  
