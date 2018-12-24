@@ -61,18 +61,29 @@
       <h4><a name="contact"></a></h4>
       <div class="row-fluid">
           <div class="span9" font-size="large">
-              Saqib Azim <br/>
-              <a href="mailto:saqib_azim@iitb.ac.in">saqib_azim[At]iitb.ac.in</a> <br/>
-              <a href="mailto:azimsaqib10@gmail.com">azimsaqib10[At]gmail.com</a>
+              <ul class="contact-list">
+                <li>{{ site.title }}</li>
+                <li><a href="mailto:{{ site.email1 }}">saqib_azim[At]iitb.ac.in</a></li>
+                <li><a href="mailto:{{ site.email2 }}">azimsaqib10[At]gmail.com</a></li>
+              </ul>
           </div>
           <div class="span3" float="right" margin-left="auto" margin-right=0 vertical-align="middle" font-size="large">
-            <a href="https://github.com/saqib1707" float="right" margin-left="auto" margin-right=0 vertical-align="middle" font-size="large">
-              <img src="{{ BASE_PATH }}/assets/github_icon.ico" alt="Github Logo" title="Saqib's Github"> saqib1707
-            </a>
-            <br>
-            <a href="https://www.linkedin.com/in/saqib-azim-760632126/" float="right" margin-left="auto" margin-right=0 vertical-align="middle" font-size="large">
-              <img src="{{ BASE_PATH }}/assets/linkedin_icon.ico" alt="LinkedIn Logo" title="Saqib's Linkedin"> Saqib Azim
-            </a>
+            <ul class="social-media-list">
+              <li>
+                <a href="https://github.com/{{ site.github_username }}" float="right" margin-left="auto" margin-right=0 vertical-align="middle" font-size="large">
+                    <img src="{{ BASE_PATH }}/assets/github_icon.ico" alt="Github Logo" title="Saqib's Github"> {{ site.github_username }}
+                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" float="right" margin-left="auto" margin-right=0 vertical-align="middle" font-size="large">
+                  <img src="{{ BASE_PATH }}/assets/linkedin_icon.ico" alt="LinkedIn Logo" title="Saqib's Linkedin"> {{ site.name }}
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/saqib1707" float="right" margin-left="auto" margin-right=0 vertical-align="middle" font-size="large">
+                  <img src="{{ BASE_PATH }}/assets/facebook_icon.ico" alt="Facebook Logo" title="Saqib's Facebook"> Saqib Azim
+                </a>
+              </li>
           </div>
       </div>
     </div>
