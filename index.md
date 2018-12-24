@@ -63,8 +63,8 @@ To get a better insight on my life, you can have a look at my [curriculum vitae]
     <div class="row-fluid">
         <div class="span5">
             Saqib Azim <br/>
-            Official Email : <a href="mailto:saqib_azim@iitb.ac.in">saqib undersore azim at iitb.ac.in</a> <br/>
-            Alternate Email : <a href="mailto:azimsaqib10@gmail.com">azimsaqib10 at gmail.com</a>   
+            Official Email : <a href="mailto:saqib_azim@iitb.ac.in">saqib_azim[At]iitb.ac.in</a> <br/>
+            Alternate Email : <a href="mailto:azimsaqib10@gmail.com">azimsaqib10[At]gmail.com</a>   
         </div>
         <!-- <div class="span5">
             Saqib Azim<br/>
