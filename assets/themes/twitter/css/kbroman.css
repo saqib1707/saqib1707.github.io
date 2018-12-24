@@ -70,3 +70,9 @@ td.right {
 h1, h2, h3, h4 {
     color: darkslateblue;
 }
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+}

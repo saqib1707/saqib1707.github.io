@@ -9,11 +9,11 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Saqib Azim
-author :
-name : Saqib Azim 
-email : saqib_azim@iitb.ac.in
-github : saqib1707
-# twitter : kwbroman
+# author :
+# name : Saqib Azim 
+# email : saqib_azim@iitb.ac.in
+# github : saqib1707
+# # twitter : kwbroman
 feedburner : nil
 
 # Site settings
