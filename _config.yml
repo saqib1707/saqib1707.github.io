@@ -10,11 +10,26 @@ highlighter: rouge
 #
 title : Saqib Azim
 author :
-  name : Saqib Azim 
-  email : saqib_azim@iitb.ac.in
-  github : saqib1707
-  # twitter : kwbroman
-  feedburner : nil
+name : Saqib Azim 
+email : saqib_azim@iitb.ac.in
+github : saqib1707
+# twitter : kwbroman
+feedburner : nil
+
+# Site settings
+full_name: Saqib Azim
+email1: saqib_azim@iitb.ac.in
+email2: azimsaqib10@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://saqib1707.github.io" # the base hostname & protocol for your site
+github_username:  saqib1707
+# twitter_username: kalpeshk2011
+linkedin_username: saqib-azim-760632126
+# stackoverflow: 5080995/martianwars
+include: ['_pages']
+footer-links-active:
+stackoverflow: true
 
 production_url : https://saqib1707.github.io
 
