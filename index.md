@@ -4,11 +4,11 @@ title: Home
 description: My personal website
 keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
-<p>Hello world! Welcome to my little corner of the internet.</p>
+Hello world! Welcome to my little corner of the internet.<br>
 
-<p>My name is Saqib and I’m a senior undergraduate pursuing Electrical Engineering, alongside a minor in Computer Science & Engineering, at the [Indian Institute of Technology, Bombay](http://iitb.ac.in/).</p>
+My name is Saqib and I’m a senior undergraduate pursuing Electrical Engineering, alongside a minor in Computer Science & Engineering, at the [Indian Institute of Technology, Bombay](http://iitb.ac.in/).<br>
 
-<p>To get a better insight on my life, you can have a look at my [curriculum vitae]({{BASE_PATH}}/assets/cv411.pdf), research or my [Github profile](https://github.com/saqib1707). Feel free to read a bit more [about me]().</p>
+To get a better insight on my life, you can have a look at my [curriculum vitae]({{BASE_PATH}}/assets/cv411.pdf), research or my [Github profile](https://github.com/saqib1707). Feel free to read a bit more [about me]().<br>
 
 <!-- <div class="navbar">
   <div class="navbar-inner">  
@@ -86,7 +86,7 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
             <img src="../assets/pics/karl_2014-03-30_small.jpg"
                   title="Karl Broman" alt="Karl Broman"/></a>
         </div> -->
-        <div class="span2">
+        <div class="span1">
           <a href="https://github.com/saqib1707">saqib1707</a>
         </div>
     </div>
