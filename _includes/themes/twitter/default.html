@@ -60,9 +60,9 @@
     <div class="container-narrow">
       <h4><a name="contact"></a></h4>
       <div class="row-fluid">
-          <div class="span9" font-size="large">
+          <div class="span9">
               <ul class="contact-list">
-                <li>{{ site.title }}</li>
+                <li>{{ site.full_name }}</li>
                 <li><a href="mailto:{{ site.email1 }}">saqib_azim[At]iitb.ac.in</a></li>
                 <li><a href="mailto:{{ site.email2 }}">azimsaqib10[At]gmail.com</a></li>
               </ul>
@@ -76,12 +76,12 @@
               </li>
               <li>
                 <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" float="right" margin-left="auto" margin-right=0 vertical-align="middle" font-size="large">
-                  <img src="{{ BASE_PATH }}/assets/linkedin_icon.ico" alt="LinkedIn Logo" title="Saqib's Linkedin"> {{ site.name }}
+                  <img src="{{ BASE_PATH }}/assets/linkedin_icon.ico" alt="LinkedIn Logo" title="Saqib's Linkedin"> {{ site.full_name }}
                 </a>
               </li>
               <li>
-                <a href="https://www.facebook.com/saqib1707" float="right" margin-left="auto" margin-right=0 vertical-align="middle" font-size="large">
-                  <img src="{{ BASE_PATH }}/assets/facebook_icon.ico" alt="Facebook Logo" title="Saqib's Facebook"> Saqib Azim
+                <a href="https://www.facebook.com/{{ site.facebook_username }}" float="right" margin-left="auto" margin-right=0 vertical-align="middle" font-size="large">
+                  <img src="{{ BASE_PATH }}/assets/facebook_icon.ico" alt="Facebook Logo" title="Saqib's Facebook"> {{ site.full_name }}
                 </a>
               </li>
           </div>
