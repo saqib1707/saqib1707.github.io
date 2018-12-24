@@ -6,6 +6,10 @@ code {
   border: 0px solid white;
 }
 
+div{
+  font-size: large;
+}
+
 a code {
     color: #slateblue;
 }
