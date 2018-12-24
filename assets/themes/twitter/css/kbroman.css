@@ -77,10 +77,10 @@ h1, h2, h3, h4 {
     margin-left: 0;
 }
 
-.site-footer {
+/*.site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
-}
+}*/
 
 /*.footer-col-wrapper {
     font-size: 15px;
