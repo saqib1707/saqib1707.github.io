@@ -76,3 +76,7 @@ h1, h2, h3, h4 {
     list-style: none;
     margin-left: 0;
 }
+
+.site-footer{
+  font-size: 10px;
+}
