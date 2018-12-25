@@ -6,9 +6,9 @@ description: Saqib Azim's Research
 
 My interests span a breadth of fields including perception, mapping and control with respect to robotics, computational imaging and statistical learning. I am fascinated by the propects of combining modern learning methods with model-based approaches to achieve robust real-world systems.
 
-### Patents Filed
+<!-- ### Patents Filed
 #### 2018
-* Pranav Sankhe, **Saqib Azim** and Sachin Goyal, "Indoor Positioning System using LSTMs over WLAN Network", Indian Patent Filed with Application No. 201821047043.
+* Pranav Sankhe, **Saqib Azim** and Sachin Goyal, "Indoor Positioning System using LSTMs over WLAN Network", Indian Patent Filed with Application No. 201821047043. -->
 
 ### Publications
 #### 2019
