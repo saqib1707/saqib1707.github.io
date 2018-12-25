@@ -77,6 +77,11 @@ h1, h2, h3, h4 {
     margin-left: 0;
 }
 
+.list-element{
+  margin-right: 0px;
+  margin-left: auto;
+}
+
 .site-footer{
   font-size: 10px;
 }
