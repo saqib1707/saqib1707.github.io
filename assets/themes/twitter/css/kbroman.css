@@ -83,6 +83,6 @@ h1, h2, h3, h4 {
   margin-left: auto;
 }
 
-/*.site-footer{
-  font-size: 20px;
-}*/
+.site-footer{
+  font-size: large;
+}
