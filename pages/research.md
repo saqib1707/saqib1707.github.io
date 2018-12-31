@@ -12,6 +12,6 @@ My interests span a breadth of fields including perception, mapping and control 
 
 ### Publications
 #### 2019
-* Indoor Positioning System using LSTM over WLAN network [![GitHub Logo]({{BASE_PATH}}/assets/pdf_favicon.ico)]({{BASE_PATH}}/assets/Indoor_Positioning_System_using_LSTMs_over_WLAN_Network.pdf)<br>
+* Indoor Positioning System using LSTMs over WLAN network [![GitHub Logo]({{BASE_PATH}}/assets/pdf_favicon.ico)]({{BASE_PATH}}/assets/Indoor_Positioning_System_using_LSTMs_over_WLAN_Network.pdf)<br>
 Pranav Sankhe, **Saqib Azim**, Sachin Goyal, Tanya Choudhary, Kumar Appaiah and Sukumar Srikant<br>
 _Submitted to IEEE International Conference on Communications (ICC) 2019_<br>
