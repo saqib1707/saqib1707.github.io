@@ -75,7 +75,7 @@ h1, h2, h3, h4 {
 .social-media-list {
     list-style: none;
     margin-left: 0;
-    font-size:large;
+    /*font-size:large;*/
 }
 
 .list-element{
@@ -84,5 +84,5 @@ h1, h2, h3, h4 {
 }
 
 .site-footer{
-  font-size: large;
+  font-size: medium;
 }
