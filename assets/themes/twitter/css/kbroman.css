@@ -11,11 +11,6 @@ div{
   line-height: 1.5;
 }
 
-/*footer{
-  font-size: small;
-  line-height:1.0;
-}*/
-
 a code {
     color: #slateblue;
 }
@@ -66,7 +61,6 @@ td.right {
     display: none;
 }
 
-
 h1, h2, h3, h4 {
     color: darkslateblue;
 }
@@ -83,9 +77,9 @@ h1, h2, h3, h4 {
   list-style: none;
 }
 
-.list-element{
+/*.list-element{
   margin-right: 0;
-}
+}*/
 
 .my_link{
   margin-right: 0;
