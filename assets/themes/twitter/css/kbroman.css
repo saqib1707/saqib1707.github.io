@@ -67,7 +67,7 @@ h1, h2, h3, h4 {
 
 .contact-list{
     list-style: none;
-    margin-left: 0;
+    margin-left: 100px;
     font-size:90%;
     border-style:solid;
     border-width:medium;
