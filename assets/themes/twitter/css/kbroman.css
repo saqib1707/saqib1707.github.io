@@ -67,7 +67,7 @@ h1, h2, h3, h4 {
 
 .contact-list{
     list-style: none;
-    margin-left: 100px;
+    margin-left: 0;
     font-size:90%;
     border-style:solid;
     border-width:medium;
@@ -82,13 +82,13 @@ h1, h2, h3, h4 {
   border-color:red;
 }
 
-.list-element{
+/*.list-element{
   margin-right: 0;
 }
-
+*/
 a.my_link{
   margin-right: 0;
-  text-align:right;
+  /*text-align:right;*/
 }
 
 /*.site-footer{
