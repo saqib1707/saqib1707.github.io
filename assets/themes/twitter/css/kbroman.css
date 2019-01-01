@@ -11,10 +11,9 @@ div{
   line-height: 1.5;
 }
 
-a.mylink{
+/*a.mylink{
   margin-right: 0;
-  /*text-align:right;*/
-}
+}*/
 
 a code {
     color: #slateblue;
@@ -74,18 +73,18 @@ h1, h2, h3, h4 {
     list-style: none;
     margin-left: 0;
     font-size:90%;
-    border-style:solid;
+    /*border-style:solid;
     border-width:medium;
-    border-color:white;
+    border-color:blue;*/
 }
 
 .social-media-list{
   margin-right: 0;
   font-size: 90%;
   list-style: none;
-  border-style:solid;
+ /* border-style:solid;
   border-width:medium;
-  border-color:blue;
+  border-color:blue;*/
 }
 
 /*.site-footer{
