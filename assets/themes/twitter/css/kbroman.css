@@ -76,7 +76,7 @@ h1, h2, h3, h4 {
     font-size:90%;
     border-style:solid;
     border-width:medium;
-    border-color:red;
+    border-color:white;
 }
 
 .social-media-list{
@@ -85,7 +85,7 @@ h1, h2, h3, h4 {
   list-style: none;
   border-style:solid;
   border-width:medium;
-  border-color:black;
+  border-color:blue;
 }
 
 /*.site-footer{
