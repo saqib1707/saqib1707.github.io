@@ -69,19 +69,23 @@ h1, h2, h3, h4 {
     list-style: none;
     margin-left: 0;
     font-size:90%;
+    border-style:solid;
+    border-width:medium;
 }
 
 .social-media-list{
   margin-right: 0;
   font-size: 90%;
   list-style: none;
+  border-style:solid;
+  border-width:medium;
 }
 
-/*.list-element{
+.list-element{
   margin-right: 0;
-}*/
+}
 
-.my_link{
+a.my_link{
   margin-right: 0;
 }
 
