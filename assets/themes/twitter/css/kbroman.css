@@ -84,8 +84,11 @@ h1, h2, h3, h4 {
 }
 
 .list-element{
-  margin-right: 0px;
-  margin-left: auto;
+  margin-right: 0;
+}
+
+.my_link{
+  margin-right: 0;
 }
 
 /*.site-footer{
