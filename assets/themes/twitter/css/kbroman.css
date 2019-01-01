@@ -79,6 +79,7 @@ h1, h2, h3, h4 {
   list-style: none;
   border-style:solid;
   border-width:medium;
+  border-color:red;
 }
 
 .list-element{
@@ -87,6 +88,7 @@ h1, h2, h3, h4 {
 
 a.my_link{
   margin-right: 0;
+  text-align:right;
 }
 
 /*.site-footer{
