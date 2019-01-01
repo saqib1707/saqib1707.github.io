@@ -8,9 +8,9 @@ My interests span a breadth of fields including perception, mapping and control 
 
 ### Patent Filed
 #### 2018
-* Indoor Positioning System using LSTMs over WLAN Network<br>
-Pranav Sankhe, **Saqib Azim** and Sachin Goyal<br>
-*Indian Patent Filed with Application No* 201821047043<br>
+* Indoor Positioning System using LSTMs over WLAN Network<br><br>
+Pranav Sankhe, **Saqib Azim** and Sachin Goyal<br><br>
+*Indian Patent Filed with Application No* 201821047043<br><br>
 
 ### Publications
 #### 2018
