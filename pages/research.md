@@ -5,7 +5,7 @@ description: Saqib Azim's Research
 ---
 
 <!-- #### Will be updated soon :) -->
-My interests span a breadth of fields including computer vision, machine and statistical learning, image processing, control with respect to robotics, computational imaging, etc.
+My interests span a breadth of fields including computer vision, statistical machine learning, image processing, control with respect to robotics, computational imaging, etc.
 
 ### Publications
 #### 2018
