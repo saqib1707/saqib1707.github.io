@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://saqib1707.github.io" # the base hostname & protocol for your site
 github_username:  saqib1707
 # twitter_username: kalpeshk2011
-# linkedin_username: kalpesh-krishna-6b3827a6
+linkedin_username: saqib-azim-760632126
 # stackoverflow: 5080995/martianwars
 include: ['_pages']
 footer-links-active:
