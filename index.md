@@ -3,9 +3,13 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
+<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/saqib1707_1.jpg">
 
 My name is Saqib Azim, and I am a research engineer at [Hitachi Central Research Lab]() in Tokyo, where I am advised by Dr. [Katsuyuki Nakamura](https://people.cs.umass.edu/~miyyer/) and Mr. Takumi Nito. I do my research in computer vision and deep learning.
+
+In the summer of 2018, I had the oppurtunity to work with [Dr. Shankar M Venkatesan](https://www.linkedin.com/in/shankar-venkatesan-7a849258/) in Advanced Technology Lab at [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b) on blackboard handwriting recognition using smartwatches. In 2017, I worked with [Prof. Subhasis Choudhary](https://www.ee.iitb.ac.in/~sc/main/main.html) in the Vision and Image Processing Lab at IIT Bombay on a beautiful and hot research topic of object recognition using Zero Shot Learning (ZSL) where we build models for recognizing unseen class objects (whose training examples the model has not seen during training).<br>
+
+I also joined an on-campus student-driven team, [Innovation Cell](http://www.umiciitb.com/), working in Driverless Cars where I was responsible for handling the vision and machine learning aspects of the driverless car which involved detecting roads, side-lanes, obstacles etc, in different conditions of light (dark night, sunlight as well as partial shadow conditions).<br>
 
 <!-- I received my undergraduate degree at [IIT Bombay](http://iitb.ac.in). In the past, I've spent some excellent summers at [Google Brain](https://research.google/teams/brain) (Summer 2020), [Google AI Language](https://ai.google/research/teams/language/) (Summer 2019), [Toyota Technological Institute at Chicago](https://www.ttic.edu/) (Summer 2017) and [Mozilla](https://www.mozilla.org/en-US/) (Summer 2016). -->
 
