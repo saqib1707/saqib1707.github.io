@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Research
+permalink: /research/
 description: Saqib Azim's Research
 ---
 
-<!-- #### Will be updated soon :) -->
 My interests span a breadth of fields including computer vision, statistical machine learning, image processing, robotics vision and control, computational imaging, etc.
 
-<!-- ### Publications
-#### 2018
-* Indoor Positioning System using LSTMs over WLAN network [![pdf Logo]({{BASE_PATH}}/assets/pdf_favicon.ico)]({{BASE_PATH}}/assets/Indoor_Positioning_System_using_LSTMs_over_WLAN_Network.pdf)<br>
-Pranav Sankhe, **Saqib Azim**, Sachin Goyal, Tanya Choudhary, Kumar Appaiah and Sukumar Srikant<br>
-_Submitted to IEEE International Conference on Communications (ICC) 2019_<br> -->
+### Publications
+[Indoor Distance Estimation using LSTMs over WLAN network]()  
+P. Sankhe, *S. Azim*, S. Goyal, T. Choudhary, K. Appaiah, S. Srikant
+**IEEE WPNC 2019**
+[arxiv](https://arxiv.org/abs/2010.05700) // [paper](https://ieeexplore.ieee.org/document/8970257) // [slides]({{site.url}}/assets/saqib1707_1.jpg)
 
 ### Patent Filed
 #### 2018
