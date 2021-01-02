@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    {% include head.html %}
+    {% include mathjax.html %}
+    {% seo %}
+    {% if page.image %}
+      <meta content="{{ page.image }}" property="og:image" />
+    {% else %}
+      <meta content="https://avatars0.githubusercontent.com/u/18272074" property="og:image" />
+    {% endif %}
+  </head>
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+    {% include analytics.html %}
+    <script id="dsq-count-scr" src="//http-saqib1707-github-io.disqus.com/count.js" async></script>
+  </body>
+
+</html>
