@@ -2,9 +2,6 @@
 layout: page
 ---
 {% include JB/setup %}
-<!-- <b>Email:</b> saqib.azim.no@hitachi.com -->
-<!-- <img style="float: right; width: 40%; padding: 5px; border-radius: 50%" src=" {{ site.url }}/assets/profile_pics/saqib1707_pic_1.jpg"> -->
-<!-- float: right; display: inline-block; position: relative;  -->
 <div style="float:right; display: inline-block; position: relative; width: 230px; height: 250px; padding: 5px;">
 	<div style="width: 200px; height: 200px; overflow: hidden; border-radius: 50%; margin-left: auto; margin-right: auto;">
 		<img style="width: auto; height: 100%;" src="https://avatars0.githubusercontent.com/u/18272074?s=400&u=59209b7d272a1e86a7547e24e29096722a6a0898&v=4">
@@ -14,7 +11,7 @@ layout: page
 	</div>
 </div>
 
-My name is Saqib Azim, and I am a researcher in the Intelligent Vision Research Dept. at [Hitachi Central Research Lab](https://www.hitachi.com/rd/index.html), Tokyo, advised by [Dr. Katsuyuki Nakamura](https://scholar.google.com/citations?user=ZIxQ5zAAAAAJ&hl=en) and Mr. Takumi Nito. I work in the areas of machine learning, computer vision. My research interests currently include machine learning, optimization, computer vision, robotics, signal and image processing.
+My name is Saqib Azim, and I am a researcher in the Intelligent Vision Research Dept. at [Hitachi Central Research Lab](https://www.hitachi.com/rd/index.html), Tokyo, advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito. I work in the areas of machine learning, computer vision. My research interests currently include machine learning, optimization, computer vision, robotics, signal and image processing.
 
 Prior to this, I graduated from [IIT Bombay](https://www.iitb.ac.in/), earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also spent time at [Samsung Research Institute](https://research.samsung.com/sri-b) (Summer 2018). 
 

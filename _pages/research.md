@@ -5,7 +5,7 @@ permalink: /research/
 description: Saqib Azim's Research
 ---
 
-My interests span a breadth of fields including machine learning, optimization, computer vision, robotics, image processing, etc. Below is a non-exclusive list of projects that I have worked on. More projects will be updated soon.
+My interests span a breadth of fields including machine learning, optimization, computer vision, robotics, image processing, etc. Below is a non-exclusive list of projects that I have worked on. Please have a look at my [CV]({{site.url/assets/CV/CV_short.pdf}}). More projects will be updated soon.
 
 <table width="100%" align="center" border="0" cellspacing="0"><tbody>
   <tr>
@@ -142,6 +142,37 @@ My interests span a breadth of fields including machine learning, optimization, 
 	</tr>
 	<tr>
 	<td class="projectWallpaper">
+      <!-- <a href="{{site.url}}/assets/pubs/btp_thesis.pdf" target="_blank"> -->
+        <img src='{{ site.url }}/assets/images/handwriting_recog_wallpaper.png' alt="LPS" width="100%">
+      <!-- </a> -->
+      <script type="text/javascript">
+        function inerf_start() {
+          document.getElementById('inerf_image').style.opacity = "1";
+        }
+        function inerf_stop() {
+          document.getElementById('inerf_image').style.opacity = "0";
+        }
+        inerf_stop()
+      </script>
+  	</td>
+  <td class="projectBody">
+    <!-- <a href="{{site.url}}/assets/pubs/btp_thesis.pdf"> -->
+      <papertitle>Handwritten Text Recognition using Smartwatch</papertitle>
+    <!-- </a> -->
+    <br><span class="brHeight"></span>
+    <div class="authorDetails">
+    	Student Research Fellow at <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bengaluru</a> advised by <a href="https://www.linkedin.com/in/shankar-venkatesan-7a849258/">Dr. Shankar Venkatesan</a>
+    	<!-- <br><span class="brHeight"></span> -->
+    <!-- <a href="{{site.url}}/assets/pubs/btp_thesis.pdf">thesis</a> / -->
+    <!-- <a href="{{site.url}}/assets/pubs/btp_presentation.pdf">slides</a> -->
+    </div>
+    <p></p>
+    <!-- <p>Given an image of an object and a NeRF of that object, you can estimate that object's pose.
+    </p> -->
+  </td>
+	</tr>
+	<tr>
+	<td class="projectWallpaper">
       <div>
         <img src='{{ site.url }}/assets/images/edl_wallpaper.png' alt="EDL" width="100%">
       </div>
@@ -168,7 +199,7 @@ My interests span a breadth of fields including machine learning, optimization, 
       <a href="https://sabsathai.github.io/">Pranav Sankhe</a>,
       Ritik Madan
       <br><span class="brHeight"></span>
-      <a href="{{site.url}}/assets/pubs/edl_report.pdf">Technical Report</a>
+      <a href="{{site.url}}/assets/pubs/edl_report.pdf">report</a>
     </div>
     <p></p>
     <!-- <p>Given an image of an object and a NeRF of that object, you can estimate that object's pose.
