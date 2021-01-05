@@ -5,9 +5,8 @@ permalink: /research/
 description: Saqib Azim's Research
 ---
 
-My interests span a breadth of fields including machine learning, optimization, computer vision, robotics, image processing, etc.
+My interests span a breadth of fields including machine learning, optimization, computer vision, robotics, image processing, etc. Below is a non-exclusive list of projects that I have worked on. More projects will be updated soon.
 
-<!--#### **Research Papers** -->
 <table width="100%" align="center" border="0" cellspacing="0"><tbody>
   <tr>
     <td>
@@ -58,7 +57,6 @@ My interests span a breadth of fields including machine learning, optimization, 
 </tbody>
 </table>
 
-<!-- #### **Patent** -->
 <table width="100%" align="center" border="0" cellspacing="0"><tbody>
   <tr>
     <td>
@@ -102,7 +100,6 @@ My interests span a breadth of fields including machine learning, optimization, 
 </tbody>
 </table>
 
-<!-- #### **Miscellaneous Projects** -->
 <table width="100%" align="center" border="0" cellspacing="0"><tbody>
   <tr>
     <td>
@@ -218,5 +215,4 @@ My interests span a breadth of fields including machine learning, optimization, 
 </tbody>
 </table>
 
-<!-- **Handwritten Character Recognition using Smartwatch** <br>
-*[Samsung Research Institute](https://research.samsung.com/sri-b) (Summer Internship 2018)*-->
+**More projects will be updated soon !!!**
