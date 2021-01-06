@@ -35,7 +35,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>Jul 2020:</b></td><td>Talk at <a href="">Hitachi AI Conference</a> on "Indoor Positioning Systems" (<a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">slides</a>)</td></tr>
+<tr><td><b>Jul 2020:</b></td><td>Talk at Hitachi AI Conference on Indoor Positioning Systems (<a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">slides</a>)</td></tr>
 <tr><td><b>Oct 2019:</b></td><td>Joined Intelligent Vision Research Group at <a href="https://www.hitachi.com/rd/index.html">Hitachi Central Research Lab</a> in Tokyo </td></tr>
 <tr><td><b>Sep 2019:</b></td><td><a href="https://ieeexplore.ieee.org/document/8970257">Paper</a> on Indoor Distance Estimation using LSTMs over WLAN network accepted at <a href="https://ieeexplore.ieee.org/xpl/conhome/8961320/proceeding">WPNC 2019</a></td></tr>
 <tr><td><b>Aug 2019:</b></td><td>Graduated from IIT Bombay, receiving the Undergraduate Research Award</td></tr>

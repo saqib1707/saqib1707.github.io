@@ -4,7 +4,7 @@ title: About
 description: Saqib Azim's Bio
 ---
 
-My name is Saqib Azim, and I am a researcher in the Intelligent Vision Research Department at [Hitachi Central Research Lab](https://www.hitachi.com/rd/), Tokyo. I am advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito, working in the area of computer vision and deep learning. My research interests lies in the areas of machine learning, optimization, computer vision, robotics, and image processing.
+My name is Saqib Azim, and I am a researcher in the Intelligent Vision Research Department at [Hitachi Central Research Lab](https://www.hitachi.com/rd/), Tokyo. I am advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito, working in the area of computer vision and deep learning. My research interests lies in the areas of machine learning and its inter-disciplinary applications, optimization, computer vision, robotics, signal and image processing.
 
 I graduated with a Bachelors in Electrical Engineering and a Minor in Computer Science from [IIT Bombay](http://www.iitb.ac.in) in 2019. I also received the Undergraduate Research Award 2019. During my undergraduate, I have worked on interesting research problems such as, Zero-Shot Learning for object recognition, Handwritten Text Recognition using Smartwatch, Indoor Positioning Systems, Compressed Sensing, Optimal Pursuer-Evader Shepherding Problem, etc.
 
