@@ -50,7 +50,7 @@ description: Saqib Azim's Miscellaneous Activities
   </tr>
   <tr>
     <td class="projectBody">
-      <papertitle>Mentor</papertitle>, <a href="">Institute Technical Summer Project, IIT Bombay</a><br>
+      <papertitle>Mentor</papertitle>, <a href="https://www.alumni.iitb.ac.in/en/newsletter-article/2017-06/institute-technical-summer-projects-itsp-kickstart">Institute Technical Summer Project '17, IIT Bombay</a><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
         <p>Guided 2 teams of UG students in building exciting and innovative ideas into working protoytpes over the course of summer</p>

@@ -5,7 +5,7 @@ permalink: /research/
 description: Saqib Azim's Research
 ---
 
-My research interests span a breadth of fields including machine learning, optimization, computer vision, robotics, signal and image processing, etc. Following is a non-exclusive list of my projects. Feel free to look at my [CV]({{site.url/assets/CV/CV_short.pdf}}). More details will be updated soon.
+My research interests span a breadth of fields including machine learning, optimization, computer vision, robotics, signal and image processing, etc. Following is a non-exclusive list of my projects. Feel free to look at my [CV]({{site.url}}/assets/CV/CV_short.pdf). More details will be updated soon.
 <br><span class="brHeight"></span>
 <p style="font-style: italic; font-size: small;">*Excluding my research contribution at Hitachi Research due to information security protocols</p>
 
@@ -173,13 +173,15 @@ My research interests span a breadth of fields including machine learning, optim
 			</script>
 		</td>
 		<td class="projectBody">
-			<a href="https://github.com/saqib1707/TV-Audience-Measurement"><papertitle>TV Audience Measurement Challenge</papertitle></a>
+			<a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf"><papertitle>TV Audience Measurement Challenge</papertitle></a>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
-				Bronze Medal (3<sup>rd</sup>/23 teams), Proposed solution for <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">various challenges</a> put forward by <a href="https://www.barcindia.co.in/">BARC India</a> at <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Tech Meet 2018</a><br>
-				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <a href="https://saching007.github.io/">Sachin Goyal</a>, Sanyam Khandelwal, Tanmay Patil
+				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <a href="https://saching007.github.io/">Sachin Goyal</a>, Sanyam Khandelwal, Tanmay Patil<br>
+				<em>Bronze Medal (3<sup>rd</sup> / 23 teams), <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">TV Audience Measurement Challenge</a>; Overall Gold for IIT Bombay, <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Tech Meet 2018</a></em>
 				<br><span class="brHeight"></span>
-				<a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">slides</a>
+				<a href="javascript:toggleblock('barc_interiit_abs')">abstract</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">slides</a><br>
+				<br><span class="brHeight"></span>
+				<p id="barc_interiit_abs" style="font-style:italic; display:none;">Proposed scalable and robust solutions for <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">various challenges</a> put forward by <a href="https://www.barcindia.co.in/">BARC India</a> such as channel identification, advertisement and content classification and recognition, age and gender recognition of viewers and providing hardware free solution in order to capture TV viewership data of the country</p>
 			</div>
 		</td>
 	</tr>
