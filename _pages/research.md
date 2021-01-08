@@ -71,7 +71,7 @@ My research interests span a breadth of fields including machine learning, optim
 	<tr>
 	<td class="projectWallpaper">
 		<div>
-			<img src='{{ site.url }}/assets/images/lps.PNG'>
+			<img src='{{ site.url }}/assets/images/lps_patent_wallpaper.png'>
 		</div>
 		<script type="text/javascript">
 			function inerf_start() {
@@ -177,7 +177,7 @@ My research interests span a breadth of fields including machine learning, optim
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <a href="https://saching007.github.io/">Sachin Goyal</a>, Sanyam Khandelwal, Tanmay Patil<br>
-				<em>Bronze Medal (3<sup>rd</sup> / 23 teams), <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">TV Audience Measurement Challenge</a>; Overall Gold for IIT Bombay, <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Tech Meet 2018</a></em>
+				<em>Bronze Medal (3<sup>rd</sup> / 23 teams), <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">TV Audience Measurement Challenge</a>; Overall Runner-up (2<sup>nd</sup> / 23 IITs), <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Tech Meet 2018</a></em>
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('barc_interiit_abs')">abstract</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">slides</a><br>
 				<br><span class="brHeight"></span>
