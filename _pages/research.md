@@ -36,7 +36,7 @@ My research interests span a breadth of fields including machine learning, optim
 	<tr>
 		<td class="projectWallpaper">
 			<div>
-				<img src='{{ site.url }}/assets/images/lps.PNG'>
+				<img src='{{ site.url }}/assets/images/lps_wallpaper.PNG'>
 			</div>
 		</td>
 		<td class="projectBody">
@@ -212,6 +212,35 @@ My research interests span a breadth of fields including machine learning, optim
 				<a href="javascript:toggleblock('edl_ppg_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/edl_report.pdf">report</a><br>
 				<br><span class="brHeight"></span>
 				<p id="edl_ppg_abs" style="font-style:italic; display:none;">A photoplethysmogram(PPG) is an optically obtained plethysmogram, a volumetric measurement of an organ. With each cardiac cycle the heart pumps blood to the periphery. The change in the volume caused by the blood is detected by illuminating the skin with IR light. We developed and implemented an electronic system to capture and display the PPG signal. We make infrared(IR) light incident on finger tip and measure the reflected IR light using a phototransistor which contains the PPG signal. The raw PPG signal is in the form of current output of the phototransistor, typically [0.2-0.4] mA, and we use a current to voltage converter to get the voltage signal. The raw PPG often has a large slowly varying baseline and it needs to be restored to optimally use the available ADC range. We carry out baseline restoration by controlling the bias voltage of the current injector using a microcontroller. We amplify the signal using a fixed value of gain resistor in the current to voltage converter. We also designed an auto-led intensity control to control the LED current and hence the emitted IR light in an effort to make the acquisition module adaptable to users with varying skin colours, motion artifacts etc. Finally we display the PPG signal on an android smartphone by transmitting the PPG signal over bluetooth.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/zsl_wallpaper.png' alt="EDL" width="100%">
+			</div>
+			<script type="text/javascript">
+				function inerf_start() {
+					document.getElementById('inerf_image').style.opacity = "1";
+				}
+				function inerf_stop() {
+					document.getElementById('inerf_image').style.opacity = "0";
+				}
+				inerf_stop()
+			</script>
+		</td>
+		<td class="projectBody">
+			<!-- <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf"> -->
+				<papertitle>Zero-Shot Learning for Object Recognition</papertitle>
+			<!-- </a> -->
+			<br><span class="brHeight"></span>
+			<div class="authorDetails">
+				<strong>Advisor: </strong> <a href="https://www.ee.iitb.ac.in/~sc/main/main.html">Prof. Subhasis Chaudhuri</a>
+				<br><span class="brHeight"></span>
+				<a href="javascript:toggleblock('zsl_abs')">abstract</a> / <a href="https://github.com/saqib1707/Zero-Shot-Learning">code</a><br>
+				<br><span class="brHeight"></span>
+				<p id="zsl_abs" style="font-style:italic; display:none;">Proposed a semi-supervised VGG16-based encoder-decoder network to learn visual-to-semantic space mapping using novel combination of margin-based hinge-rank loss and Word2Vec embeddings. Explored multiple networks for better visual feature representations. Achieved improvement in recognition performance from 58.7% to 65.3% on the Animals with Attributes dataset over existing methods. </p>
 			</div>
 		</td>
 	</tr>
