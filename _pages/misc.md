@@ -59,3 +59,28 @@ description: Saqib Azim's Miscellaneous Activities
   </tr>
 </tbody>
 </table>
+
+<table width="100%" align="center" border="0" cellspacing="0">
+<tbody>
+  <tr>
+    <td>
+      <heading>Open Source Contribution</heading>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
+<tbody>
+  <tr>
+    <td class="projectBody">
+      <papertitle><a href="https://kivy.org/#home"><b>Kivy</b></a>, <a href="http://kivent.org"><b>Kivent</b></a></papertitle> - open-source platform for innovative UI development<br>
+      <span class="brHeight"></span>
+      <div class="authorDetails">
+        <span class="brHeight"></span>
+        <p>Contributed to several projects in open-source platforms - Kivy, Kivent. Introduced new features, solved multiple development-related bugs and issues, worked on map development for game-engine interfaces</p>
+        <!-- <p>Contributed to several open source projects for Kivy. Merged 9 pull request (PR) to Kivy and 2 PR to Kivent. Introduced a new feature in Kivent to get tile index given the pixel values for orthogonal, isometric, staggered isometric and hexagonal game maps by analyzing their geometrical construction</p> -->
+      </div>
+    </td>
+  </tr>
+</tbody>
