@@ -7,7 +7,7 @@ layout: page
 		<img style="width: auto; height: 100%;" src="https://avatars0.githubusercontent.com/u/18272074?s=400&u=59209b7d272a1e86a7547e24e29096722a6a0898&v=4">
 	</div>
 	<div style="width: auto; height: auto; position: absolute; margin-left: 0px; margin-right: 0px; text-align: center; left:0; right:0; bottom: 0">
-		<a href="mailto: azimsaqib10@gmail.com"><b>Email</b></a> / <a href="{{site.url}}/assets/CV/CV_short.pdf"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqib-azim-760632126"><b>LinkedIn</b></a>
+		<a href="mailto: azimsaqib10@gmail.com"><b>Email</b></a> / <a href="{{site.url}}/assets/CV/CV_public.pdf"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqib-azim-760632126"><b>LinkedIn</b></a>
 	</div>
 </div>
 
@@ -35,6 +35,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Feb 2021:</b></td><td>Presented: Localization in dynamic scenarios using SLAM at Hitachi Kenron</td></tr>
 <tr><td><b>Jul 2020:</b></td><td>Talk at Hitachi AI Conference on Indoor Positioning Systems (<a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">slides</a>)</td></tr>
 <tr><td><b>Oct 2019:</b></td><td>Joined Intelligent Vision Research Group at <a href="https://www.hitachi.com/rd/index.html">Hitachi Central Research Lab</a> in Tokyo </td></tr>
 <tr><td><b>Sep 2019:</b></td><td><a href="https://ieeexplore.ieee.org/document/8970257">Paper</a> on Indoor Distance Estimation using LSTMs over WLAN network accepted at <a href="https://ieeexplore.ieee.org/xpl/conhome/8961320/proceeding">WPNC 2019</a></td></tr>
