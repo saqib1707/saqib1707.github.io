@@ -4,4 +4,4 @@ layout: not_required
 permalink: /cv/
 ---
 
-[4-page CV]({{ site.url }}/assets/cv.pdf)
+[4-page CV]({{ site.url }}/assets/CV_public.pdf)

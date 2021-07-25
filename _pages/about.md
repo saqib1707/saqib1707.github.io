@@ -13,4 +13,4 @@ I was advised by [Prof. Debraj Chakraborty](https://www.ee.iitb.ac.in/wiki/facul
 
 I have also been a part of a student-driven **Autonomous Driving Car** team at [Innovation Cell](http://www.umiciitb.com/), IIT Bombay, where I worked on vision and machine learning aspects of the driverless car involving detection of roads, side-lanes, obstacles, etc. under varying lighting conditions.
 
-To get an insight on my professional life so far, you can have a look at my [CV]({{site.url}}/assets/CV/CV_short.pdf). I’m happy to get in touch at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+To get an insight on my professional life so far, you can have a look at my [CV]({{site.url}}/assets/CV/CV_public.pdf). I’m happy to get in touch at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
