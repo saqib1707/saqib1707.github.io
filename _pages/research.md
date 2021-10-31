@@ -5,7 +5,7 @@ permalink: /research/
 description: Saqib Azim's Research
 ---
 
-My research interests span a breadth of fields including machine learning, optimization, computer vision, robotics, signal and image processing, etc. Following is a non-exclusive list of my projects. Feel free to look at my [CV]({{site.url}}/assets/CV/CV_public.pdf). More details will be updated soon.
+My research interests span a breadth of fields including machine learning, optimization, computer vision, signal and image processing, etc. Following is a non-exclusive list of my projects. Feel free to look at my [CV]({{site.url}}/assets/CV/CV_public.pdf). More details will be updated soon.
 <br><span class="brHeight"></span>
 <p style="font-style: italic;">*Excluding my research contribution at Hitachi Research due to information security protocols</p>
 
