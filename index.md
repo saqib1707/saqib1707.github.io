@@ -35,6 +35,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Jan 2022:</b></td><td>Teaching Assistant for "ECE 101: Linear Systems Fundamentals" at UCSD</td></tr>
 <tr><td><b>Sep 2021:</b></td><td>Started my M.S. in Electrical and Computer Engineering at UC San Diego</td></tr>
 <tr><td><b>Feb 2021:</b></td><td>Presented: Localization in dynamic scenarios using SLAM at Hitachi Kenron</td></tr>
 <tr><td><b>Jul 2020:</b></td><td>Talk at Hitachi AI Conference on Indoor Positioning Systems (<a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">slides</a>)</td></tr>
