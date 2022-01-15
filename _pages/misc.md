@@ -19,7 +19,7 @@ description: Saqib Azim's Miscellaneous Activities
 <tbody>
   <tr>
     <td class="projectBody">
-      <papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://www.iitb.ac.in/">UC San Diego</a><br>
+      <papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
         Course: ECE 101 - Linear Systems Fundamentals, Jan 2022 - Present<br>
