@@ -7,7 +7,7 @@ layout: page
 		<img style="width: auto; height: 100%;" src="https://avatars0.githubusercontent.com/u/18272074?s=400&u=59209b7d272a1e86a7547e24e29096722a6a0898&v=4">
 	</div>
 	<div style="width: auto; height: auto; position: absolute; margin-left: 0px; margin-right: 0px; text-align: center; left:0; right:0; bottom: 0">
-		<a href="mailto: sazim@ucsd.edu"><b>Email</b></a> / <a href="{{site.url}}/assets/CV/CV_public.pdf"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqib-azim-760632126"><b>LinkedIn</b></a>
+		<a href="mailto: sazim@ucsd.edu"><b>Email</b></a> / <a href="{{site.url}}/assets/CV/CV_SaqibAzim_public.pdf"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqib-azim-760632126"><b>LinkedIn</b></a>
 	</div>
 </div>
 
