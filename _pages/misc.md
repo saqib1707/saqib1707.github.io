@@ -22,9 +22,11 @@ description: Saqib Azim's Miscellaneous Activities
       <papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
-        Course: ECE 101 - Linear Systems Fundamentals, Jan 2022 - Present<br>
+        Course: <i>ECE 101 - Linear Systems Fundamentals</i>, Jan 22 - Mar 22 under Prof. Saharnaz Baghdadchi<br>
         <span class="brHeight"></span>
-        <!-- <p>Responsible for assisting Prof. Saharnaz Baghdadchi in conducting discussion classes, evaluation, grading of papers and helping UG students</p> -->
+        <p>Responsibilities included conducting discussion classes, evaluation and grading of assignments, exams, holding weekly office hours and helping UG students</p><br>
+        <span class="brHeight"></span>
+        Course: <i>ECE 109 - Engineering Probability \& Statistics</i>, Mar 22 - Jun 22<br>
       </div>
     </td>
   </tr>
@@ -33,9 +35,9 @@ description: Saqib Azim's Miscellaneous Activities
       <papertitle>Teaching Assistant</papertitle>, <a href="https://www.iitb.ac.in/">IIT Bombay</a><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
-        Course: Signals and Systems, Jan - Apr, 2019<br>
+        Course: <i>EE 210 - Signals and Systems</i>, Jan - Apr, 2019<br>
         <span class="brHeight"></span>
-        <p>Responsible for assisting <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> in evaluation, grading of papers and helping UG students</p>
+        <p>Assisting <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> in evaluation, grading of papers and helping UG students</p>
       </div>
     </td>
   </tr>
