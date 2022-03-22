@@ -22,11 +22,11 @@ description: Saqib Azim's Miscellaneous Activities
       <papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
-        Course: <i>ECE 101 - Linear Systems Fundamentals</i>, Jan 22 - Mar 22 under Prof. Saharnaz Baghdadchi<br>
+        Course: <i>ECE 101 - Linear Systems Fundamentals</i>, Jan 22 - Mar 22 under <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br>
         <span class="brHeight"></span>
-        <p>Responsibilities included conducting discussion classes, evaluation and grading of assignments, exams, holding weekly office hours and helping UG students</p><br>
+        <p>Responsibilities included conducting discussion classes, evaluation and grading of assignments, exams, holding weekly office hours and helping UG students</p>
         <span class="brHeight"></span>
-        Course: <i>ECE 109 - Engineering Probability \& Statistics</i>, Mar 22 - Jun 22<br>
+        Course: <i>ECE 109 - Engineering Probability and Statistics</i>, Mar 22 - Jun 22 under <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
       </div>
     </td>
   </tr>
