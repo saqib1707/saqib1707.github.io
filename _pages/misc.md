@@ -22,11 +22,11 @@ description: Saqib Azim's Miscellaneous Activities
       <papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
-        Course: <i>ECE 101 - Linear Systems Fundamentals</i>, Jan 22 - Mar 22 under <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br>
+        Jan 22 - Mar 22: <i>ECE 101 - Linear Systems Fundamentals</i>, under <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br>
         <span class="brHeight"></span>
         <p>Responsibilities included conducting discussion classes, evaluation and grading of assignments, exams, holding weekly office hours and helping UG students</p>
         <span class="brHeight"></span>
-        Course: <i>ECE 109 - Engineering Probability and Statistics</i>, Mar 22 - Jun 22 under <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
+        Mar 22 - Jun 22: <i>ECE 109 - Engineering Probability and Statistics</i>, under <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a>
       </div>
     </td>
   </tr>
@@ -35,7 +35,7 @@ description: Saqib Azim's Miscellaneous Activities
       <papertitle>Teaching Assistant</papertitle>, <a href="https://www.iitb.ac.in/">IIT Bombay</a><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
-        Course: <i>EE 210 - Signals and Systems</i>, Jan - Apr, 2019<br>
+        Jan 19 - Apr 19: <i>EE 210 - Signals and Systems</i><br>
         <span class="brHeight"></span>
         <p>Assisting <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> in evaluation, grading of papers and helping UG students</p>
       </div>
