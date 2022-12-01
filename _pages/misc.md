@@ -22,9 +22,9 @@ description: Saqib Azim's Miscellaneous Activities
       <papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
-        [1] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> <br>
-        [2] <i>ECE 109 - Engineering Probability and Statistics</i> (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> <br>
-        [3] <i>ECE 101 - Linear Systems Fundamentals</i> (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a> <br>
+        [1] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> <br> <br>
+        [2] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> <br> <br>
+        [3] ECE 101 - Linear Systems Fundamentals (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a> <br>
         <!-- <span class="brHeight"></span> -->
         <!-- <p>Responsibilities included conducting discussion classes, evaluation and grading of assignments, exams, holding weekly office hours and helping UG students</p> -->
         <!-- <span class="brHeight"></span> -->
@@ -36,9 +36,9 @@ description: Saqib Azim's Miscellaneous Activities
       <papertitle>Teaching Assistant</papertitle>, <a href="https://www.iitb.ac.in/">IIT Bombay</a><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
-        Jan 19 - Apr 19: <i>EE 210 - Signals and Systems</i><br>
-        <span class="brHeight"></span>
-        <p>Assisting <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> in evaluation, grading of papers and helping UG students</p>
+        EE 210: Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> <br>
+        <!-- <span class="brHeight"></span> -->
+        <!-- <p>Assisting <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> in evaluation, grading of papers and helping UG students</p> -->
       </div>
     </td>
   </tr>
