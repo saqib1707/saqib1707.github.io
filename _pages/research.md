@@ -71,6 +71,35 @@ My research interests span a breadth of fields including machine learning, optim
 	<tr>
 	<td class="projectWallpaper">
 		<div>
+			<img src='{{ site.url }}/assets/images/slam_wallpaper.png'>
+		</div>
+		<script type="text/javascript">
+			function inerf_start() {
+				document.getElementById('inerf_image').style.opacity = "1";
+			}
+			function inerf_stop() {
+				document.getElementById('inerf_image').style.opacity = "0";
+			}
+			inerf_stop()
+		</script>
+	</td>
+	<td class="projectBody">
+		<a href="https://arxiv.org/abs/2003.13991"><papertitle>Self-Localization using Visual-Inertial SLAM for Navigation of Human Workers</papertitle></a>
+		<br><span class="brHeight"></span>
+		<div class="authorDetails">
+			<strong>Saqib Azim</strong>, Nito Takumi, <a href="https://www.linkedin.com/in/katsuyuki-nakamura-19b9bb88/?originalSubdomain=jp">Katsuyuki Nakamura</a><br>
+			<em>Japan Patent Filed in Aug '21 (pending)</em>
+		</div>
+	</td>
+	</tr>
+</tbody>
+</table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
+<tbody>
+	<tr>
+	<td class="projectWallpaper">
+		<div>
 			<img src='{{ site.url }}/assets/images/lps_patent_wallpaper.png'>
 		</div>
 		<script type="text/javascript">
