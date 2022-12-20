@@ -47,7 +47,7 @@ My research interests span a breadth of fields including machine learning, optim
 				<br>
 				<em>IEEE Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2019
 				<br><span class="brHeight"></span>
-				<a href="javascript:toggleblock('lps_abs')">abstract</a> / <a href="https://arxiv.org/abs/2003.13991">arXiv</a> / <a href="https://ieeexplore.ieee.org/document/8970257">paper</a> / <a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">slides</a><br>
+				<a href="javascript:toggleblock('lps_abs')">abstract</a> / <a href="https://arxiv.org/abs/2003.13991">arXiv</a> / <a href="https://ieeexplore.ieee.org/document/8970257">paper</a> / <a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">presentation</a><br>
 				<br><span class="brHeight"></span>
 				<p id="lps_abs" style="font-style:italic; display:none; text-align:justify;">The Global Navigation Satellite Systems (GNSS) like GPS suffer from accuracy degradation and are almost unavailable in indoor environments. Indoor positioning systems (IPS) based on WiFi signals have been gaining popularity. However, owing to the strong spatial and temporal variations of wireless communication channels in the indoor environment, the achieved accuracy of existing IPS is around several tens of centimeters. We present the detailed design and implementation of a self-adaptive WiFi-based indoor distance estimation system using LSTMs. The system is novel in its method of estimating with high accuracy the distance of an object by overcoming possible causes of channel variations and is self-adaptive to the changing environmental and surrounding conditions. The proposed design has been developed and physically realized over a WiFi network consisting of ESP8266 (NodeMCU) devices. The experiments were conducted in a real indoor environment while changing the surroundings in order to establish the adaptability of the system. We compare different architectures for this task based on LSTMs, CNNs, and fully connected networks (FCNs). We show that the LSTM based model performs better among all the above-mentioned architectures by achieving an accuracy of 5.85 cm with a confidence interval of 93% on the scale of (8.46 m × 6.98 m). To the best of our knowledge, the proposed method outperforms other methods reported in the literature by a significant margin</p>
 			</div>
@@ -84,11 +84,13 @@ My research interests span a breadth of fields including machine learning, optim
 		</script>
 	</td>
 	<td class="projectBody">
-		<papertitle>Self-Localization using Visual-Inertial SLAM for Navigation of Human Workers</papertitle>
+		<papertitle>Localization in Dynamic Environments with Targeted Inference based VI-SLAM</papertitle>
 		<br><span class="brHeight"></span>
 		<div class="authorDetails">
-			<strong>Saqib Azim</strong>, Nito Takumi, <a href="https://www.linkedin.com/in/katsuyuki-nakamura-19b9bb88/?originalSubdomain=jp">Katsuyuki Nakamura</a><br>
+			<strong>Saqib Azim</strong>, Takumi Nito, <a href="https://www.linkedin.com/in/katsuyuki-nakamura-19b9bb88/?originalSubdomain=jp">Katsuyuki Nakamura</a><br>
 			<em>Japan Patent Filed in Aug '21 (pending)</em>
+			<br><span class="brHeight"></span>
+			<a href="{{site.url}}/assets/pubs/SLAM_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br>
 		</div>
 	</td>
 	</tr>
@@ -155,7 +157,7 @@ My research interests span a breadth of fields including machine learning, optim
 			<div class="authorDetails">
 				<strong>Advisor: </strong><a href="https://www.ee.iitb.ac.in/wiki/faculty/dc">Prof. Debraj Chakraborty</a>
 				<br><span class="brHeight"></span>
-				<a href="javascript:toggleblock('btp_thesis_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/btp_thesis.pdf">thesis</a> / <a href="{{site.url}}/assets/pubs/btp_presentation.pdf">slides</a><br>
+				<a href="javascript:toggleblock('btp_thesis_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/btp_thesis.pdf">thesis</a> / <a href="{{site.url}}/assets/pubs/btp_presentation.pdf">presentation</a><br>
 				<br><span class="brHeight"></span>
 				<p id="btp_thesis_abs" style="font-style:italic; display:none; text-align:justify;">In this report, we proposed an interaction rule between an evader and a pursuer and our objective was to try to find an optimal feedback control for the pursuer to drive the evaders to destination. With this regard, we first formulated our problem as a constrained optimization problem and solved using global search algorithm available in global optimization toolbox of matlab. The result from these experiments were then used to predict a feedback control algorithm but unfortunately this could not be made possible. Then we shifted from predicting ourselves to let the machine learn from the data and predict the trajectory for us. We used LSTM-based model with fully connected layers and posed the problem as a regression task to produce pursuer next position given current and past trajectory information of all the agents. The experimental results from the optimization task was used as dataset for this approach. After training, the trajectories were estimated iteratively for numerous initial conditions but we could not get the desired result. This approach requires modifications in order for it to work.</p>
 			</div>
@@ -208,7 +210,7 @@ My research interests span a breadth of fields including machine learning, optim
 				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <a href="https://saching007.github.io/">Sachin Goyal</a>, Sanyam Khandelwal, Tanmay Patil<br>
 				<em>Bronze Medal (3<sup>rd</sup> / 23 teams), <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">TV Audience Measurement Challenge</a>; Overall Runner-up (2<sup>nd</sup> / 23 IITs), <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Tech Meet 2018</a></em>
 				<br><span class="brHeight"></span>
-				<a href="javascript:toggleblock('barc_interiit_abs')">abstract</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">slides</a><br>
+				<a href="javascript:toggleblock('barc_interiit_abs')">abstract</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">presentation</a><br>
 				<br><span class="brHeight"></span>
 				<p id="barc_interiit_abs" style="font-style:italic; display:none; text-align:justify;">Proposed scalable and robust solutions for <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">various challenges</a> put forward by <a href="https://www.barcindia.co.in/">BARC India</a> such as channel identification, advertisement and content classification and recognition, age and gender recognition of viewers and providing hardware free solution in order to capture TV viewership data of the country</p>
 			</div>
