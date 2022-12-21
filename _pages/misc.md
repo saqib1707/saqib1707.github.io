@@ -19,7 +19,7 @@ description: Saqib Azim's Miscellaneous Activities
 <tbody>
   <tr>
     <td class="projectBody">
-      <papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
+      <papertitle>Teaching Assistant</papertitle><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
         [1] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD  <br> <br>

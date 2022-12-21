@@ -5,9 +5,9 @@ permalink: /research/
 description: Saqib Azim's Research
 ---
 
-My research interests span a breadth of fields including machine learning, optimization, computer vision, signal and image processing, etc. Following is a non-exclusive list of my projects. Feel free to look at my [CV]({{site.url}}/assets/CV/CV_SaqibAzim_public.pdf). More details will be updated soon.
+My research interests span a breadth of fields including machine learning, computer vision, robotics, etc. Following is a non-exclusive list of my projects. Feel free to look at my [CV]({{site.url}}/assets/CV/CV_SaqibAzim_public.pdf). More details will be updated soon.
 <br><span class="brHeight"></span>
-<p style="font-style: italic;">*Excluding my research contribution at Hitachi Research due to information security protocols</p>
+<!-- <p style="font-style: italic;">*Excluding my research contribution at Hitachi Research due to information security protocols</p> -->
 
 
 <script type="text/javascript">
@@ -90,7 +90,7 @@ My research interests span a breadth of fields including machine learning, optim
 			<strong>Saqib Azim</strong>, Takumi Nito, <a href="https://www.linkedin.com/in/katsuyuki-nakamura-19b9bb88/?originalSubdomain=jp">Katsuyuki Nakamura</a><br>
 			<em>Japan Patent Filed in Aug '21 (pending)</em>
 			<br><span class="brHeight"></span>
-			<a href="{{site.url}}/assets/pubs/SLAM_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br>
+			<a href="{{site.url}}/assets/pubs/slam_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br>
 		</div>
 	</td>
 	</tr>

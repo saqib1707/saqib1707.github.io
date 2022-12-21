@@ -7,13 +7,16 @@ layout: page
 		<img style="width: auto; height: 100%;" src="https://avatars0.githubusercontent.com/u/18272074?s=400&u=59209b7d272a1e86a7547e24e29096722a6a0898&v=4">
 	</div>
 	<div style="width: auto; height: auto; position: absolute; margin-left: 0px; margin-right: 0px; text-align: center; left:0; right:0; bottom: 0">
-		<a href="mailto: sazim@ucsd.edu"><b>Email</b></a> / <a href="{{site.url}}/assets/CV/CV_SaqibAzim_public.pdf"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqibazim/"><b>LinkedIn</b></a>
+		<a href="{{site.url}}/assets/CV/CV_SaqibAzim_public.pdf"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqibazim/"><b>LinkedIn</b></a>
 	</div>
 </div>
 
 Hey there! My name is Saqib Azim, and I am a second year Masters student at [University of California, San Diego](https://jacobsschool.ucsd.edu/). Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at [Hitachi Central Research Lab](https://www.hitachi.com/rd/index.html), Tokyo, advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito. My research interests include machine learning, reinforcement learning, computer vision, robotics. 
 
 Prior to this, I graduated from [IIT Bombay](https://www.iitb.ac.in/), earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at [Samsung Research Institute](https://research.samsung.com/sri-b) (Summer 2018). 
+
+Email ID: <a href="mailto: sazim@ucsd.edu"><b>Email</b></a>
+
 
 <!-- To get an insight on my professional life so far, you can have a look at my [CV]({{site.url}}/cv/). I’m happy to get in touch at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. -->
 
