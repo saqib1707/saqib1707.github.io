@@ -166,6 +166,34 @@ My research interests span a breadth of fields including machine learning, compu
 	</tr>
 	<tr>
 		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/edl_wallpaper.png' alt="SpeechEnhancement" width="100%">
+			</div>
+			<script type="text/javascript">
+				function inerf_start() {
+					document.getElementById('inerf_image').style.opacity = "1";
+				}
+				function inerf_stop() {
+					document.getElementById('inerf_image').style.opacity = "0";
+				}
+				inerf_stop()
+			</script>
+		</td>
+		<td class="projectBody">
+			<a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf"><papertitle>Speech Enhancement using Convolutional-Recurrent Network \& Wavelet Pooling</papertitle></a>
+			<br><span class="brHeight"></span>
+			<div class="authorDetails">
+				<br>
+				Parthasarathi Kumar, <strong>Saqib Azim</strong>
+				<br><span class="brHeight"></span>
+				<a href="javascript:toggleblock('speech_enhancement_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf">report</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_slides.pdf">presentation</a><br>
+				<br><span class="brHeight"></span>
+				<p id="speech_enhancement_abs" style="font-style:italic; font-family: sans-serif; font-size: 15px; display:none; text-align:justify;">In this project, we present an end-to-end data-driven system for enhancing the quality of speech signals using a convolutional-recurrent neural network. We present a quantitative and qualitative analysis of our speech enhancement system on a real-world noisy speech dataset and evaluate our proposed system\textquotesingle s performance using several metrics such as SNR, PESQ, STOI, etc. We have employed wavelet pooling mechanism instead of max-pooling layer in the convolutional layer of our proposed model and compared the performances of these variants. Based on our experiments, we demonstrate that our model's performance on noisy speech signals using haar wavelet is better than when using max-pooling. In addition, wavelet based approach results in faster convergence during training as compared to other variants.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="projectWallpaper">
 			<!-- <a href="{{site.url}}/assets/pubs/btp_thesis.pdf" target="_blank"> --><img src='{{ site.url }}/assets/images/handwriting_recog_wallpaper.png' alt="LPS" width="100%"><!-- </a> -->
 			<script type="text/javascript">
 				function inerf_start() {
