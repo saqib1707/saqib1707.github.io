@@ -15,7 +15,7 @@ Hey there! My name is Saqib Azim, and I am a second year Masters student at [Uni
 
 Prior to this, I graduated from [IIT Bombay](https://www.iitb.ac.in/), earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at [Samsung Research Institute](https://research.samsung.com/sri-b) (Summer 2018). 
 
-Email ID: <a href="mailto: sazim@ucsd.edu"><b>Email</b></a>
+Email ID: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a>
 
 
 <!-- To get an insight on my professional life so far, you can have a look at my [CV]({{site.url}}/cv/). I’m happy to get in touch at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. -->
