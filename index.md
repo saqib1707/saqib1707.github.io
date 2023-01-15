@@ -11,7 +11,7 @@ layout: page
 	</div>
 </div>
 
-Hey there! My name is Saqib Azim, and I am a second year Masters student at [University of California, San Diego](https://jacobsschool.ucsd.edu/). Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at [Hitachi Central Research Lab](https://www.hitachi.com/rd/index.html), Tokyo, advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito. My research interests include machine learning, reinforcement learning, computer vision, robotics. 
+Hey there! My name is Saqib Azim, and I am a second year Masters student at [University of California, San Diego](https://jacobsschool.ucsd.edu/). Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at [Hitachi R&D Japan](https://www.hitachi.com/rd/index.html), advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito. My research interests include machine learning, reinforcement learning, computer vision, robotics. 
 
 Prior to this, I graduated from [IIT Bombay](https://www.iitb.ac.in/), earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at [Samsung Research Institute](https://research.samsung.com/sri-b) (Summer 2018). 
 
