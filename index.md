@@ -11,7 +11,7 @@ layout: page
 	</div>
 </div>
 
-Hey there! My name is Saqib Azim, and I am a second year Masters student at [UC San Diego](https://jacobsschool.ucsd.edu/), where I am advised by [Prof. Nikolay Atanasov](https://natanaso.github.io/). I am a part of the [Existential Robotics Lab](http://erl.ucsd.edu/) in [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/). Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at [Hitachi R&D Japan](https://www.hitachi.com/rd/index.html), advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito. My research interests include machine learning, reinforcement learning, computer vision, robotics. 
+Hey there! My name is Saqib Azim, and I am a second year Masters student at [UC San Diego](https://jacobsschool.ucsd.edu/). I am a student researcher at [Contextual Robotics Institute's](https://contextualrobotics.ucsd.edu/) [Existential Robotics Lab](http://erl.ucsd.edu/) working under the supervision of [Prof. Nikolay Atanasov](https://natanaso.github.io/). Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at [Hitachi R&D Japan](https://www.hitachi.com/rd/index.html), advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito. My current research focus includes machine learning, reinforcement learning, computer vision, robotics. 
 
 Prior to this, I graduated from [IIT Bombay](https://www.iitb.ac.in/), earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at [Samsung Research Institute](https://research.samsung.com/sri-b) (Summer 2018). 
 
@@ -38,6 +38,8 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Jan 2022:</b></td><td>Teaching Assistant for "CSE 166: Image Processing" at UCSD</td></tr>
+<tr><td><b>Aug 2022:</b></td><td>Teaching Assistant for "ECE 225A: Probability and Statistics for Data Science" at UCSD</td></tr>
 <tr><td><b>Apr 2022:</b></td><td>Teaching Assistant for "ECE 109: Engineering Probability and Statistics" at UCSD</td></tr>
 <tr><td><b>Jan 2022:</b></td><td>Teaching Assistant for "ECE 101: Linear Systems Fundamentals" at UCSD</td></tr>
 <tr><td><b>Sep 2021:</b></td><td>Started my M.S. in Electrical and Computer Engineering at UC San Diego</td></tr>
