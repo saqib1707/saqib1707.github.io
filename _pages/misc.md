@@ -22,11 +22,12 @@ description: Saqib Azim's Miscellaneous Activities
       <papertitle>Teaching Assistant</papertitle><br>
       <span class="brHeight"></span>
       <div class="authorDetails">
-        [1] CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a> @ UCSD  <br> <br>
-        [2] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD  <br> <br>
-        [3] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD <br> <br>
-        [4] ECE 101 - Linear Systems Fundamentals (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a> @ UCSD <br> <br>
-        [5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br>
+        [1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023), taught by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a> @ UCSD  <br> <br>
+        [2] CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a> @ UCSD  <br> <br>
+        [3] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD  <br> <br>
+        [4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD <br> <br>
+        [5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a> @ UCSD <br> <br>
+        <!-- [5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br> -->
       </div>
     </td>
   </tr>
