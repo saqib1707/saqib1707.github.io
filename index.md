@@ -67,34 +67,34 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 </table> -->
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 <table width="100%" align="center" border="0" cellspacing="0" class="tableHeadings">
-<tbody>
-	<tr>
-		<td>
-			<heading>Research Interests</heading>
-		</td>
-	</tr>
-</tbody>
+	<tbody>
+		<tr>
+			<td>
+				<heading>Research Interests</heading>
+			</td>
+		</tr>
+	</tbody>
 </table>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
-<tbody>
-	<tr>
-		<div style="padding-left: 0px; padding-right: 0px; padding-bottom: 25px; padding-top: 25px;">
-			I am deeply interested in the field of <b>machine learning</b> and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for constructing AI systems. Therefore, my research aims to create algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. I want to explore generalization, safety and adaptability that can be deployed in real-world scenarios. To achieve these objectives, I draw from my expertise in robotics, machine learning and computer vision.
-			<!-- <br><span class="brHeight"></span> -->
-			<!-- <br><span class="brHeight"></span> -->
-		</div>
-	</tr>
-</tbody>
+	<tbody>
+		<tr>
+			<div>
+				I am deeply interested in the field of <b>machine learning</b> and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for constructing AI systems. Therefore, my research aims to create algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. I want to explore generalization, safety and adaptability that can be deployed in real-world scenarios. To achieve these objectives, I draw from my expertise in robotics, machine learning and computer vision.
+				<!-- <br><span class="brHeight"></span> -->
+				<!-- <br><span class="brHeight"></span> -->
+			</div>
+		</tr>
+	</tbody>
 </table>
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
-<table width="100%" align="center" border="0" cellspacing="0">
-<tbody>
-	<tr>
-		<td>
-			<heading>Research Projects</heading>
-		</td>
-	</tr>
-</tbody>
+<table width="100%" align="center" border="0" cellspacing="0" class="tableHeadings">
+	<tbody>
+		<tr>
+			<td>
+				<heading>Research Projects</heading>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
@@ -174,14 +174,14 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 </tbody>
 </table>
 
-<table width="100%" align="center" border="0" cellspacing="0">
-<tbody>
-	<tr>
-		<td>
-			<heading>Academic Projects</heading>
-		</td>
-	</tr>
-</tbody>
+<table width="100%" align="center" border="0" cellspacing="0" class="tableHeadings">
+	<tbody>
+		<tr>
+			<td>
+				<heading>Academic Projects</heading>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
@@ -351,14 +351,14 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 </tbody>
 </table>
 
-<table width="100%" align="center" border="0" cellspacing="0">
-<tbody>
-	<tr>
-		<td>
-			<heading>Teaching and Mentoring Experience</heading>
-		</td>
-	</tr>
-</tbody>
+<table width="100%" align="center" border="0" cellspacing="0" class="tableHeadings">
+	<tbody>
+		<tr>
+			<td>
+				<heading>Teaching and Mentoring Experience</heading>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
