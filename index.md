@@ -11,12 +11,12 @@ layout: page
 	</div>
 </div>
 
-<div style="font: 12px;">
-Hey there! My name is Saqib Azim, and I am a second year Masters student at [UC San Diego](https://jacobsschool.ucsd.edu/). I am a student researcher at the [Contextual Robotics Institute's](https://contextualrobotics.ucsd.edu/) [Existential Robotics Lab](http://erl.ucsd.edu/) working under the supervision of [Prof. Nikolay Atanasov](https://natanaso.github.io/). Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at [Hitachi R&D Japan](https://www.hitachi.com/rd/index.html), advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito. My current research focus includes machine learning, reinforcement learning, computer vision, robotics. 
+<div style="font: 10px;">
+Hey there! My name is Saqib Azim, and I am a second year Masters student at <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute's</a> <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Japan</a>, advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a> and Mr. Takumi Nito. My current research focus includes machine learning, reinforcement learning, computer vision, robotics. <br>
 
-Prior to this, I graduated from [IIT Bombay](https://www.iitb.ac.in/), earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at [Samsung Research Institute](https://research.samsung.com/sri-b) (Summer 2018). 
+Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> (Summer 2018). <br>
 
-Email ID: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a>
+Email ID: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a><br>
 
 <b>I am actively looking for full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b>
 </div>
@@ -35,9 +35,9 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <!-- I [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)! -->
 
-### Updates
-<span style="color:red"><b>Updates</b></span>
-<div style="height: 180px; overflow: auto; font: 12px;">
+<!-- ### Updates -->
+<span style="color:#8B0000; font: 24px"><b>Updates</b></span>
+<div style="height: 180px; overflow: auto; font: 10px;">
 <table>
 <col width="100px">
 <col width="650px">
@@ -77,8 +77,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 </div>
 
 
-<!-- ### Publications -->
-<span style="color: red; font: 16px;"><b>Publications</b></span>
+<span style="color: #8B0000; font: 24px;"><b>Publications</b></span>
 <div style="font: 12px;">
 I am deeply interested in the field of <b>machine learning</b> and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for constructing AI systems. Therefore, my research aims to create algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. One of my goals is to .I want to explore generalization, safety and adaptability that can be deployed in real-world scenarios. To achieve these objectives, I draw from my expertise in robotics, machine learning and computer vision.
 <!-- I am broadly interested in research on robot learning which stems from my interest in looking for parallels between human learning and artificial intelligence. I believe human beings are an excellent product of evolution and they could be used as a blue-print for building AI systems. I want to develop algorithms for deploying in real-world robots that can learn from human demonstrations, and evolve through self-supervised learning/curiosity. I want to push it towards a stage where robots can learn to carry out a task just by observing a human once. In doing so, I want to explore generality, safety and adaptability. I work with robotics, machine learning, and computer vision. -->
@@ -407,7 +406,7 @@ Following is a non-exclusive list of my projects.
 </table>
 
 
-### Teaching
+<span style="color: #8B0000; font: 24px;"><b>Teaching Assistant</b></span>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
   <tr>
