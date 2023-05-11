@@ -159,41 +159,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 </tbody>
 </table>
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
-<tbody>
-	
-</tbody>
-</table>
-
-<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
-<tbody>
-	<tr>
-	<td class="projectWallpaper">
-		<div>
-			<img src='{{ site.url }}/assets/images/lps_patent_wallpaper.png'>
-		</div>
-		<script type="text/javascript">
-			function inerf_start() {
-				document.getElementById('inerf_image').style.opacity = "1";
-			}
-			function inerf_stop() {
-				document.getElementById('inerf_image').style.opacity = "0";
-			}
-			inerf_stop()
-		</script>
-	</td>
-	<td class="projectBody">
-		<a href="https://arxiv.org/abs/2003.13991"><papertitle>Indoor Positioning System for Position Estimation in an Indoor Environment</papertitle></a>
-		<br><span class="brHeight"></span>
-		<div class="authorDetails">
-			<a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <strong>Saqib Azim</strong>, <a href="https://saching007.github.io/">Sachin Goyal</a><br>
-			
-		</div>
-	</td>
-	</tr>
-</tbody>
-</table> -->
-
 <table width="100%" align="center" border="0" cellspacing="0">
 <tbody>
 	<tr>
@@ -425,36 +390,64 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 		<td class="projectBody">
 			<div class="authorDetails">
-				[1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023), taught by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a> @ UCSD  <br><br>
-				[2] CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a> @ UCSD  <br><br>
-				[3] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD  <br><br>
-				[4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD <br><br>
-				[5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a> @ UCSD <br><br>
+				[1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023), taught by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a><br>
+				[2] CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a><br>
+				[3] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
+				[4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
+				[5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br>
 				<!-- [5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br> -->
 			</div>
 		</td>
 	</tr>
 	<tr>
-	<td class="projectBody">
-		<papertitle>Teaching Volunteer</papertitle>, <a href="https://nss.iitb.ac.in/home/">National Service Scheme, IIT Bombay</a><br>
-		<span class="brHeight"></span>
-		<div class="authorDetails">
-		<a href="https://nss.iitb.ac.in/depts/EO/">Education Outreach Program</a>, 2015 - 16<br>
-		<span class="brHeight"></span>
-		<p>Taught Science and Mathematics to a group of 10-15 underprivileged middle school students</p>
-		</div>
-	</td>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/nss_logo.png' alt="UCSD_logo" width="100%">
+			</div>
+			<script type="text/javascript">
+				function inerf_start() {
+					document.getElementById('inerf_image').style.opacity = "1";
+				}
+				function inerf_stop() {
+					document.getElementById('inerf_image').style.opacity = "0";
+				}
+				inerf_stop()
+			</script>
+		</td>
+		<td class="projectBody">
+			<papertitle>Teaching Volunteer</papertitle>, <a href="https://nss.iitb.ac.in/home/">National Service Scheme, IIT Bombay</a><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+			<a href="https://nss.iitb.ac.in/depts/EO/">Education Outreach Program</a>, 2015 - 16<br>
+			<span class="brHeight"></span>
+			<p>Taught Science and Mathematics to a group of 10-15 underprivileged middle school students</p>
+			</div>
+		</td>
 	</tr>
 	<tr>
-	<td class="projectBody">
-		<papertitle>Mentor</papertitle>, <a href="http://mnp-club.github.io/sos/">Summer of Science ('19 & '20), IIT Bombay</a><br>
-		<span class="brHeight"></span>
-		<div class="authorDetails">
-		<p>Helped 2 Masters', 4 UG students to learn topics in the field of AI, machine learning, vision and image processing. Guided them through project ideation and project completion over the course of summer</p>
-		</div>
-	</td>
+	<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/mnpclub_iitb_logo.png' alt="UCSD_logo" width="100%">
+			</div>
+			<script type="text/javascript">
+				function inerf_start() {
+					document.getElementById('inerf_image').style.opacity = "1";
+				}
+				function inerf_stop() {
+					document.getElementById('inerf_image').style.opacity = "0";
+				}
+				inerf_stop()
+			</script>
+		</td>
+		<td class="projectBody">
+			<papertitle>Mentor</papertitle>, <a href="http://mnp-club.github.io/sos/">Summer of Science ('19 & '20), IIT Bombay</a><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+			<p>Helped 2 Masters', 4 UG students to learn topics in the field of AI, machine learning, vision and image processing. Guided them through project ideation and project completion over the course of summer</p>
+			</div>
+		</td>
 	</tr>
-	<tr>
+	<!-- <tr>
 	<td class="projectBody">
 		<papertitle>Mentor</papertitle>, <a href="https://www.alumni.iitb.ac.in/en/newsletter-article/2017-06/institute-technical-summer-projects-itsp-kickstart">Institute Technical Summer Project '17, IIT Bombay</a><br>
 		<span class="brHeight"></span>
@@ -462,6 +455,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		<p>Guided 2 teams of UG students in building exciting and innovative ideas into working protoytpes over the course of summer</p>
 		</div>
 	</td>
-	</tr>
+	</tr> -->
 </tbody>
 </table>
