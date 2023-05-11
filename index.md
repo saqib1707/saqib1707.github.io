@@ -11,7 +11,7 @@ layout: page
 	</div>
 </div>
 
-<div style="font: 10px;">
+<div style="font-size: 10px;">
 Hey there! My name is Saqib Azim, and I am a second year Masters student at <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute's</a> <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Japan</a>, advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a> and Mr. Takumi Nito. My current research focus includes machine learning, reinforcement learning, computer vision, robotics. <br>
 
 Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> (Summer 2018). <br>
@@ -36,8 +36,18 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <!-- I [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)! -->
 
 <!-- ### Updates -->
-<span style="color:#8B0000; font: 24px"><b>Updates</b></span>
-<div style="height: 180px; overflow: auto; font: 10px;">
+<!-- <span style="color:#8B0000; font-size: 24px"><b>Updates</b></span> -->
+<table width="100%" align="center" border="0" cellspacing="0">
+<tbody>
+	<tr>
+		<td>
+			<heading style="color:#8B0000">Updates</heading>
+		</td>
+	</tr>
+</tbody>
+</table>
+
+<div style="height: 180px; overflow: auto; font-size: 10px;">
 <table>
 <col width="100px">
 <col width="650px">
@@ -77,7 +87,16 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 </div>
 
 
-<span style="color: #8B0000; font: 24px;"><b>Publications</b></span>
+<!-- <span style="color: #8B0000; font-size: 24px;"><b>Publications</b></span> -->
+<table width="100%" align="center" border="0" cellspacing="0">
+<tbody>
+	<tr>
+		<td>
+			<heading style="color:#8B0000">Research Interests</heading>
+		</td>
+	</tr>
+</tbody>
+</table>
 <div style="font: 12px;">
 I am deeply interested in the field of <b>machine learning</b> and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for constructing AI systems. Therefore, my research aims to create algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. One of my goals is to .I want to explore generalization, safety and adaptability that can be deployed in real-world scenarios. To achieve these objectives, I draw from my expertise in robotics, machine learning and computer vision.
 <!-- I am broadly interested in research on robot learning which stems from my interest in looking for parallels between human learning and artificial intelligence. I believe human beings are an excellent product of evolution and they could be used as a blue-print for building AI systems. I want to develop algorithms for deploying in real-world robots that can learn from human demonstrations, and evolve through self-supervised learning/curiosity. I want to push it towards a stage where robots can learn to carry out a task just by observing a human once. In doing so, I want to explore generality, safety and adaptability. I work with robotics, machine learning, and computer vision. -->
@@ -100,7 +119,7 @@ Following is a non-exclusive list of my projects.
 <tbody>
 	<tr>
 		<td>
-			<heading>Research Papers</heading>
+			<heading style="color:#8B0000">Research Projects</heading>
 		</td>
 	</tr>
 </tbody>
@@ -135,7 +154,7 @@ Following is a non-exclusive list of my projects.
 <tbody>
 	<tr>
 		<td>
-			<heading>Patent</heading>
+			<heading style="color:#8B0000">Patent</heading>
 		</td>
 	</tr>
 </tbody>
@@ -194,7 +213,8 @@ Following is a non-exclusive list of my projects.
 		<br><span class="brHeight"></span>
 		<div class="authorDetails">
 			<a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <strong>Saqib Azim</strong>, <a href="https://saching007.github.io/">Sachin Goyal</a><br>
-			<em>Indian Patent Filed in Dec '18, Application - </em>201821047043 <em>(pending)</em>
+			<!-- <em>Indian Patent Filed in Dec '18, Application - </em>201821047043 <em>(pending)</em> -->
+			<em>Indian Patent Filed in Dec '18 <em>(pending)</em>
 		</div>
 	</td>
 	</tr>
@@ -205,7 +225,7 @@ Following is a non-exclusive list of my projects.
 <tbody>
 	<tr>
 		<td>
-			<heading>Miscellaneous Projects</heading>
+			<heading style="color:#8B0000">Academic Projects</heading>
 		</td>
 	</tr>
 </tbody>
@@ -406,7 +426,17 @@ Following is a non-exclusive list of my projects.
 </table>
 
 
-<span style="color: #8B0000; font: 24px;"><b>Teaching Assistant</b></span>
+<!-- <span style="color: #8B0000; font: 24px;"><b>Teaching Assistant</b></span> -->
+<table width="100%" align="center" border="0" cellspacing="0">
+<tbody>
+	<tr>
+		<td>
+			<heading style="color:#8B0000">Teaching and Mentoring Experience</heading>
+		</td>
+	</tr>
+</tbody>
+</table>
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
   <tr>
