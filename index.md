@@ -17,9 +17,7 @@ Prior to this, I graduated from [IIT Bombay](https://www.iitb.ac.in/), earning B
 
 Email ID: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a>
 
-
 <b>I am actively looking for full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b>
-
 
 <!-- To get an insight on my professional life so far, you can have a look at my [CV]({{site.url}}/cv/). I’m happy to get in touch at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. -->
 
@@ -36,7 +34,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <!-- I [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)! -->
 
 ### Updates
-
 <div style="height:180px;overflow:auto;">
 <table>
 <col width="100px">
@@ -53,7 +50,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <tr><td><b>Aug 2019:</b></td><td>Graduated from IIT Bombay, receiving the Undergraduate Research Award</td></tr>
 <tr><td><b>Jan 2019:</b></td><td>Teaching Assistant for Signals and Systems (EE 210) at <a href="https://www.iitb.ac.in">IIT Bombay</a></td></tr>
 <tr><td><b>Jul 2018:</b></td><td>Successfully completed internship at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> in Bengaluru</td></tr>
-	<!-- <a href="https://www.cics.umass.edu/grads/phd-portfolio">PhD candidacy</a> with distinction!</td></tr> -->
+<!-- <a href="https://www.cics.umass.edu/grads/phd-portfolio">PhD candidacy</a> with distinction!</td></tr> -->
 <!-- <tr><td><b>Sep 2020:</b></td><td>new <a href="https://arxiv.org/abs/2010.05700">paper</a> on paraphrasing for unsupervised style transfer to appear at EMNLP 2020. Check out a live demo and the codebase <a href="http://style.cs.umass.edu">here</a>.</td></tr> -->
 <!-- <tr><td><b>Sep 2020:</b></td><td>I am excited to share a new bird photography webpage! Check the <a href="{{ site.url }}/birding">Birding</a> tab.</td></tr>
 <tr><td><b>Jun 2020:</b></td><td>I was recognized as an <a href="https://www.aclweb.org/anthology/2020.acl-main.0.pdf#page=25">outstanding reviewer</a> for ACL 2020!</td></tr>
@@ -73,10 +70,11 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <tr><td><b>Jul 2018:</b></td><td> new <a href="https://arxiv.org/abs/1807.06234">preprint</a> on hierarchical multitask learning for speech recognition</td></tr>
 <tr><td><b>Jun 2018:</b></td><td> new blogs on <a href="2018/05/29/grad-resources.html">grad resources</a>, <a href="2018/06/04/cs-opportunities.html">IIT Bombay CS opportunities</a> and <a href="2018/06/05/crowd-sourcing.html">crowdsourcing</a></td></tr>
 <tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr> -->
+</table>
+</div>
 
 
 ### Publications
-<!-- My research interests span a breadth of fields including machine learning, computer vision, robotics, etc.  Feel free to look at my [CV]({{site.url}}/assets/CV/CV_SaqibAzim_public.pdf). More details will be updated soon. -->
 I am deeply interested in the field of <b>machine learning</b> and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for constructing AI systems. Therefore, my research aims to create algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. One of my goals is to .I want to explore generalization, safety and adaptability that can be deployed in real-world scenarios. To achieve these objectives, I draw from my expertise in robotics, machine learning and computer vision.
 
 <!-- I am broadly interested in research on robot learning which stems from my interest in looking for parallels between human learning and artificial intelligence. I believe human beings are an excellent product of evolution and they could be used as a blue-print for building AI systems. I want to develop algorithms for deploying in real-world robots that can learn from human demonstrations, and evolve through self-supervised learning/curiosity. I want to push it towards a stage where robots can learn to carry out a task just by observing a human once. In doing so, I want to explore generality, safety and adaptability. I work with robotics, machine learning, and computer vision. -->
@@ -406,7 +404,6 @@ Following is a non-exclusive list of my projects.
 	</tr>
 </tbody>
 </table>
-
 
 
 ### Teaching
