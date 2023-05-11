@@ -11,13 +11,11 @@ layout: page
 	</div>
 </div>
 
-<div style="font-size: 14px;">
+<div>
 Hey there! I am a second year Masters student at <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute's</a> <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Japan</a>, advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a> and Mr. Takumi Nito. My current research focus includes machine learning, reinforcement learning, computer vision, robotics. <br> <br>
 
 Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> (Summer 2018). <br> <br>
-
 Email ID: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a><br><br>
-
 <b>I am actively looking for full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b>
 </div>
 
@@ -80,7 +78,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
 	<tr>
-		<div style="font-size: 14px;">
+		<div>
 			I am deeply interested in the field of <b>machine learning</b> and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for constructing AI systems. Therefore, my research aims to create algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. One of my goals is to .I want to explore generalization, safety and adaptability that can be deployed in real-world scenarios. To achieve these objectives, I draw from my expertise in robotics, machine learning and computer vision.
 			<br><span class="brHeight"></span>
 			<br><span class="brHeight"></span>
@@ -123,7 +121,8 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div class="authorDetails">
 				<a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <strong>Saqib Azim</strong>, <a href="https://saching007.github.io/">Sachin Goyal</a>, <a href="https://www.linkedin.com/in/tanya-choudhary-772660133/">Tanya Choudhary</a>, <a href="https://www.ee.iitb.ac.in/~akumar/">Kumar Appaiah</a>, <a href="https://www.sc.iitb.ac.in/~srikant/dokuwiki/doku.php/home">Sukumar Srikant</a>
 				<br>
-				<em>IEEE Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2019
+				<em>IEEE Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2019<br>
+				<em>Indian Patent Filed in Dec '18 (pending)</em>
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('lps_abs')">abstract</a> / <a href="https://arxiv.org/abs/2003.13991">arXiv</a> / <a href="https://ieeexplore.ieee.org/document/8970257">paper</a> / <a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">presentation</a><br>
 				<br><span class="brHeight"></span>
@@ -131,21 +130,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 	</tr>
-</tbody>
-</table>
-
-<table width="100%" align="center" border="0" cellspacing="0">
-<tbody>
-	<tr>
-		<td>
-			<heading style="color:#8B0000">Patent</heading>
-		</td>
-	</tr>
-</tbody>
-</table>
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
-<tbody>
 	<tr>
 	<td class="projectWallpaper">
 		<div>
@@ -177,6 +161,12 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
+	
+</tbody>
+</table>
+
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
+<tbody>
 	<tr>
 	<td class="projectWallpaper">
 		<div>
@@ -197,13 +187,12 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		<br><span class="brHeight"></span>
 		<div class="authorDetails">
 			<a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <strong>Saqib Azim</strong>, <a href="https://saching007.github.io/">Sachin Goyal</a><br>
-			<!-- <em>Indian Patent Filed in Dec '18, Application - </em>201821047043 <em>(pending)</em> -->
-			<em>Indian Patent Filed in Dec '18 (pending)</em>
+			
 		</div>
 	</td>
 	</tr>
 </tbody>
-</table>
+</table> -->
 
 <table width="100%" align="center" border="0" cellspacing="0">
 <tbody>
@@ -409,8 +398,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 </tbody>
 </table>
 
-
-<!-- <span style="color: #8B0000; font: 24px;"><b>Teaching Assistant</b></span> -->
 <table width="100%" align="center" border="0" cellspacing="0">
 <tbody>
 	<tr>
@@ -423,20 +410,46 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
-  <tr>
-    <td class="projectBody">
-      <papertitle>Teaching Assistant</papertitle><br>
-      <span class="brHeight"></span>
-      <div class="authorDetails">
-        [1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023), taught by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a> @ UCSD  <br> <br>
-        [2] CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a> @ UCSD  <br> <br>
-        [3] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD  <br> <br>
-        [4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD <br> <br>
-        [5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a> @ UCSD <br> <br>
-        <!-- [5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br> -->
-      </div>
-    </td>
-  </tr>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/ucsd_logo.png' alt="image_editor" width="100%">
+			</div>
+			<script type="text/javascript">
+				function inerf_start() {
+					document.getElementById('inerf_image').style.opacity = "1";
+				}
+				function inerf_stop() {
+					document.getElementById('inerf_image').style.opacity = "0";
+				}
+				inerf_stop()
+			</script>
+		</td>
+		<td class="projectBody">
+			<div class="authorDetails">
+				[1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023), taught by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a> @ UCSD  <br> <br>
+				[2] CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a> @ UCSD  <br> <br>
+				[3] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD  <br> <br>
+				[4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD <br><br>
+				[5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a> @ UCSD <br> <br>
+				<!-- [5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br> -->
+			</div>
+		</td>
+	</tr>
+	<tr>
+	<td class="projectBody">
+		<papertitle>Teaching Assistant</papertitle><br>
+		<span class="brHeight"></span>
+		<div class="authorDetails">
+		[1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023), taught by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a> @ UCSD  <br> <br>
+		[2] CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a> @ UCSD  <br> <br>
+		[3] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD  <br> <br>
+		[4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a> @ UCSD <br><br>
+		[5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a> @ UCSD <br> <br>
+		<!-- [5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br> -->
+		</div>
+	</td>
+	</tr>
   <tr>
     <td class="projectBody">
       <papertitle>Teaching Volunteer</papertitle>, <a href="https://nss.iitb.ac.in/home/">National Service Scheme, IIT Bombay</a><br>
