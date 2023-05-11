@@ -12,11 +12,11 @@ layout: page
 </div>
 
 <div style="font-size: 14px;">
-Hey there! My name is Saqib Azim, and I am a second year Masters student at <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute's</a> <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Japan</a>, advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a> and Mr. Takumi Nito. My current research focus includes machine learning, reinforcement learning, computer vision, robotics. <br>
+Hey there! I am a second year Masters student at <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute's</a> <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Japan</a>, advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a> and Mr. Takumi Nito. My current research focus includes machine learning, reinforcement learning, computer vision, robotics. <br> <br>
 
-Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> (Summer 2018). <br>
+Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> (Summer 2018). <br> <br>
 
-Email ID: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a><br>
+Email ID: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a><br><br>
 
 <b>I am actively looking for full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b>
 </div>
@@ -35,9 +35,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <!-- I [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. Feel free to read a bit [more about me]({{ site.url }}/about)! -->
 
-<!-- ### Updates -->
-<!-- <span style="color:#8B0000; font-size: 24px"><b>Updates</b></span> -->
-<table width="100%" align="center" border="0" cellspacing="0">
+<!-- <table width="100%" align="center" border="0" cellspacing="0">
 <tbody>
 	<tr>
 		<td>
@@ -46,50 +44,29 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	</tr>
 </tbody>
 </table>
-
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
 	<tr>
 		<div style="height: 180px; overflow: auto; font-size: 14px;">
-		<table>
-		<col width="100px">
-		<col width="650px">
-		<tr><td><b>Aug 2022:</b></td><td>Teaching Assistant for "ECE 225A: Probability and Statistics for Data Science" at UCSD</td></tr>
-		<tr><td><b>Apr 2022:</b></td><td>Teaching Assistant for "ECE 109: Engineering Probability and Statistics" at UCSD</td></tr>
-		<tr><td><b>Jan 2022:</b></td><td>Teaching Assistant for "ECE 101: Linear Systems" at UCSD</td></tr>
-		<tr><td><b>Sep 2021:</b></td><td>Started my M.S. in Electrical and Computer Engineering at UC San Diego</td></tr>
-		<tr><td><b>Feb 2021:</b></td><td>Presented: Localization in dynamic scenarios using SLAM at Hitachi Kenron</td></tr>
-		<tr><td><b>Jul 2020:</b></td><td>Talk at Hitachi AI Conference on Indoor Positioning Systems (<a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">slides</a>)</td></tr>
-		<tr><td><b>Oct 2019:</b></td><td>Joined Intelligent Vision Research Group at <a href="https://www.hitachi.com/rd/index.html">Hitachi Central Research Lab</a> in Tokyo </td></tr>
-		<tr><td><b>Sep 2019:</b></td><td><a href="https://ieeexplore.ieee.org/document/8970257">Paper</a> on Indoor Distance Estimation using LSTMs over WLAN network accepted at <a href="https://ieeexplore.ieee.org/xpl/conhome/8961320/proceeding">WPNC 2019</a></td></tr>
-		<tr><td><b>Aug 2019:</b></td><td>Graduated from IIT Bombay, receiving the Undergraduate Research Award</td></tr>
-		<tr><td><b>Jan 2019:</b></td><td>Teaching Assistant for Signals and Systems (EE 210) at <a href="https://www.iitb.ac.in">IIT Bombay</a></td></tr>
-		<tr><td><b>Jul 2018:</b></td><td>Successfully completed internship at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> in Bengaluru</td></tr>
-		<!-- <a href="https://www.cics.umass.edu/grads/phd-portfolio">PhD candidacy</a> with distinction!</td></tr> -->
-		<!-- <tr><td><b>Sep 2020:</b></td><td>new <a href="https://arxiv.org/abs/2010.05700">paper</a> on paraphrasing for unsupervised style transfer to appear at EMNLP 2020. Check out a live demo and the codebase <a href="http://style.cs.umass.edu">here</a>.</td></tr> -->
-		<!-- <tr><td><b>Sep 2020:</b></td><td>I am excited to share a new bird photography webpage! Check the <a href="{{ site.url }}/birding">Birding</a> tab.</td></tr>
-		<tr><td><b>Jun 2020:</b></td><td>I was recognized as an <a href="https://www.aclweb.org/anthology/2020.acl-main.0.pdf#page=25">outstanding reviewer</a> for ACL 2020!</td></tr>
-		<tr><td><b>May 2020:</b></td><td>started my summer internship at <a href="https://research.google/teams/brain/">Google Brain</a>, where I will be working with <a href="https://sites.google.com/site/royaurko">Aurko Roy</a></td></tr>
-		<tr><td><b>Apr 2020:</b></td><td>new <a href="http://www.cleverhans.io/2020/04/06/stealing-bert.html">blogpost</a> with <a href="https://www.papernot.fr">Nicolas Papernot</a> on our ICLR 2020 paper on model extraction attacks on BERT.</td></tr>
-		<tr><td><b>Jan 2020:</b></td><td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst with Neha Nayak Kennard. If you have speaker recommendations, fill them <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2gqWTn4UXWqxbuLB1EPcuLBO7hP3aXh-ZluMvJsxL-hHI2Q/viewform">here</a>!</td></tr>
-		<tr><td><b>Dec 2019:</b></td><td> new <a href="https://arxiv.org/abs/1910.12366">paper</a> on model extraction attacks on BERT-based models to appear at ICLR 2020.</td></tr>
-		<tr><td><b>Oct 2019:</b></td><td> new <a href="https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/">blog</a> surveying twelve recent NLP PhD applicants on the graduate school admission process! Also an <a href="https://www.insightiitb.org/umass-amherst-kalpesh-krishna-univ-series/">Insight IITB article</a> on my personal experience.</td></tr>
-		<tr><td><b>Aug 2019:</b></td><td> lightning talk at the <a href="https://medium.com/ai2-blog/2019-allennlp-summit-c954d258f819">AllenNLP Summit 2019</a> on using AllenNLP for education. Check out the AllenNLP homework I designed for our grad NLP class <a href="https://github.com/martiansideofthemoon/allennlp-probe-hw">here</a>!</td></tr>
-		<tr><td><b>Jul 2019:</b></td><td> presented papers on <a href="https://arxiv.org/abs/1906.02622">QA generation</a> and <a href="https://arxiv.org/abs/1906.02780">faster transformer decoding</a> at ACL 2019. Check out our <a href="http://squash.cs.umass.edu/">web demo</a> on hierarchical QA generation!</td></tr>
-		<tr><td><b>Jul 2019:</b></td><td> awarded the <a href="http://www.acl2019.org/EN/student-scholarship-applications-volunteers.xhtml">ACL 2019 Student Scholarship</a> and the <a href="https://www.cics.umass.edu/support#lesser">Victor Lesser Graduate Scholarship</a></td></tr>
-		<tr><td><b>Jun 2019:</b></td><td> <a href="http://purvaten.github.io/">Purva Tendulkar</a> won the <a href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a> for our <a href="https://arxiv.org/abs/1903.07820">paper</a> in ICCC 2019!</td></tr>
-		<tr><td><b>Apr 2019:</b></td><td> talk at the UMass <a href="https://ds.cs.umass.edu/news-events/events/data-science-research-symposium-2019">Data Science Research Symposium 2019</a></td></tr>
-		<tr><td><b>Apr 2019:</b></td><td> new <a href="https://arxiv.org/abs/1903.07820">paper</a> on thematic doodle generation to appear in <a href="http://www.computationalcreativity.net/iccc2019/">ICCC 2019</a></td></tr>
-		<tr><td><b>Nov 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1808.07733">paper</a> on logic rules for sentiment classification at EMNLP 2018 (<a href="assets/emnlp-2018.pdf">slides</a>)</td></tr>
-		<tr><td><b>Sep 2018:</b></td><td> started my PhD in Computer Science at UMass Amherst</td></tr>
-		<tr><td><b>Jul 2018:</b></td><td> new <a href="https://arxiv.org/abs/1807.06234">preprint</a> on hierarchical multitask learning for speech recognition</td></tr>
-		<tr><td><b>Jun 2018:</b></td><td> new blogs on <a href="2018/05/29/grad-resources.html">grad resources</a>, <a href="2018/06/04/cs-opportunities.html">IIT Bombay CS opportunities</a> and <a href="2018/06/05/crowd-sourcing.html">crowdsourcing</a></td></tr>
-		<tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr> -->
-		</table>
+			<table>
+			<col width="100px">
+			<col width="650px">
+			<tr><td><b>Aug 2022:</b></td><td>Teaching Assistant for "ECE 225A: Probability and Statistics for Data Science" at UCSD</td></tr>
+			<tr><td><b>Apr 2022:</b></td><td>Teaching Assistant for "ECE 109: Engineering Probability and Statistics" at UCSD</td></tr>
+			<tr><td><b>Jan 2022:</b></td><td>Teaching Assistant for "ECE 101: Linear Systems" at UCSD</td></tr>
+			<tr><td><b>Sep 2021:</b></td><td>Started my M.S. in Electrical and Computer Engineering at UC San Diego</td></tr>
+			<tr><td><b>Feb 2021:</b></td><td>Presented: Localization in dynamic scenarios using SLAM at Hitachi Kenron</td></tr>
+			<tr><td><b>Jul 2020:</b></td><td>Talk at Hitachi AI Conference on Indoor Positioning Systems (<a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">slides</a>)</td></tr>
+			<tr><td><b>Oct 2019:</b></td><td>Joined Intelligent Vision Research Group at <a href="https://www.hitachi.com/rd/index.html">Hitachi Central Research Lab</a> in Tokyo </td></tr>
+			<tr><td><b>Sep 2019:</b></td><td><a href="https://ieeexplore.ieee.org/document/8970257">Paper</a> on Indoor Distance Estimation using LSTMs over WLAN network accepted at <a href="https://ieeexplore.ieee.org/xpl/conhome/8961320/proceeding">WPNC 2019</a></td></tr>
+			<tr><td><b>Aug 2019:</b></td><td>Graduated from IIT Bombay, receiving the Undergraduate Research Award</td></tr>
+			<tr><td><b>Jan 2019:</b></td><td>Teaching Assistant for Signals and Systems (EE 210) at <a href="https://www.iitb.ac.in">IIT Bombay</a></td></tr>
+			<tr><td><b>Jul 2018:</b></td><td>Successfully completed internship at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> in Bengaluru</td></tr>
+			</table>
 		</div>
 	</tr>
 </tbody>
-</table>
+</table> -->
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
 <table width="100%" align="center" border="0" cellspacing="0">
 <tbody>
@@ -100,24 +77,24 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	</tr>
 </tbody>
 </table>
-
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
 	<tr>
 		<div style="font-size: 14px;">
-		I am deeply interested in the field of <b>machine learning</b> and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for constructing AI systems. Therefore, my research aims to create algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. One of my goals is to .I want to explore generalization, safety and adaptability that can be deployed in real-world scenarios. To achieve these objectives, I draw from my expertise in robotics, machine learning and computer vision.
-		<br><span class="brHeight"></span>
-		<br><span class="brHeight"></span>
-		<script type="text/javascript">
-			function toggleblock(blockId) {
-				var block = document.getElementById(blockId);
-				if (block.style.display == 'none') {
-					block.style.display = 'block' ;
-				} else {
-					block.style.display = 'none' ;
+			I am deeply interested in the field of <b>machine learning</b> and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for constructing AI systems. Therefore, my research aims to create algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. One of my goals is to .I want to explore generalization, safety and adaptability that can be deployed in real-world scenarios. To achieve these objectives, I draw from my expertise in robotics, machine learning and computer vision.
+			<br><span class="brHeight"></span>
+			<br><span class="brHeight"></span>
+			<script type="text/javascript">
+				function toggleblock(blockId) {
+					var block = document.getElementById(blockId);
+					if (block.style.display == 'none') {
+						block.style.display = 'block' ;
+					} else {
+						block.style.display = 'none' ;
+					}
 				}
-			}
-		</script>
+			</script>
+		</div>
 	</tr>
 </tbody>
 </table>
