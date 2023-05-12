@@ -115,7 +115,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</script>
 		</td>
 		<td class="projectBody">
-			<papertitle>Localization in Dynamic Environments with Targeted Inference based VI-SLAM</papertitle>
+			<papertitle>Localization in Dynamic Environments with Targeted Inference VI-SLAM</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Takumi Nito, <a href="https://www.linkedin.com/in/katsuyuki-nakamura-19b9bb88/?originalSubdomain=jp">Katsuyuki Nakamura</a><br>
