@@ -79,7 +79,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tbody>
 		<tr>
 			<div>
-				I am deeply interested in the field of <b>machine learning</b> and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for constructing AI systems. Therefore, my research aims to create algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. I want to explore generalization, safety and adaptability that can be deployed in real-world scenarios. To achieve these objectives, I draw from my expertise in robotics, machine learning and computer vision.
+				I am broadly interested in the field of <b>machine learning</b>, <b>robot learning</b> and <b>computer vision</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for the generalization and adaptation of neural agents. My research aims to develop AI algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. I believe AI in the future should be flexible, learn with little supervision, and learn continuously over their lifetime. I work with reinforcement learning, machine learning, computer vision and robotics.
 				<!-- <br><span class="brHeight"></span> -->
 				<!-- <br><span class="brHeight"></span> -->
 			</div>
@@ -364,7 +364,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
 	<tr>
-		<td class="projectWallpaper">
+		<td class="smallprojectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/ucsd_logo.png' alt="UCSD_logo" width="100%">
 			</div>
@@ -378,7 +378,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				inerf_stop()
 			</script>
 		</td>
-		<td class="projectBody">
+		<td class="bigprojectBody">
 			<div class="authorDetails">
 				[1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023), taught by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a><br>
 				[2] CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a><br>
@@ -390,46 +390,27 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<td class="projectWallpaper">
+		<td class="smallprojectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/nss_logo.png' alt="UCSD_logo" width="100%">
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
-		<td class="projectBody">
+		<td class="bigprojectBody">
 			<papertitle>Teaching Volunteer</papertitle>, <a href="https://nss.iitb.ac.in/home/">National Service Scheme, IIT Bombay</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-			<a href="https://nss.iitb.ac.in/depts/EO/">Education Outreach Program</a>, 2015 - 16<br>
 			<span class="brHeight"></span>
-			<p>Taught Science and Mathematics to a group of 10-15 underprivileged middle school students</p>
+			<p>Taught Science and Mathematics to underprivileged students under <a href="https://nss.iitb.ac.in/depts/EO/">Education Outreach Program</a> during 2015 - 16 </p>
 			</div>
 		</td>
 	</tr>
 	<tr>
-	<td class="projectWallpaper">
+	<td class="smallprojectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/mnpclub_iitb_logo.png' alt="UCSD_logo" width="100%">
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
-		<td class="projectBody">
+		<td class="bigprojectBody">
 			<papertitle>Mentor</papertitle>, <a href="http://mnp-club.github.io/sos/">Summer of Science ('19 & '20), IIT Bombay</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
@@ -446,5 +427,36 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</div>
 	</td>
 	</tr> -->
+</tbody>
+</table>
+
+<table width="100%" align="center" border="0" cellspacing="0">
+<tbody>
+  <tr>
+    <td>
+      <heading>Open Source Contribution</heading>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
+<tbody>
+  <tr>
+	<td class="smallprojectWallpaper">
+		<div>
+			<img src='{{ site.url }}/assets/images/kivy_logo.png' alt="Kivy_logo" width="100%">
+		</div>
+	</td>
+    <td class="bigprojectBody">
+      <papertitle><a href="https://kivy.org/#home"><b>Kivy</b></a>, <a href="http://kivent.org"><b>Kivent</b></a></papertitle> - open-source platform for innovative UI development<br>
+      <span class="brHeight"></span>
+      <div class="authorDetails">
+        <span class="brHeight"></span>
+        <p>Contributed to several projects in open-source platforms - Kivy, Kivent. Introduced new features, solved multiple development-related bugs and issues, worked on map development for game-engine interfaces</p>
+        <!-- <p>Contributed to several open source projects for Kivy. Merged 9 pull request (PR) to Kivy and 2 PR to Kivent. Introduced a new feature in Kivent to get tile index given the pixel values for orthogonal, isometric, staggered isometric and hexagonal game maps by analyzing their geometrical construction</p> -->
+      </div>
+    </td>
+  </tr>
 </tbody>
 </table>
