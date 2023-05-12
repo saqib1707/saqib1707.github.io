@@ -363,20 +363,11 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
-	<tr>
+	<!-- <tr>
 		<td class="smallprojectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/ucsd_logo.png' alt="UCSD_logo" width="100%">
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
 		<td class="bigprojectBody">
 			<div class="authorDetails">
@@ -385,10 +376,10 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				[3] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
 				[4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
 				[5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br>
-				<!-- [5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br> -->
+				[5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br>
 			</div>
 		</td>
-	</tr>
+	</tr> -->
 	<tr>
 		<td class="smallprojectWallpaper">
 			<div>
