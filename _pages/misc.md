@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Miscellaneous
-permalink: /miscellaneous/
-description: Saqib Azim's Miscellaneous Activities
+# layout: page
+# title: Miscellaneous
+# permalink: /miscellaneous/
+# description: Saqib Azim's Miscellaneous Activities
 ---
 
 <table width="100%" align="center" border="0" cellspacing="0">

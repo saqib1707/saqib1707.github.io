@@ -1,8 +1,8 @@
 ---
-layout: page
+# layout: page
 # title: About
-permalink: /about/
-description: Saqib Azim's Bio
+# permalink: /about/
+# description: Saqib Azim's Bio
 ---
 
 My name is Saqib Azim, and I am a researcher in the Intelligent Vision Research Department at [Hitachi Central Research Lab](https://www.hitachi.com/rd/), Tokyo. I am advised by [Dr. Katsuyuki Nakamura](https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88) and Mr. Takumi Nito, working in the area of computer vision and deep learning. My research interests lies in the areas of machine learning and its inter-disciplinary applications, optimization, computer vision, robotics, signal and image processing.

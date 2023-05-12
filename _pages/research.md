@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Research
-permalink: /research/
-description: Saqib Azim's Research
+# layout: page
+# title: Research
+# permalink: /research/
+# description: Saqib Azim's Research
 ---
 
 My research interests span a breadth of fields including machine learning, computer vision, robotics, etc. Following is a non-exclusive list of my projects. Feel free to look at my [CV]({{site.url}}/assets/CV/CV_SaqibAzim_public.pdf). More details will be updated soon.
