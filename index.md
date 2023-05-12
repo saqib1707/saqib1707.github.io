@@ -385,6 +385,20 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tr>
 		<td class="smallprojectWallpaper">
 			<div>
+				<img src='{{ site.url }}/assets/images/iitbombay_logo.png' alt="UCSD_logo" width="100%">
+			</div>
+		</td>
+		<td class="bigprojectBody">
+			<papertitle>Teaching Assistant</papertitle>, <a href="https://www.iitb.ac.in/">IIT Bombay</a><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+				EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. J.K. Nair</a>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="smallprojectWallpaper">
+			<div>
 				<img src='{{ site.url }}/assets/images/nss_logo.png' alt="UCSD_logo" width="100%">
 			</div>
 		</td>
