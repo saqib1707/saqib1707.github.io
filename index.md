@@ -363,23 +363,25 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
-	<!-- <tr>
+	<tr>
 		<td class="smallprojectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/ucsd_logo.png' alt="UCSD_logo" width="100%">
 			</div>
 		</td>
 		<td class="bigprojectBody">
+			<papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
-				[1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023), taught by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a><br>
-				[2] CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a><br>
-				[3] ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
-				[4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
-				[5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br>
-				[5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br>
+				- DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023), taught by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a><br>
+				- CSE 166 - Image Processing (Winter 2023), taught by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a><br>
+				- ECE 225A - Probability and Statistics for Data Science (Fall 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
+				<!-- [4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br> -->
+				<!-- [5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br> -->
+				<!-- [5] EE 210 - Signals and Systems (Spring 2019), taught by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> @ IIT Bombay <br> -->
 			</div>
 		</td>
-	</tr> -->
+	</tr>
 	<tr>
 		<td class="smallprojectWallpaper">
 			<div>
@@ -390,8 +392,8 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<papertitle>Teaching Volunteer</papertitle>, <a href="https://nss.iitb.ac.in/home/">National Service Scheme, IIT Bombay</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-			<span class="brHeight"></span>
-			<p>Taught Science and Mathematics to underprivileged students under <a href="https://nss.iitb.ac.in/depts/EO/">Education Outreach Program</a> during 2015 - 16 </p>
+				<span class="brHeight"></span>
+				<p>Taught Science and Mathematics to underprivileged students under <a href="https://nss.iitb.ac.in/depts/EO/">Education Outreach Program</a> during 2015 - 16 </p>
 			</div>
 		</td>
 	</tr>
