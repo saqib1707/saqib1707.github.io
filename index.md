@@ -386,7 +386,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				- CSE 166 - Image Processing (Winter 2023) by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a><br>
 				- ECE 225A - Probability and Statistics for Data Science (Fall 2022) by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
 				<!-- [4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br> -->
-				<!-- [5] ECE 101 - Linear Systems (Winter 2022), taught by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br> -->
+				- ECE 101 - Linear Signals and Systems (Winter 2022) by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br>
 			</div>
 		</td>
 	</tr>
