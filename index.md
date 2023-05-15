@@ -180,6 +180,31 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 	</tr>
+	<tr>
+		<td class="projectWallpaper">
+			<img src='{{ site.url }}/assets/images/handwriting_recog_wallpaper.png' alt="LPS" width="100%">
+			<script type="text/javascript">
+				function inerf_start() {
+					document.getElementById('inerf_image').style.opacity = "1";
+				}
+				function inerf_stop() {
+					document.getElementById('inerf_image').style.opacity = "0";
+				}
+				inerf_stop()
+			</script>
+		</td>
+		<td class="projectBody">
+			<papertitle>Handwritten Text Recognition using Smartwatch</papertitle>
+			<br><span class="brHeight"></span>
+			<div class="authorDetails">
+				Student Research Fellow at <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bengaluru</a> advised by <a href="https://www.linkedin.com/in/shankar-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
+				<span class="brHeight"></span>
+				<a href="javascript:toggleblock('hand_text_recog_abs')">abstract</a><br>
+				<br><span class="brHeight"></span>
+				<p id="hand_text_recog_abs" class="abstract">Prototyped a handwritten text recognizer by estimating wrist movements using smartwatch IMU sensors· Employed learned frequency filters followed by adaptive thresholding to improve raw signal SNR· Learned the relationship between hand movements (IMU signals) and character pattern using an SVM classifier (detecting valid IMU signal segments), and an LSTM (for character recognition)· Trained the end-to-end system on a custom-created dataset and achieved 87% recognition accuracy</p>
+			</div>
+		</td>
+	</tr>
 </tbody>
 </table>
 
@@ -195,6 +220,33 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
+			</div>
+			<script type="text/javascript">
+				function inerf_start() {
+					document.getElementById('inerf_image').style.opacity = "1";
+				}
+				function inerf_stop() {
+					document.getElementById('inerf_image').style.opacity = "0";
+				}
+				inerf_stop()
+			</script>
+		</td>
+		<td class="projectBody">
+			<papertitle>Adversarial Robustness Analysis of CLIP Model</papertitle>
+			<br><span class="brHeight"></span>
+			<div class="authorDetails">
+				<strong>Saqib Azim</strong>, <a href="https://lilyweng.github.io/">Prof. Lily Weng</a>
+				<!-- <br><span class="brHeight"></span> -->
+				<!-- <a href="javascript:toggleblock('speech_enhancement_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf">report</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_slides.pdf">presentation</a><br> -->
+				<!-- <br><span class="brHeight"></span> -->
+				<!-- <p id="speech_enhancement_abs" class="abstract">In this project, we present an end-to-end data-driven system for enhancing the quality of speech signals using a convolutional-recurrent neural network. We present a quantitative and qualitative analysis of our speech enhancement system on a real-world noisy speech dataset and evaluate our proposed system's performance using several metrics such as SNR, PESQ, STOI, etc. We have employed wavelet pooling mechanism instead of max-pooling layer in the convolutional layer of our proposed model and compared the performances of these variants. Based on our experiments, we demonstrate that our model's performance on noisy speech signals using haar wavelet is better than when using max-pooling. In addition, wavelet based approach results in faster convergence during training as compared to other variants.</p> -->
+			</div>
+		</td>
+	</tr>
 	<tr>
 		<td class="projectWallpaper">
 			<div>
@@ -219,31 +271,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<a href="javascript:toggleblock('speech_enhancement_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf">report</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_slides.pdf">presentation</a><br>
 				<br><span class="brHeight"></span>
 				<p id="speech_enhancement_abs" class="abstract">In this project, we present an end-to-end data-driven system for enhancing the quality of speech signals using a convolutional-recurrent neural network. We present a quantitative and qualitative analysis of our speech enhancement system on a real-world noisy speech dataset and evaluate our proposed system's performance using several metrics such as SNR, PESQ, STOI, etc. We have employed wavelet pooling mechanism instead of max-pooling layer in the convolutional layer of our proposed model and compared the performances of these variants. Based on our experiments, we demonstrate that our model's performance on noisy speech signals using haar wavelet is better than when using max-pooling. In addition, wavelet based approach results in faster convergence during training as compared to other variants.</p>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="projectWallpaper">
-			<!-- <a href="{{site.url}}/assets/pubs/btp_thesis.pdf" target="_blank"> --><img src='{{ site.url }}/assets/images/handwriting_recog_wallpaper.png' alt="LPS" width="100%"><!-- </a> -->
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
-		</td>
-		<td class="projectBody">
-			<!-- <a href="{{site.url}}/assets/pubs/btp_thesis.pdf"> --><papertitle>Handwritten Text Recognition using Smartwatch</papertitle><!-- </a> -->
-			<br><span class="brHeight"></span>
-			<div class="authorDetails">
-				Student Research Fellow at <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bengaluru</a> advised by <a href="https://www.linkedin.com/in/shankar-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
-				<span class="brHeight"></span>
-				<a href="javascript:toggleblock('hand_text_recog_abs')">abstract</a><br>
-				<br><span class="brHeight"></span>
-				<p id="hand_text_recog_abs" class="abstract">Prototyped a handwritten text recognizer by estimating wrist movements using smartwatch IMU sensors· Employed learned frequency filters followed by adaptive thresholding to improve raw signal SNR· Learned the relationship between hand movements (IMU signals) and character pattern using an SVM classifier (detecting valid IMU signal segments), and an LSTM (for character recognition)· Trained the end-to-end system on a custom-created dataset and achieved 87% recognition accuracy</p>
 			</div>
 		</td>
 	</tr>
