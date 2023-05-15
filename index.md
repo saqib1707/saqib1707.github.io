@@ -79,9 +79,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tbody>
 		<tr>
 			<div>
-				I am broadly interested in the field of <b>machine learning</b>, <b>robot learning</b> and <b>computer vision</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for the generalization and adaptation of neural agents. My research aims to develop AI algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. I believe AI in the future should be flexible, learn with little supervision, and learn continuously over their lifetime. I work with reinforcement learning, machine learning, computer vision and robotics.
-				<!-- <br><span class="brHeight"></span> -->
-				<!-- <br><span class="brHeight"></span> -->
+				<p>I am broadly interested in the field of <b>machine learning</b>, <b>robot learning</b> and <b>computer vision</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for the generalization and adaptation of neural agents. My research aims to develop AI algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. I believe AI in the future should be flexible, learn with little supervision, and learn continuously over their lifetime. I work with reinforcement learning, machine learning, computer vision and robotics.</p>
 			</div>
 		</tr>
 	</tbody>
@@ -197,11 +195,11 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<papertitle>Handwritten Text Recognition using Smartwatch</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
-				Student Research Fellow at <a href="https://research.samsung.com/sri-b">Samsung Research Institute Bengaluru</a> advised by <a href="https://www.linkedin.com/in/shankar-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
+				AI Intern at <a href="https://research.samsung.com/sri-b">Samsung R\&D Institute</a> advised by <a href="https://www.linkedin.com/in/shankar-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
 				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('hand_text_recog_abs')">abstract</a><br>
 				<br><span class="brHeight"></span>
-				<p id="hand_text_recog_abs" class="abstract">Prototyped a handwritten text recognizer by estimating wrist movements using smartwatch IMU sensors· Employed learned frequency filters followed by adaptive thresholding to improve raw signal SNR· Learned the relationship between hand movements (IMU signals) and character pattern using an SVM classifier (detecting valid IMU signal segments), and an LSTM (for character recognition)· Trained the end-to-end system on a custom-created dataset and achieved 87% recognition accuracy</p>
+				<p id="hand_text_recog_abs" class="abstract">As part of the text recognition team at the Advanced Technology Lab, I played a key role in developing a 3D handwritten text recognition system that estimated wrist and hand movements using smartwatch IMU sensors. One of the major challenges we faced was modeling sensor noise, which resulted in significant drifts in the generated characters. To mitigate this issue, I implemented adaptive frequency filters to preprocess the raw signals and improve the signal-to-noise ratio. I also designed the data collection procedures for training our system, utilizing a pipelined SVM and LSTM model to learn the relation between hand movements and character patterns, thus achieving an impressive 95% accuracy on unseen test data.</p>
 			</div>
 		</td>
 	</tr>
@@ -318,7 +316,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</script>
 		</td>
 		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/edl_report.pdf"><papertitle>PPG Signal Acquisition Module</papertitle></a>
+			<a href="{{site.url}}/assets/pubs/edl_report.pdf"><papertitle>Photoplethysmogram (PPG) Signal Acquisition Module</papertitle></a>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Advisor: </strong>
@@ -348,7 +346,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</script>
 		</td>
 		<td class="projectBody">
-			<papertitle>Zero-Shot Learning for Object Recognition</papertitle>
+			<papertitle>Zero-Shot Learning (ZSL) for Object Recognition</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Advisor: </strong> <a href="https://www.ee.iitb.ac.in/~sc/main/main.html">Prof. Subhasis Chaudhuri</a>
@@ -359,7 +357,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 	</tr>
-	<tr>
+	<!-- <tr>
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/image_editor_wallpaper.png' alt="image_editor" width="100%">
@@ -383,7 +381,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<a href="{{site.url}}/assets/pubs/image_editor_report.pdf">report</a> / <a href="https://github.com/saqib1707/Image-Editor">code</a>
 			</div>
 		</td>
-	</tr>
+	</tr> -->
 </tbody>
 </table>
 

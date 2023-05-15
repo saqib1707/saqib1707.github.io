@@ -67,24 +67,24 @@ li {
 }
 
 papertitle {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-family: $base-font-family;
     font-size: $base-font-size + 1;
-    font-weight: 600;
+    // font-weight: 400;
 }
 
 // authorName {
-//     font-family: 'Lato', Verdana, Helvetica, sans-serif;
+//     font-family: $base-font-family;
 //     font-size: 14px;
 // }
 
 // confName {
-//     font-family: 'Lato', Verdana, Helvetica, sans-serif;
+//     font-family: $base-font-family;
 //     font-size: 14px;
 //     font-style: italic;
 // }
 
 .authorDetails {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-family: $base-font-family;
     font-size: $small-font-size;
 }
 
@@ -95,21 +95,21 @@ papertitle {
 }
 
 heading {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-family: $base-font-family;
     font-size: 22px;
-    font-weight: 500;
+    font-weight: $base-font-weight+100;
     color:#8B0000;
 }
 
 confName {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-family: $base-font-family;
     font-size: $small-font-size;
     font-style: italic;
 }
 
 .projectWallpaper {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-bottom: 20px;
     padding-top: 20px;
     width: 25%;
@@ -117,8 +117,8 @@ confName {
 }
 
 .projectBody {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-bottom: 20px;
     padding-top: 20px;
     width: 75%;
@@ -126,8 +126,8 @@ confName {
 }
 
 .smallprojectWallpaper {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-bottom: 20px;
     padding-top: 20px;
     width: 15%;
@@ -135,8 +135,8 @@ confName {
 }
 
 .bigprojectBody {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-bottom: 20px;
     padding-top: 20px;
     width: 85%;
