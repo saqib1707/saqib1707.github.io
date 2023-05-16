@@ -136,15 +136,15 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<!-- <script type="text/javascript">
+		<script type="text/javascript">
 			function inerf_start() {
-				document.getElementById('lps_abs').style.opacity = "1";
+				document.getElementById('inerf_image').style.opacity = "1";
 			}
 			function inerf_stop() {
-				document.getElementById('lps_abs').style.opacity = "0";
+				document.getElementById('inerf_image').style.opacity = "0";
 			}
 			inerf_stop()
-		</script> -->
+		</script>
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/lps_wallpaper.PNG'>
@@ -166,15 +166,15 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<!-- <script type="text/javascript">
+		<script type="text/javascript">
 			function inerf_start() {
-				document.getElementById('btp_thesis_abs').style.opacity = "1";
+				document.getElementById('inerf_image').style.opacity = "1";
 			}
 			function inerf_stop() {
-				document.getElementById('btp_thesis_abs').style.opacity = "0";
+				document.getElementById('inerf_image').style.opacity = "0";
 			}
 			inerf_stop()
-		</script> -->
+		</script>
 		<td class="projectWallpaper">
 			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf" target="_blank"><img src='{{ site.url }}/assets/images/btp_wallpaper.png' alt="LPS" width="100%"></a>
 		</td>
@@ -191,15 +191,15 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<!-- <script type="text/javascript">
+		<script type="text/javascript">
 			function inerf_start() {
-				document.getElementById('hand_text_recog_abs').style.opacity = "1";
+				document.getElementById('inerf_image').style.opacity = "1";
 			}
 			function inerf_stop() {
-				document.getElementById('hand_text_recog_abs').style.opacity = "0";
+				document.getElementById('inerf_image').style.opacity = "0";
 			}
 			inerf_stop()
-		</script> -->
+		</script>
 		<td class="projectWallpaper">
 			<img src='{{ site.url }}/assets/images/handwriting_recog_wallpaper.png' alt="LPS" width="100%">
 		</td>
@@ -231,15 +231,15 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
 	<tr>
-		<!-- <script type="text/javascript">
+		<script type="text/javascript">
 			function inerf_start() {
-				document.getElementById('speech_enhancement_abs').style.opacity = "1";
+				document.getElementById('inerf_image').style.opacity = "1";
 			}
 			function inerf_stop() {
-				document.getElementById('speech_enhancement_abs').style.opacity = "0";
+				document.getElementById('inerf_image').style.opacity = "0";
 			}
 			inerf_stop()
-		</script> -->
+		</script>
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
@@ -258,7 +258,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<!-- <script type="text/javascript">
+		<script type="text/javascript">
 			function inerf_start() {
 				document.getElementById('speech_enhancement_abs').style.opacity = "1";
 			}
@@ -266,7 +266,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				document.getElementById('speech_enhancement_abs').style.opacity = "0";
 			}
 			inerf_stop()
-		</script> -->
+		</script>
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/speech_enhancement_wallpaper.png' alt="SpeechEnhancement" width="100%">
