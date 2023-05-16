@@ -112,15 +112,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/slam_wallpaper.png'>
 			</div>
-			<!-- <script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script> -->
 		</td>
 		<td class="projectBody">
 			<papertitle>Localization in Dynamic Environments with Targeted Inference VI-SLAM</papertitle>
@@ -134,19 +125,19 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
+		<script type="text/javascript">
+			function inerf_start() {
+				document.getElementById('lps_abs').style.opacity = "1";
+			}
+			function inerf_stop() {
+				document.getElementById('lps_abs').style.opacity = "0";
+			}
+			inerf_stop()
+		</script>
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/lps_wallpaper.PNG'>
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('lps_abs').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('lps_abs').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
 		<td class="projectBody">
 			<a href="https://arxiv.org/abs/2003.13991"><papertitle>Indoor Distance Estimation using LSTMs over WLAN Network</papertitle></a>
@@ -164,17 +155,17 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
+		<script type="text/javascript">
+			function inerf_start() {
+				document.getElementById('btp_thesis_abs').style.opacity = "1";
+			}
+			function inerf_stop() {
+				document.getElementById('btp_thesis_abs').style.opacity = "0";
+			}
+			inerf_stop()
+		</script>
 		<td class="projectWallpaper">
 			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf" target="_blank"><img src='{{ site.url }}/assets/images/btp_wallpaper.png' alt="LPS" width="100%"></a>
-			<!-- <script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script> -->
 		</td>
 		<td class="projectBody">
 			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf"><papertitle>Optimal Multi-Agent Pursuer-Evader Shepherding Problem</papertitle></a>
@@ -184,22 +175,22 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('btp_thesis_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/btp_thesis.pdf">thesis</a> / <a href="{{site.url}}/assets/pubs/btp_presentation.pdf">presentation</a><br>
 				<br><span class="brHeight"></span>
-				<p id="btp_thesis_abs" class="abstract">In this report, we proposed an interaction rule between an evader and a pursuer and our objective was to try to find an optimal feedback control for the pursuer to drive the evaders to destination. With this regard, we first formulated our problem as a constrained optimization problem and solved using global search algorithm available in global optimization toolbox of matlab. The result from these experiments were then used to predict a feedback control algorithm but unfortunately this could not be made possible. Then we shifted from predicting ourselves to let the machine learn from the data and predict the trajectory for us. We used LSTM-based model with fully connected layers and posed the problem as a regression task to produce pursuer next position given current and past trajectory information of all the agents. The experimental results from the optimization task was used as dataset for this approach. After training, the trajectories were estimated iteratively for numerous initial conditions but we could not get the desired result. This approach requires modifications in order for it to work.</p>
+				<p id="btp_thesis_abs">In this report, we proposed an interaction rule between an evader and a pursuer and our objective was to try to find an optimal feedback control for the pursuer to drive the evaders to destination. With this regard, we first formulated our problem as a constrained optimization problem and solved using global search algorithm available in global optimization toolbox of matlab. The result from these experiments were then used to predict a feedback control algorithm but unfortunately this could not be made possible. Then we shifted from predicting ourselves to let the machine learn from the data and predict the trajectory for us. We used LSTM-based model with fully connected layers and posed the problem as a regression task to produce pursuer next position given current and past trajectory information of all the agents. The experimental results from the optimization task was used as dataset for this approach. After training, the trajectories were estimated iteratively for numerous initial conditions but we could not get the desired result. This approach requires modifications in order for it to work.</p>
 			</div>
 		</td>
 	</tr>
 	<tr>
+		<script type="text/javascript">
+			function inerf_start() {
+				document.getElementById('hand_text_recog_abs').style.opacity = "1";
+			}
+			function inerf_stop() {
+				document.getElementById('hand_text_recog_abs').style.opacity = "0";
+			}
+			inerf_stop()
+		</script>
 		<td class="projectWallpaper">
 			<img src='{{ site.url }}/assets/images/handwriting_recog_wallpaper.png' alt="LPS" width="100%">
-			<!-- <script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script> -->
 		</td>
 		<td class="projectBody">
 			<papertitle>Handwritten Text Recognition using Smartwatch</papertitle>
@@ -209,7 +200,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('hand_text_recog_abs')">abstract</a><br>
 				<br><span class="brHeight"></span>
-				<p id="hand_text_recog_abs" class="abstract">As part of the text recognition team at the Advanced Technology Lab, I played a key role in developing a 3D handwritten text recognition system that estimated wrist and hand movements using smartwatch IMU sensors. One of the major challenges we faced was modeling sensor noise, which resulted in significant drifts in the generated characters. To mitigate this issue, I implemented adaptive frequency filters to preprocess the raw signals and improve the signal-to-noise ratio. I also designed the data collection procedures for training our system, utilizing a pipelined SVM and LSTM model to learn the relation between hand movements and character patterns, thus achieving an impressive 95% accuracy on unseen test data.</p>
+				<p id="hand_text_recog_abs">As part of the text recognition team at the Advanced Technology Lab, I played a key role in developing a 3D handwritten text recognition system that estimated wrist and hand movements using smartwatch IMU sensors. One of the major challenges we faced was modeling sensor noise, which resulted in significant drifts in the generated characters. To mitigate this issue, I implemented adaptive frequency filters to preprocess the raw signals and improve the signal-to-noise ratio. I also designed the data collection procedures for training our system, utilizing a pipelined SVM and LSTM model to learn the relation between hand movements and character patterns, thus achieving an impressive 95% accuracy on unseen test data.</p>
 			</div>
 		</td>
 	</tr>
@@ -229,19 +220,19 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
 	<tr>
+		<script type="text/javascript">
+			function inerf_start() {
+				document.getElementById('speech_enhancement_abs').style.opacity = "1";
+			}
+			function inerf_stop() {
+				document.getElementById('speech_enhancement_abs').style.opacity = "0";
+			}
+			inerf_stop()
+		</script>
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
 			</div>
-			<!-- <script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script> -->
 		</td>
 		<td class="projectBody">
 			<papertitle>Adversarial Robustness Analysis of CLIP Model</papertitle>
@@ -256,19 +247,19 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
+		<script type="text/javascript">
+			function inerf_start() {
+				document.getElementById('speech_enhancement_abs').style.opacity = "1";
+			}
+			function inerf_stop() {
+				document.getElementById('speech_enhancement_abs').style.opacity = "0";
+			}
+			inerf_stop()
+		</script>
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/speech_enhancement_wallpaper.png' alt="SpeechEnhancement" width="100%">
 			</div>
-			<!-- <script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script> -->
 		</td>
 		<td class="projectBody">
 			<a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf"><papertitle>Speech Enhancement using Convolutional-Recurrent Network & Wavelet Pooling</papertitle></a>
@@ -278,24 +269,24 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('speech_enhancement_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf">report</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_slides.pdf">presentation</a><br>
 				<br><span class="brHeight"></span>
-				<p id="speech_enhancement_abs" class="abstract">In this project, we present an end-to-end data-driven system for enhancing the quality of speech signals using a convolutional-recurrent neural network. We present a quantitative and qualitative analysis of our speech enhancement system on a real-world noisy speech dataset and evaluate our proposed system's performance using several metrics such as SNR, PESQ, STOI, etc. We have employed wavelet pooling mechanism instead of max-pooling layer in the convolutional layer of our proposed model and compared the performances of these variants. Based on our experiments, we demonstrate that our model's performance on noisy speech signals using haar wavelet is better than when using max-pooling. In addition, wavelet based approach results in faster convergence during training as compared to other variants.</p>
+				<p id="speech_enhancement_abs">In this project, we present an end-to-end data-driven system for enhancing the quality of speech signals using a convolutional-recurrent neural network. We present a quantitative and qualitative analysis of our speech enhancement system on a real-world noisy speech dataset and evaluate our proposed system's performance using several metrics such as SNR, PESQ, STOI, etc. We have employed wavelet pooling mechanism instead of max-pooling layer in the convolutional layer of our proposed model and compared the performances of these variants. Based on our experiments, we demonstrate that our model's performance on noisy speech signals using haar wavelet is better than when using max-pooling. In addition, wavelet based approach results in faster convergence during training as compared to other variants.</p>
 			</div>
 		</td>
 	</tr>
 	<tr>
+		<script type="text/javascript">
+			function inerf_start() {
+				document.getElementById('barc_interiit_abs').style.opacity = "1";
+			}
+			function inerf_stop() {
+				document.getElementById('barc_interiit_abs').style.opacity = "0";
+			}
+			inerf_stop()
+		</script>
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/barc_interiit_wallpaper.png' alt="EDL" width="100%">
 			</div>
-			<!-- <script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script> -->
 		</td>
 		<td class="projectBody">
 			<a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf"><papertitle>TV Audience Measurement Challenge</papertitle></a>
@@ -306,7 +297,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('barc_interiit_abs')">abstract</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">presentation</a><br>
 				<br><span class="brHeight"></span>
-				<p id="barc_interiit_abs" class="abstract">Proposed scalable and robust solutions for <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">various challenges</a> put forward by <a href="https://www.barcindia.co.in/">BARC India</a> such as channel identification, advertisement and content classification and recognition, age and gender recognition of viewers and providing hardware free solution in order to capture TV viewership data of the country</p>
+				<p id="barc_interiit_abs">Proposed scalable and robust solutions for <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">various challenges</a> put forward by <a href="https://www.barcindia.co.in/">BARC India</a> such as channel identification, advertisement and content classification and recognition, age and gender recognition of viewers and providing hardware free solution in order to capture TV viewership data of the country</p>
 			</div>
 		</td>
 	</tr>
@@ -315,15 +306,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/edl_wallpaper.png' alt="EDL" width="100%">
 			</div>
-			<!-- <script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script> -->
 		</td>
 		<td class="projectBody">
 			<a href="{{site.url}}/assets/pubs/edl_report.pdf"><papertitle>Photoplethysmogram (PPG) Signal Acquisition Module</papertitle></a>
@@ -345,15 +327,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/zsl_wallpaper.png' alt="EDL" width="100%">
 			</div>
-			<!-- <script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script> -->
 		</td>
 		<td class="projectBody">
 			<papertitle>Zero-Shot Learning (ZSL) for Object Recognition</papertitle>
