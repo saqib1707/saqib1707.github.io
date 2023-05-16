@@ -66,6 +66,16 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 </tbody>
 </table> -->
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+	function inerf_start() {
+		document.getElementsByClassName('abstract').style.opacity = "1";
+	}
+	function inerf_stop() {
+		document.getElementsByClassName('abstract').style.opacity = "0";
+	}
+	inerf_stop()
+</script>
+
 <table width="100%" align="center" border="0" cellspacing="0" class="tableHeadings">
 	<tbody>
 		<tr>
@@ -102,7 +112,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/slam_wallpaper.png'>
 			</div>
-			<script type="text/javascript">
+			<!-- <script type="text/javascript">
 				function inerf_start() {
 					document.getElementById('inerf_image').style.opacity = "1";
 				}
@@ -110,7 +120,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 					document.getElementById('inerf_image').style.opacity = "0";
 				}
 				inerf_stop()
-			</script>
+			</script> -->
 		</td>
 		<td class="projectBody">
 			<papertitle>Localization in Dynamic Environments with Targeted Inference VI-SLAM</papertitle>
@@ -130,10 +140,10 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 			<script type="text/javascript">
 				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
+					document.getElementById('lps_abs').style.opacity = "1";
 				}
 				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
+					document.getElementById('lps_abs').style.opacity = "0";
 				}
 				inerf_stop()
 			</script>
@@ -156,7 +166,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tr>
 		<td class="projectWallpaper">
 			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf" target="_blank"><img src='{{ site.url }}/assets/images/btp_wallpaper.png' alt="LPS" width="100%"></a>
-			<script type="text/javascript">
+			<!-- <script type="text/javascript">
 				function inerf_start() {
 					document.getElementById('inerf_image').style.opacity = "1";
 				}
@@ -164,7 +174,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 					document.getElementById('inerf_image').style.opacity = "0";
 				}
 				inerf_stop()
-			</script>
+			</script> -->
 		</td>
 		<td class="projectBody">
 			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf"><papertitle>Optimal Multi-Agent Pursuer-Evader Shepherding Problem</papertitle></a>
@@ -181,7 +191,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tr>
 		<td class="projectWallpaper">
 			<img src='{{ site.url }}/assets/images/handwriting_recog_wallpaper.png' alt="LPS" width="100%">
-			<script type="text/javascript">
+			<!-- <script type="text/javascript">
 				function inerf_start() {
 					document.getElementById('inerf_image').style.opacity = "1";
 				}
@@ -189,13 +199,13 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 					document.getElementById('inerf_image').style.opacity = "0";
 				}
 				inerf_stop()
-			</script>
+			</script> -->
 		</td>
 		<td class="projectBody">
 			<papertitle>Handwritten Text Recognition using Smartwatch</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
-				AI Intern at <a href="https://research.samsung.com/sri-b">Samsung R\&D Institute</a> advised by <a href="https://www.linkedin.com/in/shankar-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
+				AI Intern at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> advised by <a href="https://www.linkedin.com/in/shankar-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
 				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('hand_text_recog_abs')">abstract</a><br>
 				<br><span class="brHeight"></span>
@@ -223,7 +233,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
 			</div>
-			<script type="text/javascript">
+			<!-- <script type="text/javascript">
 				function inerf_start() {
 					document.getElementById('inerf_image').style.opacity = "1";
 				}
@@ -231,7 +241,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 					document.getElementById('inerf_image').style.opacity = "0";
 				}
 				inerf_stop()
-			</script>
+			</script> -->
 		</td>
 		<td class="projectBody">
 			<papertitle>Adversarial Robustness Analysis of CLIP Model</papertitle>
@@ -250,7 +260,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/speech_enhancement_wallpaper.png' alt="SpeechEnhancement" width="100%">
 			</div>
-			<script type="text/javascript">
+			<!-- <script type="text/javascript">
 				function inerf_start() {
 					document.getElementById('inerf_image').style.opacity = "1";
 				}
@@ -258,7 +268,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 					document.getElementById('inerf_image').style.opacity = "0";
 				}
 				inerf_stop()
-			</script>
+			</script> -->
 		</td>
 		<td class="projectBody">
 			<a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf"><papertitle>Speech Enhancement using Convolutional-Recurrent Network & Wavelet Pooling</papertitle></a>
@@ -277,7 +287,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/barc_interiit_wallpaper.png' alt="EDL" width="100%">
 			</div>
-			<script type="text/javascript">
+			<!-- <script type="text/javascript">
 				function inerf_start() {
 					document.getElementById('inerf_image').style.opacity = "1";
 				}
@@ -285,7 +295,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 					document.getElementById('inerf_image').style.opacity = "0";
 				}
 				inerf_stop()
-			</script>
+			</script> -->
 		</td>
 		<td class="projectBody">
 			<a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf"><papertitle>TV Audience Measurement Challenge</papertitle></a>
@@ -305,7 +315,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/edl_wallpaper.png' alt="EDL" width="100%">
 			</div>
-			<script type="text/javascript">
+			<!-- <script type="text/javascript">
 				function inerf_start() {
 					document.getElementById('inerf_image').style.opacity = "1";
 				}
@@ -313,7 +323,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 					document.getElementById('inerf_image').style.opacity = "0";
 				}
 				inerf_stop()
-			</script>
+			</script> -->
 		</td>
 		<td class="projectBody">
 			<a href="{{site.url}}/assets/pubs/edl_report.pdf"><papertitle>Photoplethysmogram (PPG) Signal Acquisition Module</papertitle></a>
@@ -335,7 +345,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/zsl_wallpaper.png' alt="EDL" width="100%">
 			</div>
-			<script type="text/javascript">
+			<!-- <script type="text/javascript">
 				function inerf_start() {
 					document.getElementById('inerf_image').style.opacity = "1";
 				}
@@ -343,7 +353,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 					document.getElementById('inerf_image').style.opacity = "0";
 				}
 				inerf_stop()
-			</script>
+			</script> -->
 		</td>
 		<td class="projectBody">
 			<papertitle>Zero-Shot Learning (ZSL) for Object Recognition</papertitle>
