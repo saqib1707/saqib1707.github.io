@@ -116,7 +116,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	</tbody>
 </table>
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
 <tbody>
 	<tr>
 		<td class="projectWallpaper">
@@ -228,7 +228,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	</tbody>
 </table>
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
 <tbody>
 	<tr>
 		<td class="projectWallpaper">
