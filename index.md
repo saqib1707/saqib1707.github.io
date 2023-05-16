@@ -140,15 +140,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/lps_wallpaper.PNG'>
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
 		<td class="projectBody">
 			<a href="https://arxiv.org/abs/2003.13991"><papertitle>Indoor Distance Estimation using LSTMs over WLAN Network</papertitle></a>
@@ -161,7 +152,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('lps_abs')">abstract</a> / <a href="https://arxiv.org/abs/2003.13991">arXiv</a> / <a href="https://ieeexplore.ieee.org/document/8970257">paper</a> / <a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">presentation</a><br>
 				<span class="brHeight"></span>
-				<p id="lps_abs" class="abstract">The Global Navigation Satellite Systems (GNSS) like GPS suffer from accuracy degradation and are almost unavailable in indoor environments. Indoor positioning systems (IPS) based on WiFi signals have been gaining popularity. However, owing to the strong spatial and temporal variations of wireless communication channels in the indoor environment, the achieved accuracy of existing IPS is around several tens of centimeters. We present the detailed design and implementation of a self-adaptive WiFi-based indoor distance estimation system using LSTMs. The system is novel in its method of estimating with high accuracy the distance of an object by overcoming possible causes of channel variations and is self-adaptive to the changing environmental and surrounding conditions. The proposed design has been developed and physically realized over a WiFi network consisting of ESP8266 (NodeMCU) devices. The experiments were conducted in a real indoor environment while changing the surroundings in order to establish the adaptability of the system. We compare different architectures for this task based on LSTMs, CNNs, and fully connected networks (FCNs). We show that the LSTM based model performs better among all the above-mentioned architectures by achieving an accuracy of 5.85 cm with a confidence interval of 93% on the scale of (8.46 m × 6.98 m). To the best of our knowledge, the proposed method outperforms other methods reported in the literature by a significant margin</p>
+				<p id="lps_abs" style="font-style:italic; display:none; text-align:justify;">The Global Navigation Satellite Systems (GNSS) like GPS suffer from accuracy degradation and are almost unavailable in indoor environments. Indoor positioning systems (IPS) based on WiFi signals have been gaining popularity. However, owing to the strong spatial and temporal variations of wireless communication channels in the indoor environment, the achieved accuracy of existing IPS is around several tens of centimeters. We present the detailed design and implementation of a self-adaptive WiFi-based indoor distance estimation system using LSTMs. The system is novel in its method of estimating with high accuracy the distance of an object by overcoming possible causes of channel variations and is self-adaptive to the changing environmental and surrounding conditions. The proposed design has been developed and physically realized over a WiFi network consisting of ESP8266 (NodeMCU) devices. The experiments were conducted in a real indoor environment while changing the surroundings in order to establish the adaptability of the system. We compare different architectures for this task based on LSTMs, CNNs, and fully connected networks (FCNs). We show that the LSTM based model performs better among all the above-mentioned architectures by achieving an accuracy of 5.85 cm with a confidence interval of 93% on the scale of (8.46 m × 6.98 m). To the best of our knowledge, the proposed method outperforms other methods reported in the literature by a significant margin</p>
 			</div>
 		</td>
 	</tr>
@@ -170,15 +161,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/btp_wallpaper.png' alt="LPS" width="100%">
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
 		<td class="projectBody">
 			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf"><papertitle>Optimal Multi-Agent Pursuer-Evader Shepherding Problem</papertitle></a>
@@ -188,7 +170,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('btp_thesis_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/btp_thesis.pdf">thesis</a> / <a href="{{site.url}}/assets/pubs/btp_presentation.pdf">presentation</a><br>
 				<span class="brHeight"></span>
-				<p id="btp_thesis_abs" class="abstract">In this report, we proposed an interaction rule between an evader and a pursuer and our objective was to try to find an optimal feedback control for the pursuer to drive the evaders to destination. With this regard, we first formulated our problem as a constrained optimization problem and solved using global search algorithm available in global optimization toolbox of matlab. The result from these experiments were then used to predict a feedback control algorithm but unfortunately this could not be made possible. Then we shifted from predicting ourselves to let the machine learn from the data and predict the trajectory for us. We used LSTM-based model with fully connected layers and posed the problem as a regression task to produce pursuer next position given current and past trajectory information of all the agents. The experimental results from the optimization task was used as dataset for this approach. After training, the trajectories were estimated iteratively for numerous initial conditions but we could not get the desired result. This approach requires modifications in order for it to work.</p>
+				<p id="btp_thesis_abs" style="font-style:italic; display:none; text-align:justify;">In this report, we proposed an interaction rule between an evader and a pursuer and our objective was to try to find an optimal feedback control for the pursuer to drive the evaders to destination. With this regard, we first formulated our problem as a constrained optimization problem and solved using global search algorithm available in global optimization toolbox of matlab. The result from these experiments were then used to predict a feedback control algorithm but unfortunately this could not be made possible. Then we shifted from predicting ourselves to let the machine learn from the data and predict the trajectory for us. We used LSTM-based model with fully connected layers and posed the problem as a regression task to produce pursuer next position given current and past trajectory information of all the agents. The experimental results from the optimization task was used as dataset for this approach. After training, the trajectories were estimated iteratively for numerous initial conditions but we could not get the desired result. This approach requires modifications in order for it to work.</p>
 			</div>
 		</td>
 	</tr>
@@ -197,15 +179,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/handwriting_recog_wallpaper.png' alt="LPS" width="100%">
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
 		<td class="projectBody">
 			<papertitle>Handwritten Text Recognition using Smartwatch</papertitle>
@@ -284,7 +257,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('speech_enhancement_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf">report</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_slides.pdf">presentation</a><br>
 				<span class="brHeight"></span>
-				<p id="speech_enhancement_abs" style="font-style:italic; font-size:$small-font-size; display:none; text-align:justify;">In this project, we present an end-to-end data-driven system for enhancing the quality of speech signals using a convolutional-recurrent neural network. We present a quantitative and qualitative analysis of our speech enhancement system on a real-world noisy speech dataset and evaluate our proposed system's performance using several metrics such as SNR, PESQ, STOI, etc. We have employed wavelet pooling mechanism instead of max-pooling layer in the convolutional layer of our proposed model and compared the performances of these variants. Based on our experiments, we demonstrate that our model's performance on noisy speech signals using haar wavelet is better than when using max-pooling. In addition, wavelet based approach results in faster convergence during training as compared to other variants.</p>
+				<p id="speech_enhancement_abs" style="font-style:italic; display:none; text-align:justify;">In this project, we present an end-to-end data-driven system for enhancing the quality of speech signals using a convolutional-recurrent neural network. We present a quantitative and qualitative analysis of our speech enhancement system on a real-world noisy speech dataset and evaluate our proposed system's performance using several metrics such as SNR, PESQ, STOI, etc. We have employed wavelet pooling mechanism instead of max-pooling layer in the convolutional layer of our proposed model and compared the performances of these variants. Based on our experiments, we demonstrate that our model's performance on noisy speech signals using haar wavelet is better than when using max-pooling. In addition, wavelet based approach results in faster convergence during training as compared to other variants.</p>
 			</div>
 		</td>
 	</tr>
@@ -312,7 +285,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('barc_interiit_abs')">abstract</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">presentation</a><br>
 				<span class="brHeight"></span>
-				<p id="barc_interiit_abs" style="font-style:italic; font-size:$small-font-size; display:none; text-align:justify;">Proposed scalable and robust solutions for <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">various challenges</a> put forward by <a href="https://www.barcindia.co.in/">BARC India</a> such as channel identification, advertisement and content classification and recognition, age and gender recognition of viewers and providing hardware free solution in order to capture TV viewership data of the country</p>
+				<p id="barc_interiit_abs" style="font-style:italic; display:none; text-align:justify;">Proposed scalable and robust solutions for <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">various challenges</a> put forward by <a href="https://www.barcindia.co.in/">BARC India</a> such as channel identification, advertisement and content classification and recognition, age and gender recognition of viewers and providing hardware free solution in order to capture TV viewership data of the country</p>
 			</div>
 		</td>
 	</tr>
@@ -342,7 +315,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('edl_ppg_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/edl_report.pdf">report</a><br>
 				<span class="brHeight"></span>
-				<p id="edl_ppg_abs" class="abstract">A photoplethysmogram(PPG) is an optically obtained plethysmogram, a volumetric measurement of an organ. With each cardiac cycle the heart pumps blood to the periphery. The change in the volume caused by the blood is detected by illuminating the skin with IR light. We developed and implemented an electronic system to capture and display the PPG signal. We make infrared(IR) light incident on finger tip and measure the reflected IR light using a phototransistor which contains the PPG signal. The raw PPG signal is in the form of current output of the phototransistor, typically [0.2-0.4] mA, and we use a current to voltage converter to get the voltage signal. The raw PPG often has a large slowly varying baseline and it needs to be restored to optimally use the available ADC range. We carry out baseline restoration by controlling the bias voltage of the current injector using a microcontroller. We amplify the signal using a fixed value of gain resistor in the current to voltage converter. We also designed an auto-led intensity control to control the LED current and hence the emitted IR light in an effort to make the acquisition module adaptable to users with varying skin colours, motion artifacts etc. Finally we display the PPG signal on an android smartphone by transmitting the PPG signal over bluetooth.</p>
+				<p id="edl_ppg_abs" style="font-style:italic; display:none; text-align:justify;">A photoplethysmogram(PPG) is an optically obtained plethysmogram, a volumetric measurement of an organ. With each cardiac cycle the heart pumps blood to the periphery. The change in the volume caused by the blood is detected by illuminating the skin with IR light. We developed and implemented an electronic system to capture and display the PPG signal. We make infrared(IR) light incident on finger tip and measure the reflected IR light using a phototransistor which contains the PPG signal. The raw PPG signal is in the form of current output of the phototransistor, typically [0.2-0.4] mA, and we use a current to voltage converter to get the voltage signal. The raw PPG often has a large slowly varying baseline and it needs to be restored to optimally use the available ADC range. We carry out baseline restoration by controlling the bias voltage of the current injector using a microcontroller. We amplify the signal using a fixed value of gain resistor in the current to voltage converter. We also designed an auto-led intensity control to control the LED current and hence the emitted IR light in an effort to make the acquisition module adaptable to users with varying skin colours, motion artifacts etc. Finally we display the PPG signal on an android smartphone by transmitting the PPG signal over bluetooth.</p>
 			</div>
 		</td>
 	</tr>
@@ -369,7 +342,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('zsl_abs')">abstract</a> / <a href="https://github.com/saqib1707/Zero-Shot-Learning">code</a><br>
 				<span class="brHeight"></span>
-				<p id="zsl_abs" class="abstract">Proposed a semi-supervised VGG16-based encoder-decoder network to learn visual-to-semantic space mapping using novel combination of margin-based hinge-rank loss and Word2Vec embeddings. Explored multiple networks for better visual feature representations. Achieved improvement in recognition performance from 58.7% to 65.3% on the Animals with Attributes dataset over existing methods. </p>
+				<p id="zsl_abs" style="font-style:italic; display:none; text-align:justify;">Proposed a semi-supervised VGG16-based encoder-decoder network to learn visual-to-semantic space mapping using novel combination of margin-based hinge-rank loss and Word2Vec embeddings. Explored multiple networks for better visual feature representations. Achieved improvement in recognition performance from 58.7% to 65.3% on the Animals with Attributes dataset over existing methods. </p>
 			</div>
 		</td>
 	</tr>
