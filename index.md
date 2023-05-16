@@ -66,7 +66,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 </tbody>
 </table> -->
 <!-- ---------------------------------------------------------------------------------------------------------------------------- -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 	function inerf_start() {
 		document.getElementsByClassName('abstract').style.opacity = "1";
 	}
@@ -74,6 +74,17 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		document.getElementsByClassName('abstract').style.opacity = "0";
 	}
 	inerf_stop()
+</script> -->
+
+<script type="text/javascript">
+	function toggleblock(blockId) {
+	    var block = document.getElementById(blockId);
+	    if (block.style.display == 'none') {
+	        block.style.display = 'block' ;
+	    } else {
+	        block.style.display = 'none' ;
+	    }
+	}
 </script>
 
 <table width="100%" align="center" border="0" cellspacing="0" class="tableHeadings">
@@ -125,7 +136,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			function inerf_start() {
 				document.getElementById('lps_abs').style.opacity = "1";
 			}
@@ -133,7 +144,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				document.getElementById('lps_abs').style.opacity = "0";
 			}
 			inerf_stop()
-		</script>
+		</script> -->
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/lps_wallpaper.PNG'>
@@ -155,7 +166,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			function inerf_start() {
 				document.getElementById('btp_thesis_abs').style.opacity = "1";
 			}
@@ -163,7 +174,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				document.getElementById('btp_thesis_abs').style.opacity = "0";
 			}
 			inerf_stop()
-		</script>
+		</script> -->
 		<td class="projectWallpaper">
 			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf" target="_blank"><img src='{{ site.url }}/assets/images/btp_wallpaper.png' alt="LPS" width="100%"></a>
 		</td>
@@ -180,7 +191,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			function inerf_start() {
 				document.getElementById('hand_text_recog_abs').style.opacity = "1";
 			}
@@ -188,7 +199,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				document.getElementById('hand_text_recog_abs').style.opacity = "0";
 			}
 			inerf_stop()
-		</script>
+		</script> -->
 		<td class="projectWallpaper">
 			<img src='{{ site.url }}/assets/images/handwriting_recog_wallpaper.png' alt="LPS" width="100%">
 		</td>
@@ -220,7 +231,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
 	<tr>
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			function inerf_start() {
 				document.getElementById('speech_enhancement_abs').style.opacity = "1";
 			}
@@ -228,7 +239,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				document.getElementById('speech_enhancement_abs').style.opacity = "0";
 			}
 			inerf_stop()
-		</script>
+		</script> -->
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
@@ -247,7 +258,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			function inerf_start() {
 				document.getElementById('speech_enhancement_abs').style.opacity = "1";
 			}
@@ -255,7 +266,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				document.getElementById('speech_enhancement_abs').style.opacity = "0";
 			}
 			inerf_stop()
-		</script>
+		</script> -->
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/speech_enhancement_wallpaper.png' alt="SpeechEnhancement" width="100%">
@@ -274,7 +285,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</td>
 	</tr>
 	<tr>
-		<script type="text/javascript">
+		<!-- <script type="text/javascript">
 			function inerf_start() {
 				document.getElementById('barc_interiit_abs').style.opacity = "1";
 			}
@@ -282,7 +293,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				document.getElementById('barc_interiit_abs').style.opacity = "0";
 			}
 			inerf_stop()
-		</script>
+		</script> -->
 		<td class="projectWallpaper">
 			<div>
 				<img src='{{ site.url }}/assets/images/barc_interiit_wallpaper.png' alt="EDL" width="100%">
@@ -318,7 +329,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('edl_ppg_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/edl_report.pdf">report</a><br>
 				<br><span class="brHeight"></span>
-				<p id="edl_ppg_abs" class="abstract">A photoplethysmogram(PPG) is an optically obtained plethysmogram, a volumetric measurement of an organ. With each cardiac cycle the heart pumps blood to the periphery. The change in the volume caused by the blood is detected by illuminating the skin with IR light. We developed and implemented an electronic system to capture and display the PPG signal. We make infrared(IR) light incident on finger tip and measure the reflected IR light using a phototransistor which contains the PPG signal. The raw PPG signal is in the form of current output of the phototransistor, typically [0.2-0.4] mA, and we use a current to voltage converter to get the voltage signal. The raw PPG often has a large slowly varying baseline and it needs to be restored to optimally use the available ADC range. We carry out baseline restoration by controlling the bias voltage of the current injector using a microcontroller. We amplify the signal using a fixed value of gain resistor in the current to voltage converter. We also designed an auto-led intensity control to control the LED current and hence the emitted IR light in an effort to make the acquisition module adaptable to users with varying skin colours, motion artifacts etc. Finally we display the PPG signal on an android smartphone by transmitting the PPG signal over bluetooth.</p>
+				<p id="edl_ppg_abs">A photoplethysmogram(PPG) is an optically obtained plethysmogram, a volumetric measurement of an organ. With each cardiac cycle the heart pumps blood to the periphery. The change in the volume caused by the blood is detected by illuminating the skin with IR light. We developed and implemented an electronic system to capture and display the PPG signal. We make infrared(IR) light incident on finger tip and measure the reflected IR light using a phototransistor which contains the PPG signal. The raw PPG signal is in the form of current output of the phototransistor, typically [0.2-0.4] mA, and we use a current to voltage converter to get the voltage signal. The raw PPG often has a large slowly varying baseline and it needs to be restored to optimally use the available ADC range. We carry out baseline restoration by controlling the bias voltage of the current injector using a microcontroller. We amplify the signal using a fixed value of gain resistor in the current to voltage converter. We also designed an auto-led intensity control to control the LED current and hence the emitted IR light in an effort to make the acquisition module adaptable to users with varying skin colours, motion artifacts etc. Finally we display the PPG signal on an android smartphone by transmitting the PPG signal over bluetooth.</p>
 			</div>
 		</td>
 	</tr>
