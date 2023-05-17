@@ -9,10 +9,10 @@ description: Saqib Azim's CV and Resume
 <!-- - Short Resume (1 page) - [Resume]({{ site.url }}/assets/CV/CV_SaqibAzim_onepage.pdf) -->
 <b>Short Resume</b>
 <div>
-<embed src="assets/CV/Saqib_Azim_resume.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="{{ site.url }}/assets/CV/CV_SaqibAzim_onepage.pdf" type="application/pdf" width="100%" height="600px" />
 </div>
 
 <b>Full CV</b>
 <div>
-<embed src="assets/CV/Saqib_Azim_resume.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="{{ site.url }}/assets/CV/CV_SaqibAzim_onepage.pdf" type="application/pdf" width="100%" height="600px" />
 </div>
