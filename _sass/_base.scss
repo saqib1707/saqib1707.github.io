@@ -96,7 +96,7 @@ papertitle {
 
 heading {
     font-family: $base-font-family;
-    font-size: 24px;
+    font-size: $base-font-size * 1.5;
     font-weight: $base-font-weight+100;
     color:#8B0000;
 }
