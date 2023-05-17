@@ -482,7 +482,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
       <span class="brHeight"></span>
       <div class="authorDetails">
         <span class="brHeight"></span>
-        <p>Contributed to several projects in open-source platforms - Kivy, Kivent. Introduced several new features, worked on map integration for KivEnt game engine interfaces, solved multiple development bugs and issues.</p>
+        <p>Introduced several new features, worked on map integration for KivEnt game engine interfaces, solved multiple development bugs and issues.</p>
         <!-- <p>Contributed to several open source projects for Kivy. Merged 9 pull request (PR) to Kivy and 2 PR to Kivent. Introduced a new feature in Kivent to get tile index given the pixel values for orthogonal, isometric, staggered isometric and hexagonal game maps by analyzing their geometrical construction</p> -->
       </div>
     </td>
