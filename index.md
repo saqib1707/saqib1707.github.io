@@ -7,7 +7,7 @@ layout: page
 		<img style="width: auto; height: 100%;" src="https://avatars0.githubusercontent.com/u/18272074?s=400&u=59209b7d272a1e86a7547e24e29096722a6a0898&v=4">
 	</div>
 	<div style="width: auto; height: auto; position: absolute; margin-left: 0px; margin-right: 0px; text-align: center; left:0; right:0; bottom: 0">
-		<a href="{{site.url}}/assets/CV/CV_SaqibAzim_onepage.pdf"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqibazim/"><b>LinkedIn</b></a>
+		<a href="https://saqib1707.github.io/cv/"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqibazim/"><b>LinkedIn</b></a>
 	</div>
 </div>
 
@@ -443,7 +443,8 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<papertitle>Mentor</papertitle>, <a href="http://mnp-club.github.io/sos/">Summer of Science ('19 & '20), IIT Bombay</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-			<p>Helped 2 Masters', 4 UG students to learn topics in the field of AI, machine learning, vision and image processing. Guided them through project ideation and project completion over the course of summer</p>
+			<p>Provided guidance and mentorship to a group of students in AI, Machine Learning, Computer Vision and Image Processing. Assisted them in exploring project ideas and successfully completing their projects during summer.</p>
+			<!-- <p>Helped 2 Masters', 4 UG students to learn topics in the field of AI, machine learning, vision and image processing. Guided students through project ideation and completion during summer</p> -->
 			</div>
 		</td>
 	</tr>
