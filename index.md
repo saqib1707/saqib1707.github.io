@@ -212,15 +212,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
 		<td class="projectBody">
 			<papertitle>Adversarial Robustness Analysis of CLIP Model</papertitle>
@@ -239,15 +230,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/speech_enhancement_wallpaper.png' alt="SpeechEnhancement" width="100%">
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
 		<td class="projectBody">
 			<a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf"><papertitle>Speech Enhancement using Convolutional-Recurrent Network & Wavelet Pooling</papertitle></a>
@@ -266,15 +248,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div>
 				<img src='{{ site.url }}/assets/images/barc_interiit_wallpaper.png' alt="EDL" width="100%">
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
 		<td class="projectBody">
 			<a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf"><papertitle>TV Audience Measurement Challenge</papertitle></a>
@@ -292,47 +265,8 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tr>
 		<td class="projectWallpaper">
 			<div>
-				<img src='{{ site.url }}/assets/images/edl_wallpaper.png' alt="EDL" width="100%">
-			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
-		</td>
-		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/edl_report.pdf"><papertitle>Photoplethysmogram (PPG) Signal Acquisition Module</papertitle></a>
-			<br><span class="brHeight"></span>
-			<div class="authorDetails">
-				<strong>Advisor: </strong>
-				<a href="https://www.ee.iitb.ac.in/~pcpandey/">Prof. Prem C Pandey</a>
-				<br>
-				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, Ritik Madan
-				<br><span class="brHeight"></span>
-				<a href="javascript:toggleblock('edl_ppg_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/edl_report.pdf">report</a><br>
-				<span class="brHeight"></span>
-				<p id="edl_ppg_abs" style="font-style:italic; display:none; text-align:justify;">A photoplethysmogram(PPG) is an optically obtained plethysmogram, a volumetric measurement of an organ. With each cardiac cycle the heart pumps blood to the periphery. The change in the volume caused by the blood is detected by illuminating the skin with IR light. We developed and implemented an electronic system to capture and display the PPG signal. We make infrared(IR) light incident on finger tip and measure the reflected IR light using a phototransistor which contains the PPG signal. The raw PPG signal is in the form of current output of the phototransistor, typically [0.2-0.4] mA, and we use a current to voltage converter to get the voltage signal. The raw PPG often has a large slowly varying baseline and it needs to be restored to optimally use the available ADC range. We carry out baseline restoration by controlling the bias voltage of the current injector using a microcontroller. We amplify the signal using a fixed value of gain resistor in the current to voltage converter. We also designed an auto-led intensity control to control the LED current and hence the emitted IR light in an effort to make the acquisition module adaptable to users with varying skin colours, motion artifacts etc. Finally we display the PPG signal on an android smartphone by transmitting the PPG signal over bluetooth.</p>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="projectWallpaper">
-			<div>
 				<img src='{{ site.url }}/assets/images/zsl_wallpaper.png' alt="EDL" width="100%">
 			</div>
-			<script type="text/javascript">
-				function inerf_start() {
-					document.getElementById('inerf_image').style.opacity = "1";
-				}
-				function inerf_stop() {
-					document.getElementById('inerf_image').style.opacity = "0";
-				}
-				inerf_stop()
-			</script>
 		</td>
 		<td class="projectBody">
 			<papertitle>Zero-Shot Learning (ZSL) for Object Recognition</papertitle>
@@ -343,6 +277,24 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<a href="javascript:toggleblock('zsl_abs')">abstract</a> / <a href="https://github.com/saqib1707/Zero-Shot-Learning">code</a><br>
 				<span class="brHeight"></span>
 				<p id="zsl_abs" style="font-style:italic; display:none; text-align:justify;">Proposed a semi-supervised VGG16-based encoder-decoder network to learn visual-to-semantic space mapping using novel combination of margin-based hinge-rank loss and Word2Vec embeddings. Explored multiple networks for better visual feature representations. Achieved improvement in recognition performance from 58.7% to 65.3% on the Animals with Attributes dataset over existing methods. </p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/autonomouscar_wallpaper.png' alt="EDL" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<papertitle>Vision Team, Autonomous Driving Car</papertitle>
+			<br><span class="brHeight"></span>
+			<div class="authorDetails">
+				<!-- <strong>Advisor: </strong> <a href="https://www.ee.iitb.ac.in/~sc/main/main.html">Prof. Subhasis Chaudhuri</a> -->
+				<!-- <br><span class="brHeight"></span> -->
+				<a href="javascript:toggleblock('autonomouscar_abs')">abstract</a><br>
+				<span class="brHeight"></span>
+				<p id="autonomouscar_abs" style="font-style:italic; display:none; text-align:justify;">Worked on the vision and navigation pipelines of an autonomous car. Proposed a compute-efficient image processing algorithm to mitigate the effects of shadows and varying lighting conditions on roads. Managed the collection and annotation of a road dataset used to train our deep learning framework for road and obstacle detection.</p>
 			</div>
 		</td>
 	</tr>
@@ -371,6 +323,27 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 	</tr> -->
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/edl_wallpaper.png' alt="EDL" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<a href="{{site.url}}/assets/pubs/edl_report.pdf"><papertitle>Photoplethysmogram (PPG) Signal Acquisition Module</papertitle></a>
+			<br><span class="brHeight"></span>
+			<div class="authorDetails">
+				<strong>Advisor: </strong>
+				<a href="https://www.ee.iitb.ac.in/~pcpandey/">Prof. Prem C Pandey</a>
+				<br>
+				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, Ritik Madan
+				<br><span class="brHeight"></span>
+				<a href="javascript:toggleblock('edl_ppg_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/edl_report.pdf">report</a><br>
+				<span class="brHeight"></span>
+				<p id="edl_ppg_abs" style="font-style:italic; display:none; text-align:justify;">A photoplethysmogram(PPG) is an optically obtained plethysmogram, a volumetric measurement of an organ. With each cardiac cycle the heart pumps blood to the periphery. The change in the volume caused by the blood is detected by illuminating the skin with IR light. We developed and implemented an electronic system to capture and display the PPG signal. We make infrared(IR) light incident on finger tip and measure the reflected IR light using a phototransistor which contains the PPG signal. The raw PPG signal is in the form of current output of the phototransistor, typically [0.2-0.4] mA, and we use a current to voltage converter to get the voltage signal. The raw PPG often has a large slowly varying baseline and it needs to be restored to optimally use the available ADC range. We carry out baseline restoration by controlling the bias voltage of the current injector using a microcontroller. We amplify the signal using a fixed value of gain resistor in the current to voltage converter. We also designed an auto-led intensity control to control the LED current and hence the emitted IR light in an effort to make the acquisition module adaptable to users with varying skin colours, motion artifacts etc. Finally we display the PPG signal on an android smartphone by transmitting the PPG signal over bluetooth.</p>
+			</div>
+		</td>
+	</tr>
 </tbody>
 </table>
 
