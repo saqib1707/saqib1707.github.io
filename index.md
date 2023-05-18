@@ -199,7 +199,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tbody>
 		<tr>
 			<td>
-				<heading>Academic Projects</heading>
+				<heading>Academic and Misc. Projects</heading>
 			</td>
 		</tr>
 	</tbody>
