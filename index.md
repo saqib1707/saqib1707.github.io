@@ -2,12 +2,12 @@
 layout: page
 ---
 {% include JB/setup %}
-<div style="float:right; display: inline-block; position: relative; width: 30%; height: auto; padding: 5px;">
+<div style="float:right; display: inline-block; position: relative; width: 25%; height: auto; padding: 5px;">
 	<div style="width: auto; height: auto; overflow: hidden; border-radius: 50%; margin-left: auto; margin-right: auto;">
 		<img style="width: auto; height: 100%;" src="https://avatars0.githubusercontent.com/u/18272074?s=400&u=59209b7d272a1e86a7547e24e29096722a6a0898&v=4">
 	</div>
-	<div style="width: auto; height: auto; position: absolute; margin-left: 0px; margin-right: 0px; text-align: center; left:0; right:0; bottom: 0">
-		<a href="https://saqib1707.github.io/cv/"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqibazim/"><b>LinkedIn</b></a>
+	<div style="width: auto; height: auto; position: relative; margin-left: 0px; margin-right: 0px; margin-top: 10%; text-align: center;">
+		<strong><a href="https://saqib1707.github.io/cv/">CV</a></strong> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqibazim/"><b>LinkedIn</b></a>
 	</div>
 </div>
 <div>
