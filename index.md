@@ -2,7 +2,7 @@
 layout: page
 ---
 {% include JB/setup %}
-<div style="float:right; display: inline-block; position: relative; width: 230px; height: 250px; padding: 5px;">
+<!-- <div style="float:right; display: inline-block; position: relative; width: 230px; height: 250px; padding: 5px;">
 	<div style="width: 200px; height: 200px; overflow: hidden; border-radius: 50%; margin-left: auto; margin-right: auto;">
 		<img style="width: auto; height: 100%;" src="https://avatars0.githubusercontent.com/u/18272074?s=400&u=59209b7d272a1e86a7547e24e29096722a6a0898&v=4">
 	</div>
@@ -17,7 +17,33 @@ Hey there! I am a second year Masters student at <a href="https://jacobsschool.u
 Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> (Summer 2018). <br> <br>
 <b>Email ID</b>: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a><br><br>
 <b>I am actively looking for internship/full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b>
-</div>
+</div> -->
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
+<tbody>
+	<tr>
+		<td class="projectBody">
+			<div>
+				<p>Hey there! I am a second year Masters student at <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute's</a> <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Japan</a>, advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a> and Mr. Takumi Nito. My current research focus includes machine learning, reinforcement learning, computer vision, robotics.</p>
+				<p>Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> (Summer 2018). </p>
+				<p><b>Email ID</b>: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a></p>
+				<p><b>I am actively looking for internship/full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b></p>
+			</div>
+		</td>
+		<td class="projectWallpaper">
+			<div style="float:right; display: inline-block; position: relative; width: 230px; height: 250px; padding: 5px;">
+				<div style="width: 200px; height: 200px; overflow: hidden; border-radius: 50%; margin-left: auto; margin-right: auto;">
+					<img style="width: auto; height: 100%;" src="https://avatars0.githubusercontent.com/u/18272074?s=400&u=59209b7d272a1e86a7547e24e29096722a6a0898&v=4">
+				</div>
+				<div style="width: auto; height: auto; position: absolute; margin-left: 0px; margin-right: 0px; text-align: center; left:0; right:0; bottom: 0">
+					<a href="https://saqib1707.github.io/cv/"><b>CV</b></a> / <a href="https://github.com/saqib1707"><b>Github</b></a> / <a href="https://www.linkedin.com/in/saqibazim/"><b>LinkedIn</b></a>
+				</div>
+			</div>
+		</td>
+	</tr>
+</tbody>
+</table>
 
 <!-- To get an insight on my professional life so far, you can have a look at my [CV]({{site.url}}/cv/). I’m happy to get in touch at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. -->
 
