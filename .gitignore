@@ -1,5 +1,6 @@
 _site
 .DS_Store
+__pycache__/
 .jekyll
 .jekyll-metadata
 .bundle
@@ -9,3 +10,5 @@ Gemfile.lock
 node_modules
 package.json
 extra_modules/
+
+assets/profile_pics/
