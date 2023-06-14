@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+notitle: Contact
 permalink: /contact/
 description: Saqib Azim's Contact
 ---

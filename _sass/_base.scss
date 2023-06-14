@@ -99,6 +99,9 @@ heading {
     font-size: $base-font-size * 1.5;
     font-weight: $base-font-weight+100;
     color:#8B0000;
+    &:hover {
+        text-decoration: underline;
+    }
 }
 
 confName {
