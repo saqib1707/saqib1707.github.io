@@ -237,7 +237,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Adversarial Robustness Analysis of CLIP Model</papertitle>
+			<papertitle>Adversarial Robustness Analysis of Deep Models</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, <a href="https://lilyweng.github.io/">Prof. Lily Weng</a>
@@ -392,11 +392,11 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-				- DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023) by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a><br>
-				- CSE 166 - Image Processing (Winter 2023) by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a><br>
-				- ECE 225A - Probability and Statistics for Data Science (Fall 2022) by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br>
-				<!-- [4] ECE 109 - Engineering Probability and Statistics (Spring 2022), taught by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a><br> -->
-				- ECE 101 - Linear Signals and Systems (Winter 2022) by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a><br>
+				<p>[1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023) by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a></p><br>
+				<p>[2] CSE 166 - Image Processing (Winter 2023) by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a></p><br>
+				<p>[3] ECE 225A - Probability and Statistics for Data Science (Fall 2022) by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a></p><br>
+				<p>[4] ECE 109 - Engineering Probability and Statistics (Spring 2022) by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a></p><br>
+				<p>[5] ECE 101 - Linear Signals and Systems (Winter 2022) by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a></p><br>
 			</div>
 		</td>
 	</tr>
