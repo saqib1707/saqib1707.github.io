@@ -12,9 +12,9 @@ layout: page
 </div>
 <div>
 	<p>Hey there! I am a second year Masters student at <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute's</a> <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Japan</a>, advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a> and Mr. Takumi Nito. My current research focus includes machine learning, reinforcement learning, computer vision, robotics.</p>
-	<p>Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering + Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> (Summer 2018). </p>
+	<p>Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering with Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> (Summer 2018). </p>
 	<p><b>Email ID</b>: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a></p>
-	<p><b>I am actively looking for internship/full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b></p>
+	<p><b>I am actively looking for internship / full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b></p>
 </div>
 
 <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
@@ -123,7 +123,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tbody>
 		<tr>
 			<div>
-				<p>I am broadly interested in the field of <b>machine learning</b>, <b>robot learning</b> and <b>computer vision</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for the generalization and adaptation of neural agents. My research aims to develop AI algorithms that can be implemented in real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. I believe AI in the future should be flexible, learn with little supervision, and learn continuously over their lifetime. I work with reinforcement learning, machine learning, computer vision and robotics.</p>
+				<p>I am broadly interested in the field of <b>machine learning</b>, <b>computer vision</b>, and <b>robot learning</b>, which arises from my fascination with discovering similarities between human learning and artificial intelligence. As a remarkable product of evolution, humans can serve as a blueprint for the generalization and adaptation of neural agents. My research aims to develop AI algorithms that can be seamlessly implemented into real-world systems, enabling them to learn from human demonstrations and advance through self-supervised learning and curiosity. In my view, the future of AI lies in the development of flexible systems that require minimal supervision and have the ability to learn continuously throughout their lifespan.</p>
 			</div>
 		</tr>
 	</tbody>
@@ -391,12 +391,13 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		<td class="bigprojectBody">
 			<papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
 			<span class="brHeight"></span>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<p>[1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023) by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a></p><br>
-				<p>[2] CSE 166 - Image Processing (Winter 2023) by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a></p><br>
-				<p>[3] ECE 225A - Probability and Statistics for Data Science (Fall 2022) by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a></p><br>
-				<p>[4] ECE 109 - Engineering Probability and Statistics (Spring 2022) by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a></p><br>
-				<p>[5] ECE 101 - Linear Signals and Systems (Winter 2022) by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a></p><br>
+				<p>[1] DSC 140A - Probabilistic Modeling and Machine Learning (Spring 2023) by <a href="https://www.berkustun.com/">Prof. Berk Ustun</a></p>
+				<p>[2] CSE 166 - Image Processing (Winter 2023) by <a href="https://cseweb.ucsd.edu/~bochoa/">Prof. Ben Ochoa</a></p>
+				<p>[3] ECE 225A - Probability and Statistics for Data Science (Fall 2022) by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a></p>
+				<p>[4] ECE 109 - Engineering Probability and Statistics (Spring 2022) by <a href="https://scholar.google.com/citations?user=WUEjHB8AAAAJ&hl=en">Prof. Alon Orlitsky</a></p>
+				<p>[5] ECE 101 - Linear Signals and Systems (Winter 2022) by <a href="https://jacobsschool.ucsd.edu/faculty/profile?id=452">Prof. Saharnaz Baghdadchi</a></p>
 			</div>
 		</td>
 	</tr>
