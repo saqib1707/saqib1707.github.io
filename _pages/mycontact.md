@@ -15,7 +15,7 @@ description: Saqib Azim's Contact
 </tbody>
 </table>
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:50px">
 <tbody>
   <tr>
     <p>You can mail me at:</p>

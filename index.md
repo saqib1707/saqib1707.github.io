@@ -11,7 +11,7 @@ layout: page
 	</div>
 </div>
 <div>
-	<p>Hey there! I am a second year Masters student at <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> within the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Lab</a> in Japan, where I was advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a> and Mr. Takumi Nito. My current research focuses on machine learning, reinforcement learning, computer vision, and robotics.</p>
+	<p>Hey there! I am a second year Masters student at <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> within the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Dept. at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Lab</a> in Japan, where I was advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a>. My current research focuses on machine learning, reinforcement learning, computer vision, and robotics.</p>
 	<p>Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering with Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> (Summer 2018). </p>
 	<p><b>Email ID</b>: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a></p>
 	<p><b>I am actively looking for internship / full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b></p>
@@ -186,7 +186,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf"><papertitle>Optimal Multi-Agent Pursuer-Evader Shepherding Problem</papertitle></a>
+			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf"><papertitle>Optimal Pursuer-Evader Trajectory Estimation</papertitle></a>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Advisor: </strong><a href="https://www.ee.iitb.ac.in/wiki/faculty/dc">Prof. Debraj Chakraborty</a>
@@ -241,10 +241,10 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, <a href="https://lilyweng.github.io/">Prof. Lily Weng</a>
-				<!-- <br><span class="brHeight"></span> -->
-				<!-- <a href="javascript:toggleblock('speech_enhancement_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf">report</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_slides.pdf">presentation</a><br> -->
-				<!-- <br><span class="brHeight"></span> -->
-				<!-- <p id="speech_enhancement_abs" class="abstract">In this project, we present an end-to-end data-driven system for enhancing the quality of speech signals using a convolutional-recurrent neural network. We present a quantitative and qualitative analysis of our speech enhancement system on a real-world noisy speech dataset and evaluate our proposed system's performance using several metrics such as SNR, PESQ, STOI, etc. We have employed wavelet pooling mechanism instead of max-pooling layer in the convolutional layer of our proposed model and compared the performances of these variants. Based on our experiments, we demonstrate that our model's performance on noisy speech signals using haar wavelet is better than when using max-pooling. In addition, wavelet based approach results in faster convergence during training as compared to other variants.</p> -->
+				<br><span class="brHeight"></span>
+				<a href="javascript:toggleblock('adversarial_robustness_abs')">abstract</a>
+				<br><span class="brHeight"></span>
+				<p id="adversarial_robustness_abs" style="font-style:italic; display:none; text-align:justify;">We utilized attack methods such as FGSM, PGD, Auto-Attack to generate adversarial examples and conducted an empirical analysis of CLIP model's resilience to adversarial perturbations. I further developed robust CLIP-based classifier against L2-norm perturbations using adversarial training and randomized smoothing and evaluated the robust classifier on CIFAR10 and ImageNet datasets.</p>
 			</div>
 		</td>
 	</tr>
@@ -310,7 +310,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Vision Team, Autonomous Driving Car</papertitle>
+			<papertitle>Team Member - Autonomous Driving Car</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<!-- <strong>Advisor: </strong> <a href="https://www.ee.iitb.ac.in/~sc/main/main.html">Prof. Subhasis Chaudhuri</a> -->
