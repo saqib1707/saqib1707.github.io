@@ -148,7 +148,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Localization in Dynamic Environments with Targeted Inference VI-SLAM</papertitle>
+			<papertitle>Visual Localization in Dynamic Environments with Targeted Inference SLAM</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Takumi Nito, <a href="https://www.linkedin.com/in/katsuyuki-nakamura-19b9bb88/?originalSubdomain=jp">Katsuyuki Nakamura</a><br>
@@ -204,7 +204,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Handwritten Text Recognition using Smartwatch</papertitle>
+			<papertitle>3D Handwritten Text Recognition using Smartwatch</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				AI Intern at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> advised by <a href="https://www.linkedin.com/in/shankar-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
@@ -255,7 +255,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf"><papertitle>Speech Enhancement using Convolutional-Recurrent Network & Wavelet Pooling</papertitle></a>
+			<a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf"><papertitle>Speech Enhancement using Wavelet-based Convolutional-Recurrent Network</papertitle></a>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				Parthasarathi Kumar, <strong>Saqib Azim</strong>

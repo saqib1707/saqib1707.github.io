@@ -5,7 +5,7 @@ permalink: /contact/
 description: Saqib Azim's Contact
 ---
 
-<table width="100%" align="center" border="0" cellspacing="0">
+<table width="100%" style="align:center;border=0px;cellspacing=0px;margin-bottom:50px; margin-top:50px">
 <tbody>
   <tr>
     <td>
@@ -15,10 +15,10 @@ description: Saqib Azim's Contact
 </tbody>
 </table>
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:50px">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
   <tr>
-    <p>You can mail me at:</p>
+    <p>You can email me at:</p>
     <ul>
         <li><a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a></li>
         <li><a href="mailto: azimsaqib10@gmail.com">azimsaqib10@gmail.com</a></li>
