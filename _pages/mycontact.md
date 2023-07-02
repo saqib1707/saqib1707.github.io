@@ -5,7 +5,7 @@ permalink: /contact/
 description: Saqib Azim's Contact
 ---
 
-<table width="100%" style="align:center;border=0px;cellspacing=0px;margin-bottom:50px; margin-top:50px">
+<table width="100%" style="align:center;border=0px;cellspacing=0px;margin-bottom:20px; margin-top:20px">
 <tbody>
   <tr>
     <td>
