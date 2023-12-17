@@ -170,8 +170,8 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div class="authorDetails">
 				<a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <strong>Saqib Azim</strong>, <a href="https://saching007.github.io/">Sachin Goyal</a>, <a href="https://www.linkedin.com/in/tanya-choudhary-772660133/">Tanya Choudhary</a>, <a href="https://www.ee.iitb.ac.in/~akumar/">Kumar Appaiah</a>, <a href="https://www.sc.iitb.ac.in/~srikant/dokuwiki/doku.php/home">Sukumar Srikant</a>
 				<br>
-				<em>IEEE Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2019<br>
-				<em>Indian Patent Filed in Dec '18 (pending)</em>
+				<em>IEEE 16th Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2019<br>
+				<em>Indian Patent #467255 Granted in Nov 2023</em>
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('lps_abs')">abstract</a> / <a href="https://arxiv.org/abs/2003.13991">arXiv</a> / <a href="https://ieeexplore.ieee.org/document/8970257">paper</a> / <a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">presentation</a><br>
 				<span class="brHeight"></span>
@@ -237,7 +237,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Adversarial Robustness Analysis of Deep Models</papertitle>
+			<papertitle>Sur</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, <a href="https://lilyweng.github.io/">Prof. Lily Weng</a>
@@ -245,6 +245,24 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<a href="javascript:toggleblock('adversarial_robustness_abs')">abstract</a>
 				<br><span class="brHeight"></span>
 				<p id="adversarial_robustness_abs" style="font-style:italic; display:none; text-align:justify;">We utilized attack methods such as FGSM, PGD, Auto-Attack to generate adversarial examples and conducted an empirical analysis of CLIP model's resilience to adversarial perturbations. I further developed robust CLIP-based classifier against L2-norm perturbations using adversarial training and randomized smoothing and evaluated the robust classifier on CIFAR10 and ImageNet datasets.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/autoregressive_generation_logo.png' alt="SpeechEnhancement" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<papertitle>Survey of Autoregressive Models for Image and Video Generation</papertitle>
+			<br><span class="brHeight"></span>
+			<div class="authorDetails">
+				<strong>Saqib Azim</strong>, Mehul Arora, Narayanan Ranganatha, Mahesh Kumar
+				<br><span class="brHeight"></span>
+				<a href="javascript:toggleblock('autoregressive_generation_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/survey_autoregressive_image_video_generation.pdf">report</a>
+				<br><span class="brHeight"></span>
+				<p id="autoregressive_generation_abs" style="font-style:italic; display:none; text-align:justify;">This survey paper offers a comprehensive overview of recent advances in autoregressive (AR) models for image and video generation. It discusses state-of-the-art AR models like PixelCNN, PixelRNN, Gated PixelCNN, and PixelSNAIL, emphasizing their unique archi- tectures and contributions. The main challenge in AR models, handling long-range dependencies effectively, is addressed through various approaches, such as gated activations, self-attention mechanisms, and residual blocks. The paper presents Locally Masked Convolution and Autoregressive Diffusion Models as examples of order-agnostic approaches, improving upon traditional autoregressive models. Transformer-based networks are explored for autoregressive image generation, showcasing superior performance in image quality and synthesis tasks. Quantization-based models enhance image diversity and quality through feature quantization and variational regularization. The paper then discusses Autoregressive modeling in pixel space and latent space for video generation. The paper concludes by discussing the strengths, limitations, and future research directions in autoregressive models for image and video generation, providing valuable insights for researchers and practitioners.</p>
 			</div>
 		</td>
 	</tr>
