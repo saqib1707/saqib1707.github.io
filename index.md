@@ -237,7 +237,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Sur</papertitle>
+			<papertitle>Adversarial Robustness Analysis of Deep Models</papertitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, <a href="https://lilyweng.github.io/">Prof. Lily Weng</a>
@@ -255,7 +255,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Survey of Autoregressive Models for Image and Video Generation</papertitle>
+			<a href="{{site.url}}/assets/pubs/survey_autoregressive_image_video_generation.pdf"><papertitle>Survey of Autoregressive Models for Image and Video Generation</papertitle></a>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Mehul Arora, Narayanan Ranganatha, Mahesh Kumar
