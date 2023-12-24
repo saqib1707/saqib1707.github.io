@@ -141,6 +141,23 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
 <tbody>
+	<!-- <tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/slam_wallpaper.png'>
+			</div>
+		</td>
+		<td class="projectBody">
+			<papertitle>Robotic Manipulation using Adversarial Imitation Learning</papertitle>
+			<br><span class="brHeight"></span>
+			<div class="authorDetails">
+				<strong>Saqib Azim</strong>, Nikolay Atanasov<br>
+				<em>In preparation to be submitted to IROS 2024</em>
+				<br><span class="brHeight"></span>
+				<a href="{{site.url}}/assets/pubs/slam_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br>
+			</div>
+		</td>
+	</tr> -->
 	<tr>
 		<td class="projectWallpaper">
 			<div>
@@ -171,7 +188,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <strong>Saqib Azim</strong>, <a href="https://saching007.github.io/">Sachin Goyal</a>, <a href="https://www.linkedin.com/in/tanya-choudhary-772660133/">Tanya Choudhary</a>, <a href="https://www.ee.iitb.ac.in/~akumar/">Kumar Appaiah</a>, <a href="https://www.sc.iitb.ac.in/~srikant/dokuwiki/doku.php/home">Sukumar Srikant</a>
 				<br>
 				<em>IEEE 16th Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2019<br>
-				<em>Indian Patent #467255 Granted in Nov 2023</em>
+				<em>Indian Patent No. 467255, Awarded in November 2023</em>
 				<br><span class="brHeight"></span>
 				<a href="javascript:toggleblock('lps_abs')">abstract</a> / <a href="https://arxiv.org/abs/2003.13991">arXiv</a> / <a href="https://ieeexplore.ieee.org/document/8970257">paper</a> / <a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">presentation</a><br>
 				<span class="brHeight"></span>
@@ -245,6 +262,24 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<a href="javascript:toggleblock('adversarial_robustness_abs')">abstract</a>
 				<br><span class="brHeight"></span>
 				<p id="adversarial_robustness_abs" style="font-style:italic; display:none; text-align:justify;">We utilized attack methods such as FGSM, PGD, Auto-Attack to generate adversarial examples and conducted an empirical analysis of CLIP model's resilience to adversarial perturbations. I further developed robust CLIP-based classifier against L2-norm perturbations using adversarial training and randomized smoothing and evaluated the robust classifier on CIFAR10 and ImageNet datasets.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/particle_filter_slam_wallpaper.png' alt="SpeechEnhancement" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<papertitle>Particle-Filter SLAM and 2D Texture Mapping for Autonomous Navigation</papertitle>
+			<br><span class="brHeight"></span>
+			<div class="authorDetails">
+				<strong>Saqib Azim</strong>
+				<br><span class="brHeight"></span>
+				<a href="javascript:toggleblock('particle_filter_slam')">abstract</a> / <a href="{{site.url}}/assets/pubs/particle_filter_slam_report.pdf">report</a>
+				<br><span class="brHeight"></span>
+				<p id="particle_filter_slam" style="font-style:italic; display:none; text-align:justify;">In this project, we have successfully developed a SLAM (Simultaneous Localization and Mapping) system that integrates particle filters for concurrent localization and mapping of environments. This system harnesses data from a variety of sensors including encoders, LIDAR, IMU, and an RGBD Kinect camera. The project is structured in two main phases. Initially, we apply a particle filter algorithm for environment localization and mapping, utilizing data solely from LIDAR, encoders, and IMU sensors. In the subsequent phase, we enhance the generated map by adding textural details. This is achieved by incorporating data from the RGBD Kinect camera mounted on the robot, alongside the optimized robot trajectory derived from the particle filter algorithm employed in the first phase. This two-pronged approach allows for a more detailed and accurate representation of the mapped environment.</p>
 			</div>
 		</td>
 	</tr>
