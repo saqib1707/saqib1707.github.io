@@ -272,7 +272,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Particle-Filter SLAM and 2D Texture Mapping for Autonomous Navigation</papertitle>
+			<a href="{{site.url}}/assets/pubs/particle_filter_slam_report.pdf"><papertitle>Particle-Filter SLAM and 2D Texture Mapping for Autonomous Navigation</papertitle></a>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>
