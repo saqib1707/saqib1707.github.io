@@ -4,10 +4,10 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-// $base-font-family: 'Lato', Verdana, Helvetica, sans-serif;
+// $base-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$base-font-family: 'Lato', Verdana, Helvetica, sans-serif;
 // $base-font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
-$page-heading-font-family: "Titillium Web", Verdana, Helvetica, Arial;
+$page-heading-font-family: 'Titillium Web', Verdana, Helvetica, sans-serif;
 $base-font-size: 16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.95;
@@ -18,7 +18,8 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #ffffff;
-$brand-color:      #2a7ae2;
+$brand-color:      #325BBA;  /*#2a7ae2;*/
+$hover-color:      #FDB515;   /*#f7b733;*/  /*f09228;*/  /*darken($brand-color, 25%)*/
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -26,16 +27,17 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    950px;
+$on-laptop:        950px;
 $on-palm:          600px;
-$on-laptop:        900px;
 
-// Use media queries like this:
+// Use media queries like this (Following commented code gives error):
 // @include media-query($on-palm) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -47,4 +49,5 @@ $on-laptop:        900px;
         "base",
         "layout",
         "syntax-highlighting"
+        // url('https://fonts.googleapis.com/css?family=Lato:400,700')
 ;

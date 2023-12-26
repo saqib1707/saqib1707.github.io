@@ -25,3 +25,5 @@ footer-links-active:
 markdown: kramdown
 gems:
   - jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag

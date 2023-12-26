@@ -11,7 +11,7 @@ layout: page
 	</div>
 </div>
 <div>
-	<p>Hey there! I am a recent Masters student from <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> within the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Team at <a href="https://www.hitachi.com/rd/index.html">Hitachi, R&D Lab</a> in Japan, where I was advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a>. My current research focuses on machine learning, reinforcement learning, computer vision, and robotics.</p>
+	<p>Hey there! I am a recent Masters graduate from <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> within the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Team at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Group</a> in Japan, where I was advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a>. My current research focuses on machine learning, reinforcement learning, computer vision, and robotics.</p>
 	<p>Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering with Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> (Summer 2018). </p>
 	<p><b>Email ID</b>: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a></p>
 	<p><b>I am actively looking for internship / full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b></p>
@@ -141,23 +141,24 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
 <tbody>
-	<!-- <tr>
+	<tr>
 		<td class="projectWallpaper">
 			<div>
-				<img src='{{ site.url }}/assets/images/slam_wallpaper.png'>
+				<img src='{{ site.url }}/assets/images/robotic_manipulation_wallpaper.png'>
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Robotic Manipulation using Adversarial Imitation Learning</papertitle>
-			<br><span class="brHeight"></span>
+			<projectTitle>Robotic Manipulation using Adversarial Imitation Learning</projectTitle><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Nikolay Atanasov<br>
-				<em>In preparation to be submitted to IROS 2024</em>
-				<br><span class="brHeight"></span>
-				<a href="{{site.url}}/assets/pubs/slam_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br>
+				<span class="brHeight"></span>
+				<em>In preparation to be submitted to IROS 2024</em><br>
+				<span class="brHeight"></span>
+				<!-- <a href="{{site.url}}/assets/pubs/slam_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br> -->
 			</div>
 		</td>
-	</tr> -->
+	</tr>
 	<tr>
 		<td class="projectWallpaper">
 			<div>
@@ -165,12 +166,13 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Visual Localization in Dynamic Environments with Targeted Inference SLAM</papertitle>
+			<projectTitle>Visual Localization in Dynamic Environments with Targeted Inference SLAM</projectTitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Takumi Nito, <a href="https://www.linkedin.com/in/katsuyuki-nakamura-19b9bb88/?originalSubdomain=jp">Katsuyuki Nakamura</a><br>
-				<em>Japan Patent Filed in Aug '21 (pending)</em>
-				<br><span class="brHeight"></span>
+				<span class="brHeight"></span>
+				<em>Japan Patent Filed in Aug '21 (pending)</em><br>
+				<span class="brHeight"></span>
 				<a href="{{site.url}}/assets/pubs/slam_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br>
 			</div>
 		</td>
@@ -182,14 +184,14 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<a href="https://arxiv.org/abs/2003.13991"><papertitle>Indoor Distance Estimation using LSTMs over WLAN Network</papertitle></a>
-			<br><span class="brHeight"></span>
+			<projectTitle><a href="https://arxiv.org/abs/2003.13991">Indoor Distance Estimation using LSTMs over WLAN Network</a></projectTitle><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <strong>Saqib Azim</strong>, <a href="https://saching007.github.io/">Sachin Goyal</a>, <a href="https://www.linkedin.com/in/tanya-choudhary-772660133/">Tanya Choudhary</a>, <a href="https://www.ee.iitb.ac.in/~akumar/">Kumar Appaiah</a>, <a href="https://www.sc.iitb.ac.in/~srikant/dokuwiki/doku.php/home">Sukumar Srikant</a>
-				<br>
+				<a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <strong>Saqib Azim</strong>, <a href="https://saching007.github.io/">Sachin Goyal</a>, <a href="https://www.linkedin.com/in/tanya-choudhary-772660133/">Tanya Choudhary</a>, <a href="https://www.ee.iitb.ac.in/~akumar/">Kumar Appaiah</a>, <a href="https://www.sc.iitb.ac.in/~srikant/dokuwiki/doku.php/home">Sukumar Srikant</a><br>
+				<span class="brHeight"></span>
 				<em>IEEE 16th Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2019<br>
-				<em>Indian Patent No. 467255, Awarded in November 2023</em>
-				<br><span class="brHeight"></span>
+				<em>Indian Patent No. 467255, Awarded in November 2023</em><br>
+				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('lps_abs')">abstract</a> / <a href="https://arxiv.org/abs/2003.13991">arXiv</a> / <a href="https://ieeexplore.ieee.org/document/8970257">paper</a> / <a href="{{site.url}}/assets/pubs/HAIC2020_slides.pdf">presentation</a><br>
 				<span class="brHeight"></span>
 				<p id="lps_abs" style="font-style:italic; display:none; text-align:justify;">The Global Navigation Satellite Systems (GNSS) like GPS suffer from accuracy degradation and are almost unavailable in indoor environments. Indoor positioning systems (IPS) based on WiFi signals have been gaining popularity. However, owing to the strong spatial and temporal variations of wireless communication channels in the indoor environment, the achieved accuracy of existing IPS is around several tens of centimeters. We present the detailed design and implementation of a self-adaptive WiFi-based indoor distance estimation system using LSTMs. The system is novel in its method of estimating with high accuracy the distance of an object by overcoming possible causes of channel variations and is self-adaptive to the changing environmental and surrounding conditions. The proposed design has been developed and physically realized over a WiFi network consisting of ESP8266 (NodeMCU) devices. The experiments were conducted in a real indoor environment while changing the surroundings in order to establish the adaptability of the system. We compare different architectures for this task based on LSTMs, CNNs, and fully connected networks (FCNs). We show that the LSTM based model performs better among all the above-mentioned architectures by achieving an accuracy of 5.85 cm with a confidence interval of 93% on the scale of (8.46 m × 6.98 m). To the best of our knowledge, the proposed method outperforms other methods reported in the literature by a significant margin</p>
@@ -203,11 +205,11 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/btp_thesis.pdf"><papertitle>Optimal Pursuer-Evader Trajectory Estimation</papertitle></a>
-			<br><span class="brHeight"></span>
+			<projectTitle><a href="{{site.url}}/assets/pubs/btp_thesis.pdf">Optimal Pursuer-Evader Trajectory Estimation</a></projectTitle><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<strong>Advisor: </strong><a href="https://www.ee.iitb.ac.in/wiki/faculty/dc">Prof. Debraj Chakraborty</a>
-				<br><span class="brHeight"></span>
+				<strong>Advisor: </strong><a href="https://www.ee.iitb.ac.in/wiki/faculty/dc">Prof. Debraj Chakraborty</a><br>
+				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('btp_thesis_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/btp_thesis.pdf">thesis</a> / <a href="{{site.url}}/assets/pubs/btp_presentation.pdf">presentation</a><br>
 				<span class="brHeight"></span>
 				<p id="btp_thesis_abs" style="font-style:italic; display:none; text-align:justify;">In this report, we proposed an interaction rule between an evader and a pursuer and our objective was to try to find an optimal feedback control for the pursuer to drive the evaders to destination. With this regard, we first formulated our problem as a constrained optimization problem and solved using global search algorithm available in global optimization toolbox of matlab. The result from these experiments were then used to predict a feedback control algorithm but unfortunately this could not be made possible. Then we shifted from predicting ourselves to let the machine learn from the data and predict the trajectory for us. We used LSTM-based model with fully connected layers and posed the problem as a regression task to produce pursuer next position given current and past trajectory information of all the agents. The experimental results from the optimization task was used as dataset for this approach. After training, the trajectories were estimated iteratively for numerous initial conditions but we could not get the desired result. This approach requires modifications in order for it to work.</p>
@@ -221,10 +223,10 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>3D Handwritten Text Recognition using Smartwatch</papertitle>
-			<br><span class="brHeight"></span>
+			<projectTitle>3D Handwritten Text Recognition using Smartwatch</projectTitle><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
-				AI Intern at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> advised by <a href="https://www.linkedin.com/in/shankar-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
+				AI Intern at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> advised by <a href="https://www.linkedin.com/in/shankar-m-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
 				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('hand_text_recog_abs')">abstract</a><br>
 				<span class="brHeight"></span>
@@ -250,53 +252,17 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tr>
 		<td class="projectWallpaper">
 			<div>
-				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
+				<img src='{{ site.url }}/assets/images/autoregressive_generation_wallpaper.png' alt="SpeechEnhancement" width="100%">
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Adversarial Robustness Analysis of Deep Models</papertitle>
+			<projectTitle><a href="{{site.url}}/assets/pubs/survey_autoregressive_image_video_generation.pdf">Survey of Autoregressive Models for Image and Video Generation</a></projectTitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
-				<strong>Saqib Azim</strong>, <a href="https://lilyweng.github.io/">Prof. Lily Weng</a>
-				<br><span class="brHeight"></span>
-				<a href="javascript:toggleblock('adversarial_robustness_abs')">abstract</a>
-				<br><span class="brHeight"></span>
-				<p id="adversarial_robustness_abs" style="font-style:italic; display:none; text-align:justify;">We utilized attack methods such as FGSM, PGD, Auto-Attack to generate adversarial examples and conducted an empirical analysis of CLIP model's resilience to adversarial perturbations. I further developed robust CLIP-based classifier against L2-norm perturbations using adversarial training and randomized smoothing and evaluated the robust classifier on CIFAR10 and ImageNet datasets.</p>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="projectWallpaper">
-			<div>
-				<img src='{{ site.url }}/assets/images/particle_filter_slam_wallpaper.png' alt="SpeechEnhancement" width="100%">
-			</div>
-		</td>
-		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/particle_filter_slam_report.pdf"><papertitle>Particle-Filter SLAM and 2D Texture Mapping for Autonomous Navigation</papertitle></a>
-			<br><span class="brHeight"></span>
-			<div class="authorDetails">
-				<strong>Saqib Azim</strong>
-				<br><span class="brHeight"></span>
-				<a href="javascript:toggleblock('particle_filter_slam')">abstract</a> / <a href="{{site.url}}/assets/pubs/particle_filter_slam_report.pdf">report</a>
-				<br><span class="brHeight"></span>
-				<p id="particle_filter_slam" style="font-style:italic; display:none; text-align:justify;">In this project, we have successfully developed a SLAM (Simultaneous Localization and Mapping) system that integrates particle filters for concurrent localization and mapping of environments. This system harnesses data from a variety of sensors including encoders, LIDAR, IMU, and an RGBD Kinect camera. The project is structured in two main phases. Initially, we apply a particle filter algorithm for environment localization and mapping, utilizing data solely from LIDAR, encoders, and IMU sensors. In the subsequent phase, we enhance the generated map by adding textural details. This is achieved by incorporating data from the RGBD Kinect camera mounted on the robot, alongside the optimized robot trajectory derived from the particle filter algorithm employed in the first phase. This two-pronged approach allows for a more detailed and accurate representation of the mapped environment.</p>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td class="projectWallpaper">
-			<div>
-				<img src='{{ site.url }}/assets/images/autoregressive_generation_logo.png' alt="SpeechEnhancement" width="100%">
-			</div>
-		</td>
-		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/survey_autoregressive_image_video_generation.pdf"><papertitle>Survey of Autoregressive Models for Image and Video Generation</papertitle></a>
-			<br><span class="brHeight"></span>
-			<div class="authorDetails">
-				<strong>Saqib Azim</strong>, Mehul Arora, Narayanan Ranganatha, Mahesh Kumar
-				<br><span class="brHeight"></span>
-				<a href="javascript:toggleblock('autoregressive_generation_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/survey_autoregressive_image_video_generation.pdf">report</a>
-				<br><span class="brHeight"></span>
+				<strong>Saqib Azim</strong>, Mehul Arora, Narayanan Ranganatha, Mahesh Kumar<br>
+				<span class="brHeight"></span>
+				<a href="javascript:toggleblock('autoregressive_generation_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/survey_autoregressive_image_video_generation.pdf">report</a><br>
+				<span class="brHeight"></span>
 				<p id="autoregressive_generation_abs" style="font-style:italic; display:none; text-align:justify;">This survey paper offers a comprehensive overview of recent advances in autoregressive (AR) models for image and video generation. It discusses state-of-the-art AR models like PixelCNN, PixelRNN, Gated PixelCNN, and PixelSNAIL, emphasizing their unique archi- tectures and contributions. The main challenge in AR models, handling long-range dependencies effectively, is addressed through various approaches, such as gated activations, self-attention mechanisms, and residual blocks. The paper presents Locally Masked Convolution and Autoregressive Diffusion Models as examples of order-agnostic approaches, improving upon traditional autoregressive models. Transformer-based networks are explored for autoregressive image generation, showcasing superior performance in image quality and synthesis tasks. Quantization-based models enhance image diversity and quality through feature quantization and variational regularization. The paper then discusses Autoregressive modeling in pixel space and latent space for video generation. The paper concludes by discussing the strengths, limitations, and future research directions in autoregressive models for image and video generation, providing valuable insights for researchers and practitioners.</p>
 			</div>
 		</td>
@@ -308,14 +274,88 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf"><papertitle>Speech Enhancement using Wavelet-based Convolutional-Recurrent Network</papertitle></a>
-			<br><span class="brHeight"></span>
+			<projectTitle><a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf">Speech Enhancement using Wavelet-based Convolutional-Recurrent Network</a></projectTitle><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
-				Parthasarathi Kumar, <strong>Saqib Azim</strong>
-				<br><span class="brHeight"></span>
+				Parthasarathi Kumar, <strong>Saqib Azim</strong><br>
+				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('speech_enhancement_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_report.pdf">report</a> / <a href="{{site.url}}/assets/pubs/speech_enhancement_slides.pdf">presentation</a><br>
 				<span class="brHeight"></span>
 				<p id="speech_enhancement_abs" style="font-style:italic; display:none; text-align:justify;">In this project, we present an end-to-end data-driven system for enhancing the quality of speech signals using a convolutional-recurrent neural network. We present a quantitative and qualitative analysis of our speech enhancement system on a real-world noisy speech dataset and evaluate our proposed system's performance using several metrics such as SNR, PESQ, STOI, etc. We have employed wavelet pooling mechanism instead of max-pooling layer in the convolutional layer of our proposed model and compared the performances of these variants. Based on our experiments, we demonstrate that our model's performance on noisy speech signals using haar wavelet is better than when using max-pooling. In addition, wavelet based approach results in faster convergence during training as compared to other variants.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/semantic_pose_estimation_wallpaper.png' alt="Semantic Pose Estimation" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<projectTitle><a href="{{site.url}}/assets/pubs/semantic_temporal_constrained_pose_estimation_SfM_report.pdf">Semantic Temporal Constrained Pose Estimation using Structure-from-Motion</a></projectTitle><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+				Narayanan Ranganatha, <strong>Saqib Azim</strong>, Mehul Arora, Mahesh Kumar<br>
+				<span class="brHeight"></span>
+				<a href="javascript:toggleblock('semantic_pose_estimation_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/semantic_temporal_constrained_pose_estimation_SfM_report.pdf">report</a><br>
+				<span class="brHeight"></span>
+				<p id="semantic_pose_estimation_abs" style="font-style:italic; display:none; text-align:justify;">The objective of this project is to accurately estimate the 6D poses (position and orientation) of a monocular camera moving in an environment. We present an approach for visual pose estimation using the Structure from Motion (SfM) technique with temporally constrained frame matching and semantic assistance in the context of autonomous driving scenarios. We address the challenge of pose estimation in dynamic scene environments, which can introduce errors due to incorrect matching in the reconstruction of 3D scenes and the estimated trajectory using the SfM algorithm. Specifically, we use visual data from outdoor driving scenarios such as the KITTI dataset to evaluate our approach since accurate estimation of the car's pose in dynamic environments is crucial for autonomous driving applications. Our method contributes to this field by providing reliable and precise car pose information, thus advancing the development of autonomous driving systems.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/particle_filter_slam_wallpaper.png' alt="SpeechEnhancement" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<projectTitle><a href="{{site.url}}/assets/pubs/particle_filter_slam_report.pdf">Particle-Filter SLAM and 2D Texture Mapping for Autonomous Navigation</a></projectTitle><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+				<strong>Saqib Azim</strong><br>
+				<span class="brHeight"></span>
+				<a href="javascript:toggleblock('particle_filter_slam')">abstract</a> / <a href="{{site.url}}/assets/pubs/particle_filter_slam_report.pdf">report</a><br>
+				<span class="brHeight"></span>
+				<p id="particle_filter_slam" style="font-style:italic; display:none; text-align:justify;">In this project, we have successfully developed a SLAM (Simultaneous Localization and Mapping) system that integrates particle filters for concurrent localization and mapping of environments. This system harnesses data from a variety of sensors including encoders, LIDAR, IMU, and an RGBD Kinect camera. The project is structured in two main phases. Initially, we apply a particle filter algorithm for environment localization and mapping, utilizing data solely from LIDAR, encoders, and IMU sensors. In the subsequent phase, we enhance the generated map by adding textural details. This is achieved by incorporating data from the RGBD Kinect camera mounted on the robot, alongside the optimized robot trajectory derived from the particle filter algorithm employed in the first phase. This two-pronged approach allows for a more detailed and accurate representation of the mapped environment.</p>
+			</div>
+		</td>
+	</tr>
+	<!-- <tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<projectTitle>Hazardous Activity Detection in Factories and Industries</projectTitle><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+				<strong>Saqib Azim</strong>, Takumi Nito, Tomokazu Murakami<br>
+				<span class="brHeight"></span>
+				<em>Accepted at Hitachi Annual Research Symposium 2020</em><br>
+				<span class="brHeight"></span>
+				<a href="javascript:toggleblock('hazard_act_detect_abs')">abstract</a><br>
+				<span class="brHeight"></span>
+				<p id="hazard_act_detect_abs" style="font-style:italic; display:none; text-align:justify;">We utilized attack methods such as FGSM, PGD, Auto-Attack to generate adversarial examples and conducted an empirical analysis of CLIP model's resilience to adversarial perturbations. I further developed robust CLIP-based classifier against L2-norm perturbations using adversarial training and randomized smoothing and evaluated the robust classifier on CIFAR10 and ImageNet datasets.</p>
+			</div>
+		</td>
+	</tr> -->
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<projectTitle>Adversarial Robustness Analysis of Deep Models</projectTitle><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+				<strong>Saqib Azim</strong>, <a href="https://lilyweng.github.io/">Lily Weng</a><br>
+				<span class="brHeight"></span>
+				<a href="javascript:toggleblock('adversarial_robustness_abs')">abstract</a><br>
+				<span class="brHeight"></span>
+				<p id="adversarial_robustness_abs" style="font-style:italic; display:none; text-align:justify;">We utilized attack methods such as FGSM, PGD, Auto-Attack to generate adversarial examples and conducted an empirical analysis of CLIP model's resilience to adversarial perturbations. I further developed robust CLIP-based classifier against L2-norm perturbations using adversarial training and randomized smoothing and evaluated the robust classifier on CIFAR10 and ImageNet datasets.</p>
 			</div>
 		</td>
 	</tr>
@@ -326,12 +366,13 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf"><papertitle>TV Audience Measurement Challenge</papertitle></a>
-			<br><span class="brHeight"></span>
+			<projectTitle><a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">TV Audience Measurement Challenge</a></projectTitle><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <a href="https://saching007.github.io/">Sachin Goyal</a>, Sanyam Khandelwal, Tanmay Patil<br>
-				<em>Bronze Medal (3<sup>rd</sup> / 23 teams), <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">TV Audience Measurement Challenge</a>; Overall Runner-up (2<sup>nd</sup> / 23 IITs), <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Tech Meet 2018</a></em>
-				<br><span class="brHeight"></span>
+				<span class="brHeight"></span>
+				<em>Bronze Medal (3<sup>rd</sup> / 23 teams), <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">TV Audience Measurement Challenge</a>; Overall Runner-up (2<sup>nd</sup> / 23 IITs), <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Tech Meet 2018</a></em><br>
+				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('barc_interiit_abs')">abstract</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">presentation</a><br>
 				<span class="brHeight"></span>
 				<p id="barc_interiit_abs" style="font-style:italic; display:none; text-align:justify;">Proposed scalable and robust solutions for <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">various challenges</a> put forward by <a href="https://www.barcindia.co.in/">BARC India</a> such as channel identification, advertisement and content classification and recognition, age and gender recognition of viewers and providing hardware free solution in order to capture TV viewership data of the country</p>
@@ -345,11 +386,11 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Zero-Shot Learning (ZSL) for Object Recognition</papertitle>
-			<br><span class="brHeight"></span>
+			<projectTitle>Zero-Shot Learning for Object Recognition</projectTitle><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<strong>Advisor: </strong> <a href="https://www.ee.iitb.ac.in/~sc/main/main.html">Prof. Subhasis Chaudhuri</a>
-				<br><span class="brHeight"></span>
+				<strong>Advisor: </strong> <a href="https://www.ee.iitb.ac.in/~sc/main/main.html">Prof. Subhasis Chaudhuri</a><br>
+				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('zsl_abs')">abstract</a> / <a href="https://github.com/saqib1707/Zero-Shot-Learning">code</a><br>
 				<span class="brHeight"></span>
 				<p id="zsl_abs" style="font-style:italic; display:none; text-align:justify;">Proposed a semi-supervised VGG16-based encoder-decoder network to learn visual-to-semantic space mapping using novel combination of margin-based hinge-rank loss and Word2Vec embeddings. Explored multiple networks for better visual feature representations. Achieved improvement in recognition performance from 58.7% to 65.3% on the Animals with Attributes dataset over existing methods. </p>
@@ -363,11 +404,9 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<papertitle>Team Member - Autonomous Driving Car</papertitle>
-			<br><span class="brHeight"></span>
+			<projectTitle>Team Member - Autonomous Driving Car</projectTitle><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<!-- <strong>Advisor: </strong> <a href="https://www.ee.iitb.ac.in/~sc/main/main.html">Prof. Subhasis Chaudhuri</a> -->
-				<!-- <br><span class="brHeight"></span> -->
 				<a href="javascript:toggleblock('autonomouscar_abs')">abstract</a><br>
 				<span class="brHeight"></span>
 				<p id="autonomouscar_abs" style="font-style:italic; display:none; text-align:justify;">Worked on the vision and navigation pipelines of an autonomous car. Proposed a compute-efficient image processing algorithm to mitigate the effects of shadows and varying lighting conditions on roads. Managed the collection and annotation of a road dataset used to train our deep learning framework for road and obstacle detection.</p>
@@ -390,7 +429,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</script>
 		</td>
 		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/image_editor_report.pdf"><papertitle>Image Editor Module</papertitle></a>
+			<a href="{{site.url}}/assets/pubs/image_editor_report.pdf"><projectTitle>Image Editor Module</projectTitle></a>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<em>Course: Digital Image Processing</em>
@@ -406,14 +445,13 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<a href="{{site.url}}/assets/pubs/edl_report.pdf"><papertitle>Photoplethysmogram (PPG) Signal Acquisition Module</papertitle></a>
-			<br><span class="brHeight"></span>
+			<projectTitle><a href="{{site.url}}/assets/pubs/edl_report.pdf">Photoplethysmogram (PPG) Signal Acquisition Module</a></projectTitle><br>
+			<span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Advisor: </strong>
-				<a href="https://www.ee.iitb.ac.in/~pcpandey/">Prof. Prem C Pandey</a>
-				<br>
-				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, Ritik Madan
-				<br><span class="brHeight"></span>
+				<a href="https://www.ee.iitb.ac.in/~pcpandey/">Prof. Prem C Pandey</a><br>
+				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, Ritik Madan<br>
+				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('edl_ppg_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/edl_report.pdf">report</a><br>
 				<span class="brHeight"></span>
 				<p id="edl_ppg_abs" style="font-style:italic; display:none; text-align:justify;">A photoplethysmogram(PPG) is an optically obtained plethysmogram, a volumetric measurement of an organ. With each cardiac cycle the heart pumps blood to the periphery. The change in the volume caused by the blood is detected by illuminating the skin with IR light. We developed and implemented an electronic system to capture and display the PPG signal. We make infrared(IR) light incident on finger tip and measure the reflected IR light using a phototransistor which contains the PPG signal. The raw PPG signal is in the form of current output of the phototransistor, typically [0.2-0.4] mA, and we use a current to voltage converter to get the voltage signal. The raw PPG often has a large slowly varying baseline and it needs to be restored to optimally use the available ADC range. We carry out baseline restoration by controlling the bias voltage of the current injector using a microcontroller. We amplify the signal using a fixed value of gain resistor in the current to voltage converter. We also designed an auto-led intensity control to control the LED current and hence the emitted IR light in an effort to make the acquisition module adaptable to users with varying skin colours, motion artifacts etc. Finally we display the PPG signal on an android smartphone by transmitting the PPG signal over bluetooth.</p>
@@ -442,7 +480,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="bigprojectBody">
-			<papertitle>Graduate Teaching Assistant</papertitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
+			<otherTitle>Graduate Teaching Assistant</otherTitle>, <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a><br>
 			<span class="brHeight"></span>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
@@ -461,7 +499,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="bigprojectBody">
-			<papertitle>Teaching Assistant</papertitle>, <a href="https://www.iitb.ac.in/">IIT Bombay</a><br>
+			<otherTitle>Teaching Assistant</otherTitle>, <a href="https://www.iitb.ac.in/">IIT Bombay</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
 				EE 210 - Signals and Systems (Spring 2019) by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. J.K. Nair</a>
@@ -475,7 +513,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="bigprojectBody">
-			<papertitle>Teaching Volunteer</papertitle>, <a href="https://nss.iitb.ac.in/home/">National Service Scheme, IIT Bombay</a><br>
+			<otherTitle>Teaching Volunteer</otherTitle>, <a href="https://nss.iitb.ac.in/home/">National Service Scheme, IIT Bombay</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
 				<span class="brHeight"></span>
@@ -490,7 +528,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="bigprojectBody">
-			<papertitle>Mentor</papertitle>, <a href="http://mnp-club.github.io/sos/">Summer of Science ('19 & '20), IIT Bombay</a><br>
+			<otherTitle>Mentor</otherTitle>, <a href="http://mnp-club.github.io/sos/">Summer of Science ('19 & '20), IIT Bombay</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
 			<p>Provided guidance and mentorship to a group of students in AI, Machine Learning, Computer Vision and Image Processing. Assisted them in exploring project ideas and successfully completing their projects during summer.</p>
@@ -500,7 +538,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	</tr>
 	<!-- <tr>
 	<td class="projectBody">
-		<papertitle>Mentor</papertitle>, <a href="https://www.alumni.iitb.ac.in/en/newsletter-article/2017-06/institute-technical-summer-projects-itsp-kickstart">Institute Technical Summer Project '17, IIT Bombay</a><br>
+		<projectTitle>Mentor</projectTitle>, <a href="https://www.alumni.iitb.ac.in/en/newsletter-article/2017-06/institute-technical-summer-projects-itsp-kickstart">Institute Technical Summer Project '17, IIT Bombay</a><br>
 		<span class="brHeight"></span>
 		<div class="authorDetails">
 		<p>Guided 2 teams of UG students in building exciting and innovative ideas into working protoytpes over the course of summer</p>
@@ -529,7 +567,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 		</div>
 	</td>
     <td class="bigprojectBody">
-      <papertitle><a href="https://kivy.org/#home"><b>Kivy</b></a>, <a href="http://kivent.org"><b>KivEnt</b></a></papertitle> (open-source platforms for Python native UI development)<br>
+      <projectTitle><a href="https://kivy.org/#home">Kivy</a>, <a href="http://kivent.org">KivEnt</a></projectTitle> (open-source platforms for Python native UI development)<br>
       <span class="brHeight"></span>
       <div class="authorDetails">
         <span class="brHeight"></span>
