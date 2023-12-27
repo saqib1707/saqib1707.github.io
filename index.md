@@ -144,7 +144,8 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tr>
 		<td class="projectWallpaper">
 			<div>
-				<img src='{{ site.url }}/assets/images/robotic_manipulation_wallpaper.png'>
+				<!-- <img src='{{ site.url }}/assets/images/robotic_manipulation_wallpaper.png'> -->
+				<img src='{{ site.url }}/assets/images/robotic_manipulation_wallpaper.gif'>
 			</div>
 		</td>
 		<td class="projectBody">
@@ -187,7 +188,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<projectTitle><a href="https://arxiv.org/abs/2003.13991">Indoor Distance Estimation using LSTMs over WLAN Network</a></projectTitle><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <strong>Saqib Azim</strong>, <a href="https://saching007.github.io/">Sachin Goyal</a>, <a href="https://www.linkedin.com/in/tanya-choudhary-772660133/">Tanya Choudhary</a>, <a href="https://www.ee.iitb.ac.in/~akumar/">Kumar Appaiah</a>, <a href="https://www.sc.iitb.ac.in/~srikant/dokuwiki/doku.php/home">Sukumar Srikant</a><br>
+				Pranav Sankhe, <strong>Saqib Azim</strong>, Sachin Goyal, Tanya Choudhary, Kumar Appaiah, Sukumar Srikant<br>
 				<span class="brHeight"></span>
 				<em>IEEE 16th Workshop on Positioning, Navigation and Communications (WPNC)</em>, 2019<br>
 				<em>Indian Patent No. 467255, Awarded in November 2023</em><br>
@@ -205,7 +206,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<projectTitle><a href="{{site.url}}/assets/pubs/btp_thesis.pdf">Optimal Pursuer-Evader Trajectory Estimation</a></projectTitle><br>
+			<projectTitle><a href="{{site.url}}/assets/pubs/btp_thesis.pdf">Multiagent Pursuer-Evader Optimal Trajectory Estimation</a></projectTitle><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Advisor: </strong><a href="https://www.ee.iitb.ac.in/wiki/faculty/dc">Prof. Debraj Chakraborty</a><br>
@@ -226,7 +227,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<projectTitle>3D Handwritten Text Recognition using Smartwatch</projectTitle><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-				AI Intern at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> advised by <a href="https://www.linkedin.com/in/shankar-m-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
+				Machine Learning Intern at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> advised by <a href="https://www.linkedin.com/in/shankar-m-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
 				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('hand_text_recog_abs')">abstract</a><br>
 				<span class="brHeight"></span>
@@ -321,14 +322,14 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 	</tr>
-	<!-- <tr>
+	<tr>
 		<td class="projectWallpaper">
 			<div>
-				<img src='{{ site.url }}/assets/images/adversarial_CLIP_logo.png' alt="SpeechEnhancement" width="100%">
+				<img src='{{ site.url }}/assets/images/hazardous_activity_detection_wallpaper.png' alt="Hazardous Activity Detection Wallpaper" width="100%">
 			</div>
 		</td>
 		<td class="projectBody">
-			<projectTitle>Hazardous Activity Detection in Factories and Industries</projectTitle><br>
+			<projectTitle>Hazardous Activity Detection in Workplaces using Computer Vision</projectTitle><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Takumi Nito, Tomokazu Murakami<br>
@@ -337,10 +338,10 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('hazard_act_detect_abs')">abstract</a><br>
 				<span class="brHeight"></span>
-				<p id="hazard_act_detect_abs" style="font-style:italic; display:none; text-align:justify;">We utilized attack methods such as FGSM, PGD, Auto-Attack to generate adversarial examples and conducted an empirical analysis of CLIP model's resilience to adversarial perturbations. I further developed robust CLIP-based classifier against L2-norm perturbations using adversarial training and randomized smoothing and evaluated the robust classifier on CIFAR10 and ImageNet datasets.</p>
+				<p id="hazard_act_detect_abs" style="font-style:italic; display:none; text-align:justify;"></p>
 			</div>
 		</td>
-	</tr> -->
+	</tr>
 	<tr>
 		<td class="projectWallpaper">
 			<div>
@@ -348,10 +349,10 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<projectTitle>Adversarial Robustness Analysis of Deep Models</projectTitle><br>
+			<projectTitle>Adversarial Robustness Analysis of Deep Learning Models</projectTitle><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<strong>Saqib Azim</strong>, <a href="https://lilyweng.github.io/">Lily Weng</a><br>
+				<strong>Saqib Azim</strong>, Lily Weng<br>
 				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('adversarial_robustness_abs')">abstract</a><br>
 				<span class="brHeight"></span>
@@ -369,9 +370,9 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<projectTitle><a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">TV Audience Measurement Challenge</a></projectTitle><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, <a href="https://saching007.github.io/">Sachin Goyal</a>, Sanyam Khandelwal, Tanmay Patil<br>
+				<strong>Saqib Azim</strong>, Pranav Sankhe, Sachin Goyal, Sanyam Khandelwal, Tanmay Patil<br>
 				<span class="brHeight"></span>
-				<em>Bronze Medal (3<sup>rd</sup> / 23 teams), <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">TV Audience Measurement Challenge</a>; Overall Runner-up (2<sup>nd</sup> / 23 IITs), <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Tech Meet 2018</a></em><br>
+				<em>Bronze Medal (3<sup>rd</sup> / 23 teams) in the <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">TV Audience Measurement Challenge</a> at the <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Technical Meet 2018</a></em><br>
 				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('barc_interiit_abs')">abstract</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">presentation</a><br>
 				<span class="brHeight"></span>
@@ -448,9 +449,9 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<projectTitle><a href="{{site.url}}/assets/pubs/edl_report.pdf">Photoplethysmogram (PPG) Signal Acquisition Module</a></projectTitle><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<strong>Advisor: </strong>
-				<a href="https://www.ee.iitb.ac.in/~pcpandey/">Prof. Prem C Pandey</a><br>
-				<strong>Saqib Azim</strong>, <a href="https://sabsathai.github.io/">Pranav Sankhe</a>, Ritik Madan<br>
+				<!-- <strong>Advisor: </strong> -->
+				<!-- <a href="https://www.ee.iitb.ac.in/~pcpandey/">Prof. Prem C Pandey</a><br> -->
+				<strong>Saqib Azim</strong>, Pranav Sankhe, Ritik Madan<br>
 				<span class="brHeight"></span>
 				<a href="javascript:toggleblock('edl_ppg_abs')">abstract</a> / <a href="{{site.url}}/assets/pubs/edl_report.pdf">report</a><br>
 				<span class="brHeight"></span>

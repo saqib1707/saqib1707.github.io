@@ -288,7 +288,7 @@ otherTitle {
 .brHeight {
     // line-height: 20px;
     display: block; 
-    margin-bottom: 0.5em; 
+    margin-bottom: 15px; 
 }
 
 heading {
@@ -309,21 +309,21 @@ confName {
 }
 
 .projectWallpaper {
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    padding-top: 40px;
     width: 25%;
-    vertical-align: top;
+    vertical-align: middle;
 }
 
 .projectBody {
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-top: 40px;
     width: 75%;
-    vertical-align: top;
+    vertical-align: middle;
 }
 
 .smallprojectWallpaper {

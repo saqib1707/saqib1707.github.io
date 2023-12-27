@@ -3,6 +3,7 @@ _site
 __pycache__/
 .jekyll
 .jekyll-metadata
+.jekyll-cache/
 .bundle
 .sass-cache
 Gemfile
