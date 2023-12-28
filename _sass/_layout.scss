@@ -50,16 +50,26 @@
     }
 
     .page-link {
-        color: $text-color;
+        // color: $text-color;
+        color: $brand-color;
+        text-decoration: none;
+        font-weight: $base-font-weight+300;
         line-height: $base-line-height;
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
         }
+        &:focus, 
         &:hover {
-            text-decoration: underline;
+            color: $hover-color;
+            // text-decoration: underline;
         }
     }
+
+    /* The below visited makes the site worse */
+    // &:visited {
+    //     color: darken($brand-color, 15%);
+    // }
 
     @include media-query($on-palm) {
         position: absolute;

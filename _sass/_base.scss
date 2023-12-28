@@ -298,7 +298,7 @@ heading {
     color:#8B0000;
     
     &:hover {
-        text-decoration: underline;
+        text-decoration: None;
     }
 }
 
@@ -314,7 +314,7 @@ confName {
     padding-bottom: 40px;
     padding-top: 40px;
     width: 25%;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 .projectBody {
@@ -323,7 +323,7 @@ confName {
     padding-bottom: 40px;
     padding-top: 40px;
     width: 75%;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 .smallprojectWallpaper {
