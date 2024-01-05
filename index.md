@@ -13,8 +13,8 @@ layout: page
 <div>
 	<p>Hey there! I am a recent Masters graduate from <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a>. I am a student researcher at the <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> within the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Team at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Group</a> in Japan, where I was advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a>. My current research focuses on machine learning, reinforcement learning, computer vision, and robotics.</p>
 	<p>Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering with Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> (Summer 2018). </p>
-	<p><b>Email ID</b>: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a></p>
-	<p><b>I am actively looking for internship / full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b></p>
+	<p><b>Email</b>: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a></p><br>
+	<!-- <p><b>I am actively looking for internship / full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b></p> -->
 </div>
 
 <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
@@ -398,22 +398,6 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 	</tr>
-	<tr>
-		<td class="projectWallpaper">
-			<div>
-				<img src='{{ site.url }}/assets/images/autonomouscar_wallpaper.png' alt="EDL" width="100%">
-			</div>
-		</td>
-		<td class="projectBody">
-			<projectTitle>Team Member - Autonomous Driving Car</projectTitle><br>
-			<span class="brHeight"></span>
-			<div class="authorDetails">
-				<a href="javascript:toggleblock('autonomouscar_abs')">abstract</a><br>
-				<span class="brHeight"></span>
-				<p id="autonomouscar_abs" style="font-style:italic; display:none; text-align:justify;">Worked on the vision and navigation pipelines of an autonomous car. Proposed a compute-efficient image processing algorithm to mitigate the effects of shadows and varying lighting conditions on roads. Managed the collection and annotation of a road dataset used to train our deep learning framework for road and obstacle detection.</p>
-			</div>
-		</td>
-	</tr>
 	<!-- <tr>
 		<td class="projectWallpaper">
 			<div>
@@ -503,7 +487,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<otherTitle>Teaching Assistant</otherTitle>, <a href="https://www.iitb.ac.in/">IIT Bombay</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-				EE 210 - Signals and Systems (Spring 2019) by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. J.K. Nair</a>
+				[1] EE 210 - Signals and Systems (Spring 2019) by <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. J.K. Nair</a>
 			</div>
 		</td>
 	</tr>
@@ -529,10 +513,10 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="bigprojectBody">
-			<otherTitle>Mentor</otherTitle>, <a href="http://mnp-club.github.io/sos/">Summer of Science ('19 & '20), IIT Bombay</a><br>
+			<otherTitle>Mentor</otherTitle>, <a href="http://mnp-club.github.io/sos/">Summer of Science (2019, 2020), IIT Bombay</a><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-			<p>Provided guidance and mentorship to a group of students in AI, Machine Learning, Computer Vision and Image Processing. Assisted them in exploring project ideas and successfully completing their projects during summer.</p>
+			<p>Guided undergraduate and graduate students to develop and successfully complete projects in the areas of Machine Learning, Computer Vision, and Image Processing.</p>
 			<!-- <p>Helped 2 Masters', 4 UG students to learn topics in the field of AI, machine learning, vision and image processing. Guided students through project ideation and completion during summer</p> -->
 			</div>
 		</td>
@@ -553,7 +537,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 <tbody>
   <tr>
     <td>
-      <heading>Open Source Contribution</heading>
+      <heading>Other Contributions</heading>
     </td>
   </tr>
 </tbody>
@@ -561,21 +545,37 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-bottom:15px">
 <tbody>
-  <tr>
-	<td class="smallprojectWallpaper">
-		<div>
-			<img src='{{ site.url }}/assets/images/kivy_logo.png' alt="Kivy_logo" width="100%">
-		</div>
-	</td>
-    <td class="bigprojectBody">
-      <projectTitle><a href="https://kivy.org/#home">Kivy</a>, <a href="http://kivent.org">KivEnt</a></projectTitle> (open-source platforms for Python native UI development)<br>
-      <span class="brHeight"></span>
-      <div class="authorDetails">
-        <span class="brHeight"></span>
-        <p>Introduced several new features, worked on map integration for KivEnt game engine interfaces, solved multiple development bugs and issues.</p>
-        <!-- <p>Contributed to several open source projects for Kivy. Merged 9 pull request (PR) to Kivy and 2 PR to Kivent. Introduced a new feature in Kivent to get tile index given the pixel values for orthogonal, isometric, staggered isometric and hexagonal game maps by analyzing their geometrical construction</p> -->
-      </div>
-    </td>
-  </tr>
+	<tr>
+		<td class="smallprojectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/autonomouscar_wallpaper.png' width="100%">
+			</div>
+		</td>
+		<td class="bigprojectBody">
+			<otherTitle>Member</otherTitle>, <projectTitle>Autonomous Driving Car Team @ IIT Bombay</projectTitle><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+				<a href="javascript:toggleblock('autonomouscar_abs')">summary</a><br>
+				<span class="brHeight"></span>
+				<p id="autonomouscar_abs" style="font-style:italic; display:none; text-align:justify;">Worked on the vision and navigation pipelines of an autonomous car. Proposed a compute-efficient image processing algorithm to mitigate the effects of shadows and varying lighting conditions on roads. Managed the collection and annotation of a road dataset used to train our deep learning framework for road and obstacle detection.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="smallprojectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/kivy_logo.png' alt="Kivy_logo" width="100%">
+			</div>
+		</td>
+		<td class="bigprojectBody">
+			<projectTitle><a href="https://kivy.org/#home">Kivy</a>, <a href="http://kivent.org">KivEnt</a></projectTitle> (open-source platforms for Python native UI development)<br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+			<span class="brHeight"></span>
+			<p>Introduced several new features, worked on map integration for KivEnt game engine interfaces, resolved multiple software bugs and issues.</p>
+			<!-- <p>Contributed to several open source projects for Kivy. Merged 9 pull request (PR) to Kivy and 2 PR to Kivent. Introduced a new feature in Kivent to get tile index given the pixel values for orthogonal, isometric, staggered isometric and hexagonal game maps by analyzing their geometrical construction</p> -->
+			</div>
+		</td>
+	</tr>
 </tbody>
 </table>
