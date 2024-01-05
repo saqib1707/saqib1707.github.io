@@ -229,7 +229,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div class="authorDetails">
 				Machine Learning Intern at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> advised by <a href="https://www.linkedin.com/in/shankar-m-venkatesan-7a849258/">Dr. Shankar Venkatesan</a><br>
 				<span class="brHeight"></span>
-				<a href="javascript:toggleblock('hand_text_recog_abs')">abstract</a><br>
+				<a href="javascript:toggleblock('hand_text_recog_abs')">summary</a><br>
 				<span class="brHeight"></span>
 				<p id="hand_text_recog_abs" style="font-style:italic; display:none; text-align:justify;">As part of the text recognition team at the Advanced Technology Lab, I played a key role in developing a 3D handwritten text recognition system that estimated wrist and hand movements using smartwatch IMU sensors. One of the major challenges we faced was modeling sensor noise, which resulted in significant drifts in the generated characters. To mitigate this issue, I implemented adaptive frequency filters to preprocess the raw signals and improve the signal-to-noise ratio. I also designed the data collection procedures for training our system, utilizing a pipelined SVM and LSTM model to learn the relation between hand movements and character patterns, thus achieving an impressive 95% accuracy on unseen test data.</p>
 			</div>
@@ -242,7 +242,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tbody>
 		<tr>
 			<td>
-				<heading>Academic and Misc. Projects</heading>
+				<heading>Miscellaneous Projects</heading>
 			</td>
 		</tr>
 	</tbody>
@@ -336,9 +336,9 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<span class="brHeight"></span>
 				<em>Accepted at Hitachi Annual Research Symposium 2020</em><br>
 				<span class="brHeight"></span>
-				<a href="javascript:toggleblock('hazard_act_detect_abs')">abstract</a><br>
-				<span class="brHeight"></span>
-				<p id="hazard_act_detect_abs" style="font-style:italic; display:none; text-align:justify;"></p>
+				<!-- <a href="javascript:toggleblock('hazard_act_detect_abs')">abstract</a><br> -->
+				<!-- <span class="brHeight"></span> -->
+				<!-- <p id="hazard_act_detect_abs" style="font-style:italic; display:none; text-align:justify;"></p> -->
 			</div>
 		</td>
 	</tr>
@@ -352,9 +352,9 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<projectTitle>Adversarial Robustness Analysis of Deep Learning Models</projectTitle><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<strong>Saqib Azim</strong>, Lily Weng<br>
+				<strong>Saqib Azim</strong>, <a href="https://lilywenglab.github.io/">Lily Weng</a><br>
 				<span class="brHeight"></span>
-				<a href="javascript:toggleblock('adversarial_robustness_abs')">abstract</a><br>
+				<a href="javascript:toggleblock('adversarial_robustness_abs')">summary</a><br>
 				<span class="brHeight"></span>
 				<p id="adversarial_robustness_abs" style="font-style:italic; display:none; text-align:justify;">We utilized attack methods such as FGSM, PGD, Auto-Attack to generate adversarial examples and conducted an empirical analysis of CLIP model's resilience to adversarial perturbations. I further developed robust CLIP-based classifier against L2-norm perturbations using adversarial training and randomized smoothing and evaluated the robust classifier on CIFAR10 and ImageNet datasets.</p>
 			</div>
@@ -372,9 +372,9 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Pranav Sankhe, Sachin Goyal, Sanyam Khandelwal, Tanmay Patil<br>
 				<span class="brHeight"></span>
-				<em>Bronze Medal (3<sup>rd</sup> / 23 teams) in the <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">TV Audience Measurement Challenge</a> at the <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Technical Meet 2018</a></em><br>
+				<em>Bronze Medal (3<sup>rd</sup> / 23 teams) at the <a href="https://www.iitb.ac.in/en/event/7th-inter-iit-tech-meet">Inter-IIT Technical Meet 2018</a></em><br>
 				<span class="brHeight"></span>
-				<a href="javascript:toggleblock('barc_interiit_abs')">abstract</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">presentation</a><br>
+				<a href="javascript:toggleblock('barc_interiit_abs')">summary</a> / <a href="https://github.com/saqib1707/TV-Audience-Measurement">code</a> / <a href="{{ site.url }}/assets/pubs/barc_interiit_presentation.pdf">presentation</a><br>
 				<span class="brHeight"></span>
 				<p id="barc_interiit_abs" style="font-style:italic; display:none; text-align:justify;">Proposed scalable and robust solutions for <a href="https://saqib1707.github.io/assets/pubs/problem_statement_barc.pdf">various challenges</a> put forward by <a href="https://www.barcindia.co.in/">BARC India</a> such as channel identification, advertisement and content classification and recognition, age and gender recognition of viewers and providing hardware free solution in order to capture TV viewership data of the country</p>
 			</div>
@@ -392,7 +392,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div class="authorDetails">
 				<strong>Advisor: </strong> <a href="https://www.ee.iitb.ac.in/~sc/main/main.html">Prof. Subhasis Chaudhuri</a><br>
 				<span class="brHeight"></span>
-				<a href="javascript:toggleblock('zsl_abs')">abstract</a> / <a href="https://github.com/saqib1707/Zero-Shot-Learning">code</a><br>
+				<a href="javascript:toggleblock('zsl_abs')">summary</a> / <a href="https://github.com/saqib1707/Zero-Shot-Learning">code</a><br>
 				<span class="brHeight"></span>
 				<p id="zsl_abs" style="font-style:italic; display:none; text-align:justify;">Proposed a semi-supervised VGG16-based encoder-decoder network to learn visual-to-semantic space mapping using novel combination of margin-based hinge-rank loss and Word2Vec embeddings. Explored multiple networks for better visual feature representations. Achieved improvement in recognition performance from 58.7% to 65.3% on the Animals with Attributes dataset over existing methods. </p>
 			</div>
@@ -552,10 +552,10 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="bigprojectBody">
-			<otherTitle>Member</otherTitle>, <projectTitle>Autonomous Driving Car Team @ IIT Bombay</projectTitle><br>
+			<otherTitle>Member</otherTitle>, <projectTitle><a href="https://www.youtube.com/watch?v=8lNKjX0-RKY&ab_channel=InnovationCell-UMICIITBombay">Autonomous Car Team @ IIT Bombay</a></projectTitle><br>
 			<span class="brHeight"></span>
 			<div class="authorDetails">
-				<a href="javascript:toggleblock('autonomouscar_abs')">summary</a><br>
+				<a href="javascript:toggleblock('autonomouscar_abs')">summary</a> / <a href="https://www.youtube.com/watch?v=8lNKjX0-RKY&ab_channel=InnovationCell-UMICIITBombay">video</a><br>
 				<span class="brHeight"></span>
 				<p id="autonomouscar_abs" style="font-style:italic; display:none; text-align:justify;">Worked on the vision and navigation pipelines of an autonomous car. Proposed a compute-efficient image processing algorithm to mitigate the effects of shadows and varying lighting conditions on roads. Managed the collection and annotation of a road dataset used to train our deep learning framework for road and obstacle detection.</p>
 			</div>
