@@ -172,7 +172,7 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Takumi Nito, <a href="https://www.linkedin.com/in/katsuyuki-nakamura-19b9bb88/?originalSubdomain=jp">Katsuyuki Nakamura</a><br>
 				<span class="brHeight"></span>
-				<em>Japan Patent Filed in Aug '21 (pending)</em><br>
+				<em>Japan Patent Application Filed in Aug 2021 (pending)</em><br>
 				<span class="brHeight"></span>
 				<a href="{{site.url}}/assets/pubs/slam_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br>
 			</div>

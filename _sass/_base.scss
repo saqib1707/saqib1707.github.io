@@ -302,6 +302,20 @@ heading {
     }
 }
 
+headingLink {
+  font-family: $base-font-family;
+  font-size: $base-font-size * 1.5;
+  font-weight: $base-font-weight+100;
+  color:#8B0000;
+
+  &:focus, 
+  &:hover {
+      color: $hover-color;
+      text-decoration: None;
+      // text-decoration: underline;
+  }
+}
+
 confName {
     font-family: $base-font-family;
     font-size: $small-font-size;
