@@ -325,6 +325,24 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	<tr>
 		<td class="projectWallpaper">
 			<div>
+				<img src='{{ site.url }}/assets/images/gpt2_wallpaper.png' alt="GPT2 PyTorch" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<projectTitle><a href="https://github.com/saqib1707/gpt2-from-scratch">GPT-2 Implementation in PyTorch</a></projectTitle><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+				<!-- <strong>Saqib Azim</strong><br> -->
+				<!-- <span class="brHeight"></span> -->
+				<a href="javascript:toggleblock('gpt2_abs')">abstract</a> / <a href="https://github.com/saqib1707/gpt2-from-scratch">code</a><br>
+				<span class="brHeight"></span>
+				<p id="gpt2_abs" style="font-style:italic; display:none; text-align:justify;">This project involves implementing OpenAI's GPT-2 model from scratch in PyTorch, trained on the FineWebEdu dataset. The code is structured modularly, offering customizable hyperparameters for training and inference.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
 				<img src='{{ site.url }}/assets/images/hazardous_activity_detection_wallpaper.png' alt="Hazardous Activity Detection Wallpaper" width="100%">
 			</div>
 		</td>
