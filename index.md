@@ -185,12 +185,12 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<projectTitle>Near Real-Time WildFire Damage Assessment using Aerial Thermal Imagery and Machine Learning</projectTitle>
+			<projectTitle>Near Real-Time WildFire Damage Assessment using Aerial Thermal Imagery and Deep Learning</projectTitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Mai Nguyen, Daniel Crawl, Jessica Block, Rawaf Al Rawaf, Francesca Hart, Mark Campbell, Robert Scott, Ilkay Altintas<br>
 				<span class="brHeight"></span>
-				<em>Submitted to 2024 IEEE International Conference on Big Data</em><br>
+				<em>Accepted to 2024 IEEE International Conference on Big Data</em><br>
 				<span class="brHeight"></span>
 				<!-- <a href="{{site.url}}/assets/pubs/slam_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br> -->
 			</div>
@@ -337,6 +337,24 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 				<a href="javascript:toggleblock('particle_filter_slam')">abstract</a> / <a href="{{site.url}}/assets/pubs/particle_filter_slam_report.pdf">report</a><br>
 				<span class="brHeight"></span>
 				<p id="particle_filter_slam" style="font-style:italic; display:none; text-align:justify;">In this project, we have successfully developed a SLAM (Simultaneous Localization and Mapping) system that integrates particle filters for concurrent localization and mapping of environments. This system harnesses data from a variety of sensors including encoders, LIDAR, IMU, and an RGBD Kinect camera. The project is structured in two main phases. Initially, we apply a particle filter algorithm for environment localization and mapping, utilizing data solely from LIDAR, encoders, and IMU sensors. In the subsequent phase, we enhance the generated map by adding textural details. This is achieved by incorporating data from the RGBD Kinect camera mounted on the robot, alongside the optimized robot trajectory derived from the particle filter algorithm employed in the first phase. This two-pronged approach allows for a more detailed and accurate representation of the mapped environment.</p>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="projectWallpaper">
+			<div>
+				<img src='{{ site.url }}/assets/images/ppo_wallpaper.gif' alt="PPO PyTorch" width="100%">
+			</div>
+		</td>
+		<td class="projectBody">
+			<projectTitle><a href="https://github.com/saqib1707/RL-PPO-PyTorch">Proximal Policy Optimization (PPO) PyTorch Implementation</a></projectTitle><br>
+			<span class="brHeight"></span>
+			<div class="authorDetails">
+				<!-- <strong>Saqib Azim</strong><br> -->
+				<!-- <span class="brHeight"></span> -->
+				<a href="javascript:toggleblock('gpt2_abs')">abstract</a> / <a href="https://github.com/saqib1707/RL-PPO-PyTorch">code</a><br>
+				<span class="brHeight"></span>
+				<p id="ppo_abs" style="font-style:italic; display:none; text-align:justify;">This project involves implementing PPO from scratch in PyTorch, trained on the FineWebEdu dataset. The code is structured modularly, offering customizable hyperparameters for training and inference.</p>
 			</div>
 		</td>
 	</tr>
