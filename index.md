@@ -342,9 +342,13 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 	</tr>
 	<tr>
 		<td class="projectWallpaper">
-			<div>
+			<!-- <div>
 				<img src='{{ site.url }}/assets/images/ppo_wallpaper.gif' alt="PPO PyTorch" width="100%">
-			</div>
+			</div> -->
+			<div style="display: flex; justify-content: space-between;">
+				<img src="{{ site.url }}/assets/images/cartpole_wallpaper.gif" alt="CartPole" width="49%">
+				<img src="{{ site.url }}/assets/images/lunarlander_wallpaper.gif" alt="LunarLander" width="49%">
+        	</div>
 		</td>
 		<td class="projectBody">
 			<projectTitle><a href="https://github.com/saqib1707/RL-PPO-PyTorch">Proximal Policy Optimization (PPO) PyTorch Implementation</a></projectTitle><br>
@@ -352,9 +356,9 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			<div class="authorDetails">
 				<!-- <strong>Saqib Azim</strong><br> -->
 				<!-- <span class="brHeight"></span> -->
-				<a href="javascript:toggleblock('gpt2_abs')">abstract</a> / <a href="https://github.com/saqib1707/RL-PPO-PyTorch">code</a><br>
+				<a href="javascript:toggleblock('ppo_abs')">abstract</a> / <a href="https://github.com/saqib1707/RL-PPO-PyTorch">code</a><br>
 				<span class="brHeight"></span>
-				<p id="ppo_abs" style="font-style:italic; display:none; text-align:justify;">This project involves implementing PPO from scratch in PyTorch, trained on the FineWebEdu dataset. The code is structured modularly, offering customizable hyperparameters for training and inference.</p>
+				<p id="ppo_abs" style="font-style:italic; display:none; text-align:justify;">This repository offers a beginner-friendly, modular implementation of Proximal Policy Optimization (PPO) with a clipped objective in PyTorch, supporting both continuous and discrete action spaces. It includes YAML-based configuration for customizable hyperparameters and is compatible with OpenAI Gym environments like CartPole, LunarLander and HalfCheetah, providing a flexible framework for experimenting with reinforcement learning algorithms and adapting to custom environments.</p>
 			</div>
 		</td>
 	</tr>
