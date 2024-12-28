@@ -14,7 +14,7 @@ layout: page
 	<p>Hey there! I am currently working as an AI/ML Engineer at the San Diego Supercomputer Center, UC San Diego. I completed my Masters from <a href="https://jacobsschool.ucsd.edu/">UC San Diego</a> in 2023, where I was a student researcher at the <a href="http://erl.ucsd.edu/">Existential Robotics Lab</a> within the <a href="https://contextualrobotics.ucsd.edu/">Contextual Robotics Institute</a> working under the supervision of <a href="https://natanaso.github.io/">Prof. Nikolay Atanasov</a>. Previously, I was an assistant researcher in the Intelligent Vision Research Team at <a href="https://www.hitachi.com/rd/index.html">Hitachi R&D Group</a> in Japan, where I was advised by <a href="https://jp.linkedin.com/in/katsuyuki-nakamura-19b9bb88">Dr. Katsuyuki Nakamura</a>. My research interests are in machine learning, reinforcement learning, computer vision, and robotics.</p>
 	<p>Prior to this, I graduated from <a href="https://www.iitb.ac.in/">IIT Bombay</a>, earning B.Tech in Electrical Engineering with Minor in Computer Science, and received Undergraduate Research Award 2019. I have also interned at <a href="https://research.samsung.com/sri-b">Samsung R&D Institute</a> (Summer 2018). </p>
 	<p><b>Email</b>: <a href="mailto: sazim@ucsd.edu">sazim@ucsd.edu</a></p><br>
-	<p><b>I am actively looking for internship / full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b></p>
+	<!-- <p><b>I am actively looking for internship / full-time positions in industry. If you think I may be a good fit, feel free to reach out to me!</b></p> -->
 </div>
 
 <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto">
