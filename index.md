@@ -185,14 +185,15 @@ I also joined an on-campus student-driven team, [Innovation Cell](http://www.umi
 			</div>
 		</td>
 		<td class="projectBody">
-			<projectTitle>Near Real-Time WildFire Damage Assessment using Aerial Thermal Imagery and Deep Learning</projectTitle>
+			<projectTitle>Near Real-Time WildFire Damage Assessment using Aerial Thermal Imagery and Machine Learning</projectTitle>
 			<br><span class="brHeight"></span>
 			<div class="authorDetails">
 				<strong>Saqib Azim</strong>, Mai Nguyen, Daniel Crawl, Jessica Block, Rawaf Al Rawaf, Francesca Hart, Mark Campbell, Robert Scott, Ilkay Altintas<br>
 				<span class="brHeight"></span>
-				<em>Accepted to 2024 IEEE International Conference on Big Data</em><br>
+				<em>IEEE International Conference on Big Data, 2024</em><br>
 				<span class="brHeight"></span>
-				<!-- <a href="{{site.url}}/assets/pubs/slam_thesis.pdf">report</a> / <a href="{{site.url}}/assets/pubs/slam_review_slides.pdf">presentation</a><br> -->
+				<a href="https://ieeexplore.ieee.org/document/10826086">paper</a>
+				<!-- / <a href="{{site.url}}/assets/pubs/damage_assessment_slides.pdf">presentation</a><br> -->
 			</div>
 		</td>
 	</tr>
